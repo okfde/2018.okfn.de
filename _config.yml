@@ -1,0 +1,60 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+title: Tätigkeitsbericht der Open Knowledge Foundation 2018
+description: > # this means to ignore newlines until "show_exerpts:"
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est .
+#main_image: http://placekitten.com/900/600
+show_excerpts: false # set to true to show excerpts on the homepage
+
+license:
+  holder: Open Knowledge Foundation Deutschland
+  license: License CC BY-SA 3.0
+mainpage:
+  url: https://okfn.de
+  pdf: /fake/link/to.pdf
+  label: Zurück zur OKF Website
+  year: 2018
+chapter:
+  effects:
+    - label: Das Problem
+      key: problem
+    - label: Lösungsansatz
+      key: solution
+    - label: Angestrebte Wirkung
+      key: effect
+  resources:
+    - label: Projektlaufzeit
+      key: timespan
+    - label: Finanzierung
+      key: funding
+  outcomes:
+    - label: Erbrachte Leistungen
+      key: achievements
+    - label: Output
+      key: outputs
+    - label: Outcome
+      key: outcome
+    - label: Evaluation und Ausblick
+      key: evaluation
+
+# matomo:
+#   url: //to-your-matomo.tdl
+#   id: projectID
+
+
+# Build settings
+markdown: kramdown
+theme: okf-pub-theme
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
