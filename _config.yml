@@ -3,7 +3,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 title: Tätigkeitsbericht der Open Knowledge Foundation 2018
 description: > # this means to ignore newlines until "show_exerpts:"
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est .
+  Unser Tätigkeitsbericht enthält detaillierte Angaben zu den Entwicklungen unserer Organisation und unserer Projekte. Seit 2017 orientiert sich unser Jahresbericht am Social Reporting Standard.
 #main_image: http://placekitten.com/900/600
 show_excerpts: false # set to true to show excerpts on the homepage
 
