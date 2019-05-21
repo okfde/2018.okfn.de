@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.4
+chapter: 2.3
 title: 2030-Watch
 permalink: /open-government/2030-Watch/
 visual:
@@ -48,28 +48,38 @@ resources:
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     * In 2017 wurde das Pilotprojekt 2030Watch strategisch überarbeitet, um es als festes Projekt zum Thema Agenda 2030 in Deutschland zu platzieren.
+    
     * Die strategische Entwicklung hat eine politische und stakeholder-basierte Umfeld- und Methodenanalyse sowie eine Untersuchung der inhaltlichen Ausrichtung beinhaltet.
+    
     * Die Neugestaltung der digitalen Plattform von 2030Watch wurde unter der Berücksichtigung der erfolgten Ergebnisse umgesetzt und in 2018 mit allen 17 SDGs gelauncht.
 outputs: >
-    - Lorem ipsum
-    - 10 Vorträge
     * 10 Vernetzungstreffen
-    * 15 Konferenzteilnahme
+    
+    * 15 Konferenzteilnahmen
+    
     * Neuentwurf Strategie
+    
     * Neues Webkonzept
+    
     * 60 Alternative (bis her nicht berücksichtigte) Indikatoren
-    * Lokale Partnerschaftskonzept
+    
+    * Konzept für lokale Partnerschaften
+    
     * 7 Blogartikel
+    
     * 1 Bericht zur Voraussetzung von SDG-Monitoring auf kommunaler Ebene
 
 outcome: >
      Das Projekt 2030Watch hat seit seinem Beginn das Thema alternative Nachhaltigkeitsindikatoren in der SDG Debatte in Deutschland gefestigt. Dies aber noch in relativen kleinen Expertenkreisen. Mit der neuen Ausrichtung und Plattform hat 2030Watch in 2018 die kritische Verantwortung Deutschlands für eine ambitionierte Nachhaltigkeitspolitik weiter in die Öffentlichkeit getragen.
 evaluation:  >
-    In 2017 sind verschiedene Vorgehen innerhalb der Projektarbeit weiter konkretisiert und angepasst worden. Die Evaluation fand über Befragungen statt, weitere wertvolle Impulse für eine Konzeptanpassung konnten durch das aufgebaute Netzwerk erreicht werden. Davon ausgehend wurden u.a. die Ausrichtung an der deutschen Nachhaltigkeitsstrategie festgelegt und die Auswahl der Zielgruppen erneut bewertet sowie teilweise neu definiert.
-    Ein weiteres Feedback war der Bedarf an noch leichter zugänglichen Informationen. Dabei sind sowohl die inhaltliche Aufbereitung und Fokussierung als auch die Usability des indikatorenbasierten Monitroingtools von wesentlicher Bedeutung.
+    * In 2017 sind verschiedene Vorgehen innerhalb der Projektarbeit weiter konkretisiert und angepasst worden. Die Evaluation fand über Befragungen statt, weitere wertvolle Impulse für eine Konzeptanpassung konnten durch das aufgebaute Netzwerk erreicht werden. Davon ausgehend wurden u.a. die Ausrichtung an der deutschen Nachhaltigkeitsstrategie festgelegt und die Auswahl der Zielgruppen erneut bewertet sowie teilweise neu definiert.
+
+    * Ein weiteres Feedback war der Bedarf an noch leichter zugänglichen Informationen. Dabei sind sowohl die inhaltliche Aufbereitung und Fokussierung als auch die Usability des indikatorenbasierten Monitroingtools von wesentlicher Bedeutung.
     Entsprechend ist das überarbeitete Tool in 2018 mit neuer Ausrichtung neu gelauncht und beworben worden. Darin finden sich umschreibende Informationen, ergänzende Indikatoren, Neubewertungen von bisherigen Zielwerten und -korridoren. Hierfür wurde das Projektteam um zwei Stellen erweitert: ein\*e Entwickler\*in (2017, 2018) und ein\*e Projektmanager\*in (2018)
-    Das Projekt hat eine Jahresplanung, die durch ein internes Monitoringsystem die Zielsetzung regelmäßig prüft
-    as Projektteam arbeitet eng zusammen, trifft Absprachen und legt zu diesem zweck Ziele mit Termine fest. Fach- bzw. aufgabenbezogene Weiterbildungen werden angestrebt und wahrgenommen - soweit möglich.
+
+    * Das Projekt hat eine Jahresplanung, die durch ein internes Monitoringsystem die Zielsetzung regelmäßig prüft. 
+
+    * Das Projektteam arbeitet eng zusammen, trifft Absprachen und legt zu diesem zweck Ziele mit Termine fest. Fach- bzw. aufgabenbezogene Weiterbildungen werden angestrebt und wahrgenommen - soweit möglich.
 
     Das Tool ist zunächst komplett. Es steht als Nachschlagewerk zur Verfügung und ist hinreichend bekannt.
 
@@ -79,20 +89,12 @@ evaluation:  >
 
     Als indikatorenbasierte Plattform zur Agenda 2030 versteht sich 2030Watch als einen Vorreiter für eine alternative Sichtweise zum offiziellen Narrativ. Mit dem Anspruch alternative Indikatoren für die internationale Verantwortung von Industrieländern anzubieten, hat 2030Watch die Chance auch hier die Debatte und die Indikatorenauswahl und -auswertung zu beeinflussen und den Handlungsbedarf zu konkretisieren.
 
-
-    #### Kleine Unterüberschrift
-
-    * lol
-
-    * lel
-
-
-    Maecenas cursus id eros ac gravida. Nam ut dapibus tellus. Aliquam pharetra, massa quis aliquam viverra.
-
 ---
 
 
 # Monitoring der globalen Nachhaltigkeits-Ziele der UN 
+
+## Die Umsetzung der Agenda 2030 in Deutschland ist nicht ausreichend ambitioniert. 
 
 Die wirtschaftlichen, sozialen und ökologischen Krisen in der Welt nehmen verheerende Ausmaße an, die die Gestaltung und das Zusammenleben derzeitiger und zukünftiger Generationen gefährden. Mit der Agenda 2030 haben sich alle UN Staaten der Welt zu einer Transformation bekannt. In Deutschland wird dieser Verpflichtung durch die deutsche Nachhaltigkeitsstrategie nachgegangen. Die Nachhaltigkeitsstrategie wird in Deutschland im Umfang sowie Zielsetzung jedoch noch nicht ausreichend ambitioniert verfolgt. Es benötigt daher eine kritische  und breit aufgestellte Auseinandersetzung mit der Nachhaltigkeitszielsetzung, -bewertung und -umsetzung.
 

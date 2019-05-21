@@ -8,7 +8,7 @@ visual:
     alt: Illustration Offenes Regierungshandeln
 ---
 
-# Was ist das?
+# Definition
 
 Offene Bildung ist ein Überbegriff für all jene schulischen und außerschulischen Initiativen, die Bildung partizipativ, offen sowie im Sinne der Ideen von „digitaler Bildung" und „zeitgemäßer Bildung" gestalten. Sie wollen Bildung als Gemeingut fördern und stellen selbstgesteuertes und kompetenzorientiertes Lernen in den Fokus Ziel ist dabei immer eine selbstbestimmte, kritische Nutzung und mediale Produktion. Dafür nötig sind Freiräume für Jugendliche, um mit neuen technischen Möglichkeiten zu experimentieren, eine Minderung des Leistungsdrucks, damit diese Freiräume überhaupt wahrgenommen werden können, das Erlernen und Erleben von Selbstbestimmung und das dazu nötige Vertrauen von Seiten Erwachsener.
 
@@ -31,3 +31,4 @@ In den deutschlandweit verteilten edulabs hat sich eine nachhaltige Community vo
 Der Turing-Bus fuhr erstmals durch den in vielerlei Hinsicht vernachlässigten ländlichen Raum, um über 450 Teilnehmende bei Digitalworkshops mit regionalen Hackspaces zusammenzubringen. Mithilfe von Hands-on Workshops, Screenings, Diskussionsformaten mit Regionalpolitiern und vor allem durch die aktive Hilfe von Experten digitaler Disziplinen und Vertretern regionaler Initiativen (Offene Werkstätten, Hackspaces, OK-Labs) entstanden so 13 spannende Stationen.
 
 Insgesamt haben wir in den Workshops und Veranstaltungen von Jugend hackt, De- mokratielabore, Turing-Bus und edulabs 2017 über 1.500 Kinder, Jugendliche, Eltern und Lehrkräfte in der Anwendung digitaler Tools für gesellschaftliche Fragestellungen geschult.		
+# Folgend werden die Projekte der OKF DE vorgestellt, die dem Bereich Offene und politische Bildung zuzuordnen sind.

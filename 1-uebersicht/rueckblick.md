@@ -17,5 +17,5 @@ Auf Organisationsebene haben wir an der Weiterentwicklung unserer strategischen 
 
 Zum Jahreswechsel haben wir außerdem unsere [Webseite](https://okfn.de/) inhaltlich, strukturell und optisch überarbeitet. Mit der internen Umstellung auf Bilanzierung und intensiven Strukturierungsmaßnahmen sowie der Förderung durch SKala konnten wir signifikante Verbesserungen in der Organisationsstruktur umsetzen und haben besonderes Augenmerk auf die Internationalisierung unseres Internetauftritts gelegt. 
 
-Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein großer Dank geht deswegen an die Entwickler*innen, Designer*innen, Journalist*innen, Mentor*innen und alle anderen, die im Jahr 2018 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
+Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein großer Dank geht deswegen an die Entwickler\*innen, Designer\*innen, Journalist\*innen, Mentor\*innen und alle anderen, die im Jahr 2018 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
 

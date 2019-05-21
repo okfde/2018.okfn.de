@@ -8,7 +8,7 @@ visual:
     alt: Illustration Offenes Regierungshandeln
 ---
 
-# Was ist das?
+# Definition
 
 Das Konzept von „Open Government" meint, das Handeln von Regierungen und Verwaltungen auf nationaler und regionaler Ebene gegenüber der Zivilgesellschaft und der Wirtschaft zu öffnen. Im deutschen Sprachraum wird daher auch der Begriff „Offenes Regierungshandeln" verwendet.
 
@@ -18,7 +18,7 @@ Hinter dem Konzept steht das Ziel, die Arbeit von Politik, Regierung, Verwaltung
 
 Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren; auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.		
 
-# Das Gesellschaftliche Problem und der Lösungsansatz
+# Rückblick
 
 Im internationalen Vergleich ist Deutschland nach wie vor kein Vorreiter im Bezug auf offenes Regierungshandeln, dem Zugang zu Verwaltungsdaten und der Nutzung digitaler Technologien. So erreichte Deutschland zuletzt beim [Open Budget Index](https://www.internationalbudget.org/open-budget-survey/results-by-country/country-info/?country=de) 69 (Anmerkung: Der Open Budget Index wird zweijährlich erfasst. Daher bezieht sich die angegebene Score auf den Zeitraum 2015-2017.) und beim [Open Data Index](https://index.okfn.org/place/de/) 51 von 100 Punkten (Anmerkung: der Open Data Index wurde zuletzt 2017 erfasst). Auch die Verbreitung von digitalen Technologien in der Verwaltung oder der Zugang zu schnellem Internet sind im internationalen Vergleich verbesserungswürdig. In 2013 hat die Bundesregierung die [Open Data Charta der G8](https://opendatacharter.net/resource/g8-open-data-charter/) unterzeichnet und nimmt seit 2016 an der [Open Government Partnership](https://www.opengovpartnership.org/countries/germany) teil. Der erste nationale Aktionsplan Open Government wurde im August 2017 verabschiedet. Von den 15 Vorhaben waren 8 Aktivitäten ohnehin vorgesehen. Immerhin werden laut Zwischenbericht fast alle Meilensteine des 1. Nationalen Aktionsplans erreicht. Der zweite Aktionsplan wird aktuell unter zivilgesellschaftlicher Beteiligung ausgearbeitet und soll im Sommer 2019 veröffentlicht werden. Hier hoffen wir auf ambitionierte Verpflichtungen von der Bundesregierung sowie die Beteiligung der Bundesländer. 
 

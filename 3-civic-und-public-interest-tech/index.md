@@ -8,7 +8,7 @@ visual:
     alt: Illustration Offenes Regierungshandeln
 ---
 
-# Was ist das?
+# Definition
 
 Civic Tech will neue Technologien und digitale Innovationen mit Regierungen und Verwaltungen zusammenführen, um zivilgesellschaftliche Interessen mit neuen und partizipativen Möglichkeiten besser umsetzen zu können. Offene Daten sind dabei oft das Fundament der entwickelten Anwendungen, Werkzeuge und Dienste.  
 
@@ -28,8 +28,6 @@ Diese Herangehensweise kann an konkreten Themen wie Umweltschutz, Menschenrechte
 
 Im Jahr 2018 haben wir, ein Konzept für ein [citylab.berlin](https://okfn.de/blog/2018/06/make-city-citylab-berlin/) mitenwickelt. Der Energyhack 2 war ein wichtiger Schritt zur weiteren Verzahnung von Nachhaltigkeits- und Tech– Communities.
 
-# Public Interest Tech
-
 Der Prototype Fund konnte 2018 die maximale Fördersumme je Team und Einzelentwickler auf 47.500 Euro erhöhen und den Eigenanteil auf 5% reduzieren (von vorher 40%). Das ist ein Ergebnis der iterativen Anpassung an die realen Bedürfnisse von Selbsständigen als neuer Zielgruppe der Innovationsförderung, senkt die Zugangsschwelle und ermöglicht es weiteren Teilen der Zivilgesellschaft, Community-Technologien zu entwickeln und nutzbar zu machen.  
 
 Zudem haben wir einen wichtigen zivilgesellschaftlichen Beitrag zur öffentlichen Diskussion um Anwendungen des maschinellen Lernens geleistet: Parallel zur Einrichtung der KI-Enquete (ohne nennenswerte zivilgesellschaftliche Beteiligung) haben wir mit der Förderrunde 5 "Maschinen lernen lassen" Software-Ideen gesammelt, die die Potenziale und Herausforderungen von Künstlicher Intelligenz für die Gesellschaft erproben. Diese Usecases erlauben, anhand von konkreten Anwendungen den Diskurs anzureichern, zu kommentieren und Regulierungsbedarfe mitzuentwickeln.
@@ -37,3 +35,6 @@ Zudem haben wir einen wichtigen zivilgesellschaftlichen Beitrag zur öffentliche
 * [So wirkt der Prototypefund](https://prototypefund.de/prototypeworks-so-wirkt-der-prototype-fund-ein-zwischenbericht-in-7-grafiken/) / [Grafik](https://prototypefund.de/wp-content/uploads/2019/03/190319_der_prototype_fund_in_zahlen_DE.pdf) 
 * Report: [Maschinen lernen lassen](https://prototypefund.de/wp-content/uploads/2019/03/Begleitforschung-Rundenschwerpunkt-Kohorte-5.pdf)
 * [Geförderte Projekte der Runde 5](https://prototypefund.de/projects/round-5/)
+
+
+# Folgend werden die Projekte der OKF DE vorgestellt, die dem Bereich Civic und Public Interest Tech zuzuordnen sind.

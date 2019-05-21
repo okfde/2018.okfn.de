@@ -1,8 +1,8 @@
 ---
 layout: page
-chapter: 2.1
-title: FragdenStaat
-permalink: /open-government/fragdenstaat/
+chapter: 2.4
+title: kleine Anfragen
+permalink: /open-government/kleineanfragen/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
