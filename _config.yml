@@ -19,6 +19,8 @@ chapter:
   effects:
     - label: Das Problem
       key: problem
+    - label: Mögliche Ursachen
+      key: causes
     - label: Lösungsansatz
       key: solution
     - label: Angestrebte Wirkung
@@ -35,8 +37,10 @@ chapter:
       key: outputs
     - label: Outcome
       key: outcome
-    - label: Evaluation und Ausblick
+    - label: Evaluation
       key: evaluation
+    - label: Ausblick
+      key: outlook
 
 # matomo:
 #   url: //to-your-matomo.tdl
