@@ -1,7 +1,7 @@
 ---
 layout: page
 chapter: 1.4
-title: Werte
+title: Unsere Werte und Überzeugungen
 permalink: /uebersicht/werte
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.1
+chapter: 2.4
 title: 2030-Watch
 permalink: /open-government/2030-Watch/
 visual:
@@ -92,7 +92,7 @@ evaluation:  >
 ---
 
 
-## Das Problem: Die Umsetzung der Agenda 2030 in Deutschland ist nicht ausreichend ambitioniert. 
+# Monitoring der globalen Nachhaltigkeits-Ziele der UN 
 
 Die wirtschaftlichen, sozialen und ökologischen Krisen in der Welt nehmen verheerende Ausmaße an, die die Gestaltung und das Zusammenleben derzeitiger und zukünftiger Generationen gefährden. Mit der Agenda 2030 haben sich alle UN Staaten der Welt zu einer Transformation bekannt. In Deutschland wird dieser Verpflichtung durch die deutsche Nachhaltigkeitsstrategie nachgegangen. Die Nachhaltigkeitsstrategie wird in Deutschland im Umfang sowie Zielsetzung jedoch noch nicht ausreichend ambitioniert verfolgt. Es benötigt daher eine kritische  und breit aufgestellte Auseinandersetzung mit der Nachhaltigkeitszielsetzung, -bewertung und -umsetzung. 
 
