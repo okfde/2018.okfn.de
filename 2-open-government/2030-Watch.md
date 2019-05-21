@@ -6,39 +6,39 @@ permalink: /open-government/2030-Watch/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
-problem: 
+problem:
 - title: Mangelnde Transparenz,
-  text: Vorhandene wesentliche aber noch nicht in der DNS berücksichtigte Indikatoren und Daten werden nicht mit einbezogen, betrachtet und veröffentlicht. 
+  text: Vorhandene wesentliche aber noch nicht in der DNS berücksichtigte Indikatoren und Daten werden nicht mit einbezogen, betrachtet und veröffentlicht.
 - title: fehlende Werkzeuge und
-  text: Es gibt keine bzw. nur wenig bekannte digitalen Werkzeuge, um die Nachhaltigkeitsdebatte den Bürger*innen näher zu bringen. Die Berichterstattung in Form von Indikatorenberichte sind schwer zugänglich. 
+  text: Es gibt keine bzw. nur wenig bekannte digitalen Werkzeuge, um die Nachhaltigkeitsdebatte den Bürger*innen näher zu bringen. Die Berichterstattung in Form von Indikatorenberichte sind schwer zugänglich.
 - title: wenig Berichterstattung
-  text: Es gibt keine bzw. nur wenig bekannte digitalen Werkzeuge, um die Nachhaltigkeitsdebatte den Bürger*innen näher zu bringen. Die Berichterstattung in Form von Indikatorenberichte sind schwer zugänglich. 
+  text: Es gibt keine bzw. nur wenig bekannte digitalen Werkzeuge, um die Nachhaltigkeitsdebatte den Bürger*innen näher zu bringen. Die Berichterstattung in Form von Indikatorenberichte sind schwer zugänglich.
 - title: führen dazu, dass
 - claim: den Zielgruppen nur die offiziellen Narrative über die Umsetzung der Agenda 2030 zur Verfügung stehen
-- claim:  wesentliche Themenfelder nicht ausreichend oder gar nicht berücksichtigt sowie nicht gezielt verfolgt werden und 
+- claim:  wesentliche Themenfelder nicht ausreichend oder gar nicht berücksichtigt sowie nicht gezielt verfolgt werden und
 - claim: die Zielgruppen die Umsetzung der Agenda 2030 in ihrer Gesamtwirkung nicht hinterfragen können.
 
 solution:
 - title: Neue und einfache Tools
-  text: Mithilfe von einer einfach verständlichen digitalen Plattform ist es möglich, die offiziellen Narrative im Vergleich mit den alternativen Narrativen zu sehen. 
+  text: Mithilfe von einer einfach verständlichen digitalen Plattform ist es möglich, die offiziellen Narrative im Vergleich mit den alternativen Narrativen zu sehen.
 - title: Ressourcen und Lernmaterialien
-  text: Durch die Bereitstellung von alternativen und ergänzenden Indikatoren sowie Zielwerten zum Thema wird es den Zielgruppen ermöglicht, sich kritisch über den Ambitionsgrad der deutschen Nachhaltigkeitsstrategie zu informieren. 
+  text: Durch die Bereitstellung von alternativen und ergänzenden Indikatoren sowie Zielwerten zum Thema wird es den Zielgruppen ermöglicht, sich kritisch über den Ambitionsgrad der deutschen Nachhaltigkeitsstrategie zu informieren.
 - title: Workshops und Veranstaltungen
   text: Durch Öffentlichkeitsarbeit und Veranstaltungen (Workshops, Vorträge, Diskussionen) wird die Öffentlichkeit angesprochen und das Thema von mehr Stakeholdern bearbeitet.
 effect:
 - title: Auf Multiplikator*innen im politischen Bildungsbereich
-  text: Durch die verbesserte Visualisierung werden Status der DNS und fehlden Ambitionen  vereinfacht angeboten. 
-  text: Glaubwürdigkeit wird durch externe Partner*innen (Datenpat*innen) gestärkt. 
+  text: Durch die verbesserte Visualisierung werden Status der DNS und fehlden Ambitionen  vereinfacht angeboten.
+  text: Glaubwürdigkeit wird durch externe Partner*innen (Datenpat*innen) gestärkt.
   text: Datensätze und -quellen können einfacher untersucht und analysiert werden.
 - title: Auf die interessierte Öffentlichkeit
-  text: Datenvisualisierungen und beschreibende Texte gestalten den Einstieg in das Thema einfacher. 
+  text: Datenvisualisierungen und beschreibende Texte gestalten den Einstieg in das Thema einfacher.
   text: Visualisierungen der Indikatoren motivieren zur weiteren Recherche/Auseinandersetzung mit dem Thema Nachhaltigkeit
 - title: Auf Journalist*innen/Medien
   text: Der Einstieg in das Thema aus journalistischer Sicht wird vereinfacht.
-  text: Indikatoren als messbarer Fortschritt/Maßstab werden stärker mit dem Thema Nachhaltigkeit verbunden. 
+  text: Indikatoren als messbarer Fortschritt/Maßstab werden stärker mit dem Thema Nachhaltigkeit verbunden.
   text: Mehr Artikel und Nachforschungen werden erstellt, die sich mit dem Thema beschäftigen
 - title: Gesellschaftliche Wirkung
-  claim: Es gibt eine kritische Auseinandersetzung/Debatte wie Deutschland die Agenda 2030 umsetzen sollte. 
+  claim: Es gibt eine kritische Auseinandersetzung/Debatte wie Deutschland die Agenda 2030 umsetzen sollte.
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -47,14 +47,14 @@ resources:
       img: http://placekitten.com/800/260
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
-    * In 2017 wurde das Pilotprojekt 2030Watch strategisch überarbeitet, um es als festes Projekt zum Thema Agenda 2030 in Deutschland zu platzieren. 
-    * Die strategische Entwicklung hat eine politische und stakeholder-basierte Umfeld- und Methodenanalyse sowie eine Untersuchung der inhaltlichen Ausrichtung beinhaltet. 
-    * Die Neugestaltung der digitalen Plattform von 2030Watch wurde unter der Berücksichtigung der erfolgten Ergebnisse umgesetzt und in 2018 mit allen 17 SDGs gelauncht.  
+    * In 2017 wurde das Pilotprojekt 2030Watch strategisch überarbeitet, um es als festes Projekt zum Thema Agenda 2030 in Deutschland zu platzieren.
+    * Die strategische Entwicklung hat eine politische und stakeholder-basierte Umfeld- und Methodenanalyse sowie eine Untersuchung der inhaltlichen Ausrichtung beinhaltet.
+    * Die Neugestaltung der digitalen Plattform von 2030Watch wurde unter der Berücksichtigung der erfolgten Ergebnisse umgesetzt und in 2018 mit allen 17 SDGs gelauncht.
 outputs: >
     - Lorem ipsum
     - 10 Vorträge
     * 10 Vernetzungstreffen
-    * 15 Konferenzteilnahme 
+    * 15 Konferenzteilnahme
     * Neuentwurf Strategie
     * Neues Webkonzept
     * 60 Alternative (bis her nicht berücksichtigte) Indikatoren
@@ -63,21 +63,21 @@ outputs: >
     * 1 Bericht zur Voraussetzung von SDG-Monitoring auf kommunaler Ebene
 
 outcome: >
-     Das Projekt 2030Watch hat seit seinem Beginn das Thema alternative Nachhaltigkeitsindikatoren in der SDG Debatte in Deutschland gefestigt. Dies aber noch in relativen kleinen Expertenkreisen. Mit der neuen Ausrichtung und Plattform hat 2030Watch in 2018 die kritische Verantwortung Deutschlands für eine ambitionierte Nachhaltigkeitspolitik weiter in die Öffentlichkeit getragen. 
+     Das Projekt 2030Watch hat seit seinem Beginn das Thema alternative Nachhaltigkeitsindikatoren in der SDG Debatte in Deutschland gefestigt. Dies aber noch in relativen kleinen Expertenkreisen. Mit der neuen Ausrichtung und Plattform hat 2030Watch in 2018 die kritische Verantwortung Deutschlands für eine ambitionierte Nachhaltigkeitspolitik weiter in die Öffentlichkeit getragen.
 evaluation:  >
-    In 2017 sind verschiedene Vorgehen innerhalb der Projektarbeit weiter konkretisiert und angepasst worden. Die Evaluation fand über Befragungen statt, weitere wertvolle Impulse für eine Konzeptanpassung konnten durch das aufgebaute Netzwerk erreicht werden. Davon ausgehend wurden u.a. die Ausrichtung an der deutschen Nachhaltigkeitsstrategie festgelegt und die Auswahl der Zielgruppen erneut bewertet sowie teilweise neu definiert.  
-    Ein weiteres Feedback war der Bedarf an noch leichter zugänglichen Informationen. Dabei sind sowohl die inhaltliche Aufbereitung und Fokussierung als auch die Usability des indikatorenbasierten Monitroingtools von wesentlicher Bedeutung. 
-    Entsprechend ist das überarbeitete Tool in 2018 mit neuer Ausrichtung neu gelauncht und beworben worden. Darin finden sich umschreibende Informationen, ergänzende Indikatoren, Neubewertungen von bisherigen Zielwerten und -korridoren. Hierfür wurde das Projektteam um zwei Stellen erweitert: ein*e Entwickler*in (2017, 2018) und ein*e Projektmanager*in (2018)
+    In 2017 sind verschiedene Vorgehen innerhalb der Projektarbeit weiter konkretisiert und angepasst worden. Die Evaluation fand über Befragungen statt, weitere wertvolle Impulse für eine Konzeptanpassung konnten durch das aufgebaute Netzwerk erreicht werden. Davon ausgehend wurden u.a. die Ausrichtung an der deutschen Nachhaltigkeitsstrategie festgelegt und die Auswahl der Zielgruppen erneut bewertet sowie teilweise neu definiert.
+    Ein weiteres Feedback war der Bedarf an noch leichter zugänglichen Informationen. Dabei sind sowohl die inhaltliche Aufbereitung und Fokussierung als auch die Usability des indikatorenbasierten Monitroingtools von wesentlicher Bedeutung.
+    Entsprechend ist das überarbeitete Tool in 2018 mit neuer Ausrichtung neu gelauncht und beworben worden. Darin finden sich umschreibende Informationen, ergänzende Indikatoren, Neubewertungen von bisherigen Zielwerten und -korridoren. Hierfür wurde das Projektteam um zwei Stellen erweitert: ein\*e Entwickler\*in (2017, 2018) und ein\*e Projektmanager\*in (2018)
     Das Projekt hat eine Jahresplanung, die durch ein internes Monitoringsystem die Zielsetzung regelmäßig prüft
-    as Projektteam arbeitet eng zusammen, trifft Absprachen und legt zu diesem zweck Ziele mit Termine fest. Fach- bzw. aufgabenbezogene Weiterbildungen werden angestrebt und wahrgenommen - soweit möglich. 
+    as Projektteam arbeitet eng zusammen, trifft Absprachen und legt zu diesem zweck Ziele mit Termine fest. Fach- bzw. aufgabenbezogene Weiterbildungen werden angestrebt und wahrgenommen - soweit möglich.
 
-    Das Tool ist zunächst komplett. Es steht als Nachschlagewerk zur Verfügung und ist hinreichend bekannt. 
+    Das Tool ist zunächst komplett. Es steht als Nachschlagewerk zur Verfügung und ist hinreichend bekannt.
 
-    Durch die zu Ende 2018 breiter aufgestellte Aufmerksamkeit (Friday4future, Trockenzeit im Sommer 2018, Dieselskandale, etc.) um die Relevanz der Transformationsprozesse als Werkzeuge gegen weltweite Klimakrise ist das Tool nützlich für die Debatte über die Rolle Deutschlands und der unzureichenden (politischen) Ambitionen. 
+    Durch die zu Ende 2018 breiter aufgestellte Aufmerksamkeit (Friday4future, Trockenzeit im Sommer 2018, Dieselskandale, etc.) um die Relevanz der Transformationsprozesse als Werkzeuge gegen weltweite Klimakrise ist das Tool nützlich für die Debatte über die Rolle Deutschlands und der unzureichenden (politischen) Ambitionen.
 
-    Ein Risiko besteht darin, dass obwohl die Inhalte und Visualisierungen ausreichend erläutert werden, jedoch die komplexe Aufbereitung der Inhalte und Visualisierungen Besucher*innen wieder abspringen. Außerdem ist die Umsetzung der Agenda 2030 in Deutschland an sich sehr komplex, was dazu führen kann, dass ein Verfolgen der politischen Umsetzung nach wie vor schwierig bleibt. 
+    Ein Risiko besteht darin, dass obwohl die Inhalte und Visualisierungen ausreichend erläutert werden, jedoch die komplexe Aufbereitung der Inhalte und Visualisierungen Besucher*innen wieder abspringen. Außerdem ist die Umsetzung der Agenda 2030 in Deutschland an sich sehr komplex, was dazu führen kann, dass ein Verfolgen der politischen Umsetzung nach wie vor schwierig bleibt.
 
-    Als indikatorenbasierte Plattform zur Agenda 2030 versteht sich 2030Watch als einen Vorreiter für eine alternative Sichtweise zum offiziellen Narrativ. Mit dem Anspruch alternative Indikatoren für die internationale Verantwortung von Industrieländern anzubieten, hat 2030Watch die Chance auch hier die Debatte und die Indikatorenauswahl und -auswertung zu beeinflussen und den Handlungsbedarf zu konkretisieren. 
+    Als indikatorenbasierte Plattform zur Agenda 2030 versteht sich 2030Watch als einen Vorreiter für eine alternative Sichtweise zum offiziellen Narrativ. Mit dem Anspruch alternative Indikatoren für die internationale Verantwortung von Industrieländern anzubieten, hat 2030Watch die Chance auch hier die Debatte und die Indikatorenauswahl und -auswertung zu beeinflussen und den Handlungsbedarf zu konkretisieren.
 
 
     #### Kleine Unterüberschrift
@@ -94,22 +94,20 @@ evaluation:  >
 
 # Monitoring der globalen Nachhaltigkeits-Ziele der UN 
 
-Die wirtschaftlichen, sozialen und ökologischen Krisen in der Welt nehmen verheerende Ausmaße an, die die Gestaltung und das Zusammenleben derzeitiger und zukünftiger Generationen gefährden. Mit der Agenda 2030 haben sich alle UN Staaten der Welt zu einer Transformation bekannt. In Deutschland wird dieser Verpflichtung durch die deutsche Nachhaltigkeitsstrategie nachgegangen. Die Nachhaltigkeitsstrategie wird in Deutschland im Umfang sowie Zielsetzung jedoch noch nicht ausreichend ambitioniert verfolgt. Es benötigt daher eine kritische  und breit aufgestellte Auseinandersetzung mit der Nachhaltigkeitszielsetzung, -bewertung und -umsetzung. 
+Die wirtschaftlichen, sozialen und ökologischen Krisen in der Welt nehmen verheerende Ausmaße an, die die Gestaltung und das Zusammenleben derzeitiger und zukünftiger Generationen gefährden. Mit der Agenda 2030 haben sich alle UN Staaten der Welt zu einer Transformation bekannt. In Deutschland wird dieser Verpflichtung durch die deutsche Nachhaltigkeitsstrategie nachgegangen. Die Nachhaltigkeitsstrategie wird in Deutschland im Umfang sowie Zielsetzung jedoch noch nicht ausreichend ambitioniert verfolgt. Es benötigt daher eine kritische  und breit aufgestellte Auseinandersetzung mit der Nachhaltigkeitszielsetzung, -bewertung und -umsetzung.
 
-Die Ursachen, warum es der Nachhaltigkeitsstrategie in Deutschland an Ambitionen fehlt, können auf die noch fehlende politische Priorisierung einer nachhaltigen Entwicklung zurückgeführt werden. Gründe hierfür sind, neben den vielfältigen Zielkonflikten die Befürchtungen, dass bei gleichbleibenden wirtschaftlichen Kriterien starke Einschnitte für die Wirtschaft und Gesellschaft bei der Umsetzung von Maßnahmen für die Herstellung einer nachhaltigeren Wirtschafts- und Konsumweise befürchtet werden. Eine Umwälzung der Machtverhältnisse könnte die Wirkung sein, diese wird derzeit vermieden. Eine andere Ursache sind fehlende datenbasierte Indikatoren und transparente Zugänge zu den Datenquellen, die bei der komplexen Umsetzung ambitionierter Transformationsmaßnahmen der Nachhaltigkeitsstrategie wesentlich werden können. 
+Die Ursachen, warum es der Nachhaltigkeitsstrategie in Deutschland an Ambitionen fehlt, können auf die noch fehlende politische Priorisierung einer nachhaltigen Entwicklung zurückgeführt werden. Gründe hierfür sind, neben den vielfältigen Zielkonflikten die Befürchtungen, dass bei gleichbleibenden wirtschaftlichen Kriterien starke Einschnitte für die Wirtschaft und Gesellschaft bei der Umsetzung von Maßnahmen für die Herstellung einer nachhaltigeren Wirtschafts- und Konsumweise befürchtet werden. Eine Umwälzung der Machtverhältnisse könnte die Wirkung sein, diese wird derzeit vermieden. Eine andere Ursache sind fehlende datenbasierte Indikatoren und transparente Zugänge zu den Datenquellen, die bei der komplexen Umsetzung ambitionierter Transformationsmaßnahmen der Nachhaltigkeitsstrategie wesentlich werden können.
 
-Das Projekt 2030Watch bietet eine alternative und additive Sichtweise, die es erlaubt, die Umsetzung der Agenda 2030 in Deutschland kontrovers zu betrachten, umfangreicher zu messen und informierter zu bewerten. Mit Hilfe von alternativen und additiven Indikatorensets bietet die Projektseite einen Vergleich zum offiziellen Narrativ und zeigt damit auf, dass die Berücksichtigung weiterer Informationen zu einer ganzheitlichen Betrachtung der Problematiken führt. Die bereit gestellten Informationen helfen dabei, die Indikatoren neu zu priosieren, zu diskutieren, zu bewerten und zu optimieren.  
+Das Projekt 2030Watch bietet eine alternative und additive Sichtweise, die es erlaubt, die Umsetzung der Agenda 2030 in Deutschland kontrovers zu betrachten, umfangreicher zu messen und informierter zu bewerten. Mit Hilfe von alternativen und additiven Indikatorensets bietet die Projektseite einen Vergleich zum offiziellen Narrativ und zeigt damit auf, dass die Berücksichtigung weiterer Informationen zu einer ganzheitlichen Betrachtung der Problematiken führt. Die bereit gestellten Informationen helfen dabei, die Indikatoren neu zu priosieren, zu diskutieren, zu bewerten und zu optimieren.
 
-Zielgruppe 1: Multiplikatorinnen im Bereich Bildung für nachhaltige Entwicklung 
+Zielgruppe 1: Multiplikatorinnen im Bereich Bildung für nachhaltige Entwicklung
 * benutzen 2030Watch als ein digitales Werkzeug, mit dem sie in ihrer politischen Bildungsarbeit visuell eine alternative inhaltlich Betrachtung von der Umsetzung der Agenda 2030 in Deutschland darstellen können.
 
-Zielgruppe 2: Interessierte Öffentlichkeit 
+Zielgruppe 2: Interessierte Öffentlichkeit
 * ist informiert sich über die Umsetzung der nachhaltigen Entwicklung und erhält eine alternative Sichtweise zur Umsetzung in und durch Deutschland.
 
-Zielgruppe 3: Interessierte Medien und Politiker*innen 
-* nehmen eine starke Position in der kritischen Debatte ein, die sich auch auf die  Zielindikatoren und -werte bezieht. Sie setzen sich für die Erweiterungen des Indikatorkatalogs ein und erzeugen notwendige Priorisierung wichtiger Transformationsthemen in und durch Deutschland. 
+Zielgruppe 3: Interessierte Medien und Politiker*innen
+* nehmen eine starke Position in der kritischen Debatte ein, die sich auch auf die  Zielindikatoren und -werte bezieht. Sie setzen sich für die Erweiterungen des Indikatorkatalogs ein und erzeugen notwendige Priorisierung wichtiger Transformationsthemen in und durch Deutschland.
 
-Die Plattform ermöglicht eine kritische Auseinandersetzung/Debatte mit der Umsetzung der Agenda 2030 in und durch Deutschland (konspequente Steigerung der Ambitionen). Die Debatte soll datenbezogen und damit inhaltlich erweitert sowie verschärft werden. 
-Messwerte und Indikatoren der DNS werden überprüft und erweitert. 
-
- 
+Die Plattform ermöglicht eine kritische Auseinandersetzung/Debatte mit der Umsetzung der Agenda 2030 in und durch Deutschland (konspequente Steigerung der Ambitionen). Die Debatte soll datenbezogen und damit inhaltlich erweitert sowie verschärft werden.
+Messwerte und Indikatoren der DNS werden überprüft und erweitert.
