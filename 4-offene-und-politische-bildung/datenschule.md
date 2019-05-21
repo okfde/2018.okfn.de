@@ -2,29 +2,33 @@
 layout: page
 chapter: 4.1
 title: FragDenStaat
-permalink: /open-government/fragdenstaat/
+permalink: /offene-und-politische-bildung/datenschule/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
 problem:
-- title: Ein Problem
+- title: Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert - dies hindert soziale Innovation und die Wahrnehmung von Menschenrechten.
   text: Lorem ipsum
-- title: Noch ein Problem
-  text: Lorem ipsum
-- title: Widerspenstige Verwaltung
-- claim: Hier steht ein heißer claim
+- title: Mangelnde Ressourcen,
+  text: Digitale Informationen und Technologien  sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen.
+- title: fehlende Expertise,
+  text: Nur wenige Organisationen verfügen über eine fundierte digitale Expertise und Tools, um aussagekräftige Erkenntnisse aus Daten zu ziehen und ihre Anliegen mit Beweisen zu belegen.
+- title: und wenig zielgerichtet Angebote
+  text: Es gibt wenige Angebote zur Förderung von digitalen Kompetenzen bei Erwachsenen im gemeinnützigen Bereich, die die Diversität und Organisationsstrukturen berücksichtigen.  
+- title: führen dazu, dass 
+- claim: Soziale Innovation im gemeinnützigen Bereich findet nur schleppend statt. Zivilgesellschaftliche Organisationen können die Potenziale der Digitalisierung nicht ausreichend nutzen und sind mit den neuen Veränderungsprozessen oft überfordert.
 solution:
-- title: Eine Lösung
-  text: Lorem ipsum
-- title: Noch eine Lösung
-  text: Lorem ipsum
-- title: Noch was drittes
-  text: Lorem ipsum
+- title: Gesellschaftlichen Wandel positiv gestalten
+  text: Wir kooperieren mit gemeinnützigen Akteuren und entwickeln digitale Lösungsansätze und Tools für gesellschaftliche Herausforderungen. Damit möchten wir Debatten anstoßen und neue Narrative für bestehende Herausforderungen schaffen.
+- title: Wissensvermittlung
+  text: Wir führen praxisorientierte Workshops und Formate durch, die NGOs dazu befähigen, Daten und Technologien zielgerichtet zu nutzen. Erkenntnisse aus den Projekten, Lernmaterialien und best practices werden frei zur Verfügung gestellt.
+- title: Communitybuilding
+  text: Um den Austausch und die Vernetzung zwischen technikaffinen Menschen und gesellschaftspolitischen Organisationen zu fördern, organisieren wir Events und realisieren Projekte mit Partnern sowie unserer Community.
 effect:
-- title: Ein Effekt
-  text: Lorem ipsum
-- title: Noch ein Effekt
-  text: lorem ipsum
+- title: Gemeinnützige Organisationen
+  text: vertiefen ihre digitalen Fähigkeiten und nutzen digitale Informationen und Tools selbstbewusst bei der Planung und Umsetzung ihrer Projekte und Anliegen.
+- title: Civic Tech-Community
+  text: durch interdisziplinäres Arbeiten werden soziale Projekte gestärkt,
 - title: Und noch einer
   text: Lorem ipsum
 resources:
@@ -64,7 +68,32 @@ evaluation:  >
 
 ---
 
-Sed efficitur sit amet tortor sed volutpat. Nullam consequat est at tempus aliquam. Morbi faucibus porttitor neque a viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi ut purus dui. Proin consectetur massa ligula, quis ultricies dui dictum eu. Aliquam dictum volutpat placerat. Fusce elementum nunc et blandit ornare. Sed et sapien tincidunt, faucibus justo maximus, eleifend ante. Nulla laoreet sapien semper metus luctus, in volutpat dui tincidunt. Nulla facilisi. Morbi justo dolor, accumsan et efficitur ut, vulputate vitae elit. Etiam lacinia lectus ac nulla congue, malesuada tincidunt odio porttitor. Praesent auctor velit at est bibendum, a porta magna volutpat.
+Daten sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen. Nur wenige Organisationen verfügen über eine fundierte digitale Expertise und Tools, um aussagekräftige Erkenntnisse aus Daten zu ziehen und ihre Anliegen mit Beweisen zu belegen. Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert - dies hindert soziale Innovation und die Wahrnehmung von Menschenrechten.
 
+Die Schnelligkeit der technischen Veränderungen stellen zivilgesellschaftliche Akteure vor neue Herausforderungen. Viele verlieren den Anschluss an aktuelle öffentliche Debatten im Themenfeld der "Digitalisierung", dadurch sind soziale Themen im digitalen Raum unterrepräsentiert. Dies liegt auch daran, dass viele neue Konzepte und Begrifflichkeiten von technik-affineren Unternehmen geprägt werden. Angebote zur Förderung digitaler Kompetenzen im zivilgesellschaftlichen Bereich gibt es nur wenige. Um diese Kompetenzen langfristig bei Erwachsenen zu fördern, bedarf es Formate, die die Bedürfnisse und Diversität der gemeinnützigen Akteure in Deutschland berücksichtigen.
 
-Vivamus eu pulvinar dolor. Integer consequat dignissim ullamcorper. Nam vel rhoncus velit. Etiam faucibus quis dui vitae maximus. Praesent ac nunc fringilla ipsum posuere volutpat sed eget justo. Cras non justo sed arcu fermentum fringilla. Maecenas vestibulum gravida massa, a euismod enim varius ac. Etiam facilisis eros feugiat, rutrum dui in, ultrices purus.
+Datenschule ist ein Bildungsangebot zur Förderung von digitalen Kompetenzen im gemeinnützigen Bereich. 
+
+* Wir kooperieren mit gemeinnützigen Akteuren und entwickeln digitale Lösungsansätze für gesellschaftliche Herausforderungen.
+* Wir führen Workshops durch und erstellen Materialien, die NGOs dazu befähigen, Daten und Technologien zielgerichtet zu nutzen.
+* Wir vernetzen die Tech- und NGO-Welt miteinander, um die Wirkung von gemeinnützigen Projekten zu stärken.
+
+Gemeinnützige Organisationen:
+
+* vertiefen ihre digitalen Fähigkeiten und nutzen digitale Informationen und Tools selbstbewusst bei der Planung und Umsetzung ihrer Projekte und Anliegen.
+
+Civic Tech-Community:
+
+* durch interdisziplinäres Arbeiten werden soziale Projekte gestärkt,
+* mehr Einzelpersonen arbeiten an gesellschaftspolitischen Ansätzen.
+
+Verwaltungen/ Behörden:
+
+* stellen besser aufbereitet Informationen zu gesellschaftspolitischen Themen bereit, fördern damit Transparent und Rechenschaftspflicht
+
+5. Gesellschaftliche Wirkung
+
+* digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen
+* öffentliche Debatten werden faktenbasiert geführt durch den mündigen und emanzipierten Umgang mit digitalen Informationen und Technologien
+* größere Mitsprache der Gesellschaft an politischen Entscheidungen und Stärkung der politischen Partizipation allgemein 
+
