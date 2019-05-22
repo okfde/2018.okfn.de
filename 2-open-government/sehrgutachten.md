@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.8
+chapter: 2.08
 title: sehrGutachten
 permalink: /open-government/sehrgutachten
 visuals:

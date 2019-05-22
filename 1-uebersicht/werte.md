@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 1.4
+chapter: 1.04
 title: Unsere Werte und Überzeugungen
 permalink: /uebersicht/werte
 ---

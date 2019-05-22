@@ -1,7 +1,8 @@
 ---
 layout: page
-chapter: 2.94
+chapter: 2.04
 title: Farmsubsidy
+website: https://farmsubsidy.org/
 permalink: /open-government/farmsubsidy
 visuals:
     - img: http://placekitten.com/600/400

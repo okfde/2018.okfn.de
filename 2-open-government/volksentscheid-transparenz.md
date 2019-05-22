@@ -1,7 +1,8 @@
 ---
 layout: page
-chapter: 2.6
+chapter: 2.06
 title: Volksentscheid Transparenz
+website: https://volksentscheid-transparenz.de/
 permalink: /open-government/volksentscheid-transparenz
 visuals:
     - img: http://placekitten.com/600/400
@@ -12,9 +13,11 @@ visuals:
       alt: Eine Beschreibung des Textes
 ---
 
-* Finanzierung: Ehrenamtlich mit anfänglicher Förderung
-* Projektleitung: Ernesto Ruge 
-* Beginn: 2017
+* Finanzierung: keine
+* Beteiligte: Lea Pfau, Arne Semsrott, Nadine Stammen, Leonard Wolf
+* Projektpartner: Mehr Demokratie e.V.
+* Beginn: Sommer 2018
+
 
 # Hintergrund
 
@@ -25,4 +28,12 @@ visuals:
 
 # Highlights
 
-Die Schnittstelle mit automatischer Datenaktualisierung wurde fertiggestellt und aktiviert
+* Mit Mehr Demokratie e.V. konnten wir eine Partnerorganisation mit langjähriger Erfahrung mit Volksentscheiden gewinnen. Gemeinsam entwickelten wir die Struktur zur Umsetzung des Volksentscheids bis 2021.
+* Ein erster Meilenstein für die Verbreitung des Vorhabens in der Öffentlichkeit war die Teilnahme am Rixdorfer Weihnachtsmarkt, wo mehrere Hundert Menschen auf das Projekt aufmerksam wurden. 
+
+
+# Ausblick: 
+
+* Über das ganze Jahr hinweg werden neue Bündnispartner*innen und Freiwillige gesucht, die den Volksentscheid in verschiedenen Kapazitäten unterstützen.
+* Im März 2019 wird der Gesetzentwurf der Senatsverwaltung zur Kostenschätzung vorgelegt.
+Die erste Phase der Unterschriftensammlung beginnt im Sommer 2019.

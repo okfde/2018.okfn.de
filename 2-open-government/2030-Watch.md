@@ -1,7 +1,8 @@
 ---
 layout: page
-chapter: 2.3
+chapter: 2.03
 title: 2030-Watch
+website: https://www.2030-watch.de/
 permalink: /open-government/2030-Watch/
 visual:
     img: http://placekitten.com/600/700

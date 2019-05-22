@@ -1,7 +1,8 @@
 ---
 layout: page
-chapter: 2.5
+chapter: 2.05
 title: Open Government Netzwerk
+website:
 permalink: /open-government/open-government-netzwerk
 visuals:
     - img: http://placekitten.com/600/400

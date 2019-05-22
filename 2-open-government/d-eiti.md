@@ -1,8 +1,9 @@
 ---
 layout: page
-chapter: 2.93
-title: Mein Stadtarchiv
-permalink: /open-government/mein-stadtarchiv
+chapter: 2.13
+title: D-EITI
+website: https://www.d-eiti.de/
+permalink: /open-government/d-eiti
 visuals:
     - img: http://placekitten.com/600/400
       alt: Eine Beschreibung des Textes
@@ -12,17 +13,23 @@ visuals:
       alt: Eine Beschreibung des Textes
 ---
 
-* Finanzierung: keine, ehrenamtlich 
-* Beteiligte: Ernesto Ruge, Konstantin Schütze, Stefan Graupner 
-* Beginn: 2013 
+* Partner: GIZ, FOES, FUE, TI
+* Projektleitung: Walter Palmetshofer
 
 
 # Hintergrund
 
-OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data für möglichst viele verschiedene Zwecke eingesetzt werden können. 
+* Transparenz im Rohstoffsektor 
+* Vertragstransparenz
+* Beneficial Ownership also der Offenlegung der wirtschaftlichen Eigentümer 
+* Offene Daten, Diskussion und Visualisierungen im Rohstoffsektor
+
 
 # Highlights
 
-OParl 1.1 wurde veröffentlicht. Ein weiterer Hersteller bietet OParl als Modul für Städte an. Verschiedene weitere Kommunen haben eine OParl-Schnittstelle gekauft. OParl ist Thema einer Unterarbeitsgruppe des Arbeitskreis Open Government geworden, welcher in Vorschläge fpr den Nationalen Aktionsplan der OGP enden wird.
+* Internationale Vernetzung und kontinuierliche lokale Arbeit
 
-## https://mein-stadtarchiv.de/
+# Ausblick 
+
+* Für 2019 Fokus auf Kooperation mit der Zivilgesellschaft in der Ukraine 
+* Kommende Themen sind Vertragstransparenz und wirtschaftlicher Eigentümer

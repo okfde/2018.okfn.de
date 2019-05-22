@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 1.1
+chapter: 1.01
 title: Gegenstand des Berichts
 permalink: /uebersicht/intro
 ---

@@ -2,6 +2,7 @@
 layout: page
 chapter: 3.2
 title: Kleines Projekt
+website:
 permalink: /open-government/kleinesprojekt
 visuals:
     - img: http://placekitten.com/600/400

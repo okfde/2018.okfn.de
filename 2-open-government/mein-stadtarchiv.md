@@ -1,8 +1,9 @@
 ---
 layout: page
-chapter: 2.94
-title: D-EITI
-permalink: /open-government/d-eiti
+chapter: 2.14
+title: Mein Stadtarchiv
+website: https://mein-stadtarchiv.de/
+permalink: /open-government/mein-stadtarchiv
 visuals:
     - img: http://placekitten.com/600/400
       alt: Eine Beschreibung des Textes
@@ -12,24 +13,15 @@ visuals:
       alt: Eine Beschreibung des Textes
 ---
 
-* Partner: GIZ, FOES, FUE, TI
-* Projektleitung: Walter Palmetshofer
+* Finanzierung: Ehrenamtlich mit anfänglicher Förderung
+* Projektleitung: Ernesto Ruge 
+* Beginn: 2017
 
 # Hintergrund
 
-* Transparenz im Rohstoffsektor 
-* Vertragstransparenz
-* Beneficial Ownership also der Offenlegung der wirtschaftlichen Eigentümer 
-* Offene Daten, Diskussion und Visualisierungen im Rohstoffsektor
+In Stadtarchiven sind viele Informationen und Dokumente, die Bürgerinnen und Bürger ganz persönlich betreffen - es ist ihre eigene Geschichte. Oft sind Stadtarchive jedoch vollständlig offline, und die wenigen Online-Portale sind nur schlecht für normale Anwender benutzbar. Dies hat das Stadtarchiv Kermen gemeinsam mit der OKF geändert und hat viele Daten aus dem Stadtarchiv öffentlich unter möglichst freien Lizenzen zugänglich gemacht. Zudem erhält das Stadtarchiv über die Plattform wertvolle Rückmeldungen über Dokumente, dessen Herkunft nicht ganz eindeutig ist.
 
 
 # Highlights
 
-* Internationale Vernetzung und kontinuierliche lokale Arbeit
-
-# Ausblick
-
-Für 2019 Fokus auf Kooperation mit der Zivilgesellschaft in der Ukraine 
-Kommende Themen sind Vertragstransparenz und wirtschaftlicher Eigentümer
-
-## http://www.d-eiti.de
+* Die Schnittstelle mit automatischer Datenaktualisierung wurde fertiggestellt und aktiviert

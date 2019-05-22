@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.9
+chapter: 2.09
 title: PolitikbeiUns
 permalink: /open-government/politikbeiuns
 visuals:

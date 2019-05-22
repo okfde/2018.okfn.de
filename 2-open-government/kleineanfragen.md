@@ -1,44 +1,43 @@
 ---
 layout: page
-chapter: 2.4
+chapter: 2.04
 title: kleine Anfragen
+website: https://kleineanfragen.de/
 permalink: /open-government/kleineanfragen/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
 problem: 
-- title: Mangelndes Wissen,
-  text: Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. 
-- title: komplizierte Handhabung und
-  text: In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten
-- title: widerspenstige Verwaltungen
-  text: Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen.
+- title: Anfragen und Antworten aus den Parlamenten sind nicht zugänglich
+- title: Mangelnde Transparenz,
+- title: unbenutzbare Werkzeuge und
+  text: Suchfunktionalitäten der Parlamentsdokumentationssysteme erfassen nicht den vollständigen Text und teilweise ist keine Verlinkung auf Anfragen in diesen Systemen möglich
+- title: wenig Berichterstattung
+  text: Anfragen werden von sich aus von Journalist*innen nicht gefunden, manchmal werden sie vorab von Abgeordneten direkt an befreundete Journalist*innen weitergegeben oder darauf hingewiesen
 - title: führen dazu, dass
-- claim: Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist
-- claim: die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist
+  claim: Sich interessante und wertvolle Informationen in den Antworten finden, diese jedoch von wenigen Menschen außerhalb des Parlaments gelesen werden. 
 
 
 solution:
-- title: Einfache Anfragen online
-  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalisten und NGOs.
-- title: Transparente Darstellung
-  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht.
-- title: Laufende Berichterstattung
-  text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf. 
+- title: Neue und einfache Tools
+  text: Mithilfe von einfach verständlichen Werkzeugen können alle einfacher auf die Anfragen & Antworten zugreifen.
+- title: Verknüpfung mit bestehenden Tools
+  text: Durch den Verweis auf Tabula und die Implementation eines offenen Standards (OParl) können Daten in den Antworten, aber auch die Metadaten zu allen Antworten weiterverwendet werden
+- title: Best Practice
+  text: Durch ein Best-Practice-Beispiel werden Verwaltungen und Politik von den Vorteilen offener Werkzeuge überzeugt.
 effect:
-- title: Auf BürgerInnen 
-  text: Mehr Menschen erkennen ihr Recht auf Informationsfreiheit
-  text: Mehr Menschen nutzen das Recht
-  text: Die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess
-- title: Auf Verwaltungen
+- title: Auf Verwaltung & Abgeordnete
+  text: Anfragen und Antworten tauchen bei normaler Suchmaschinenrecherche auf
+  text: Der Regierungsprozess wird transparenter und politische Beteiligung wird vereinfacht
+- title: Auf interessierte Menschen
   text: Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können
-  text: Verwaltungen befolgen das Informationsfreiheitsgesetz stärker
-  text: Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt
-- title: Auf Multiplikatoren
-  text: Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht
-  text: Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten
+  text: NGOs, Bürgerinitativen und andere Interessensvereinigungen erfahren schneller, wenn ihre Themen im Parlament angefragt werden
+- title: Auf Journalist*innen / Medien
+  text: Der Einstieg in das Thema aus journalistischer Sicht wird vereinfacht
+  text: Die parlamentarische Anfrage als journalistisches Werkzeug rückt stärker in den Fokus der Medien
+  text: Mehr Artikel und Nachforschungen werden erstellt, die sich auf Anfragen stützen
 - title: Gesellschaftliche Wirkung
-  claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt 
+  claim: Regierungshandeln wird transparenter, Parlamentsarbeit wirksamer und besser nachvollziehbar, da mehr Menschen die Möglichkeit haben, sich über Teile dessen zu informieren
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -53,15 +52,16 @@ achievements: >
     * Aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
 
 outputs: >
-    * Anfragen gesamt: 33.218
-    *  NutzerInnen gesamt: 11.833
-    * Gewonnene Klagen: 9
-    * Großer Erfolg: Alle Bundesministerien öffnen Gesetzentwürfe und Lobby-Stellungnahmen nach FragDenStaat-Kampagne “Gläserne Gesetze”
-
+    * 101.000 Anfragen und Antworten zugänglich und leicht durchsuchbar
+    * 701 aktive E-Mail-Abonnements
+    * Monatlich ~30.000 unique Besucher, ~147.000 Seitenaufrufe
 
 outcome: >
-     Durch “Gläserne Gesetze” stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus. Gewonnene Klagen haben zu Grundsatzurteilen geführt.
-     Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
+    * Verwaltungsmitarbeitende der Parlamente nutzen kleineAnfragen.de öfter als ihre eigenen Tools
+    * Politische Parteien und Verwaltungen interessieren sich für die Plattform und wollen eigene Arbeit verbessern
+    * Regierungshandeln wird transparenter und Parlamentsarbeit besser nachvollziehbar, da mehr Menschen die Möglichkeit haben, sich über Teile dessen zu informieren. Das führt zu besseren Möglichkeiten für Partizipation
+
+
 
 evaluation:  >
     * Über den Blog und die Mailingliste wird regelmäßig über FragDenStaat berichtet.
@@ -83,14 +83,22 @@ evaluation:  >
 
 # Portal für Anfragen nach dem Informationsfreiheitsgesetz
 
-## Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
+In den Landtagen und im Bundestag haben Abgeordnete ein parlamentarisches Fragerecht. Die Antworten darauf sind aber wenig bekannt, obwohl sie viele interessante Details enthalten. Die Dokumentenmanagementsysteme der Parlamente (hier: Parlamentsdokumentationssysteme) sind nicht nutzerfreundlich, sodass selbst Verwaltungsmitarbeitende diese ungern benutzen. Bei manchen Parlamenten lassen sich Dokumente nicht verlinken, ein Teilen in Sozialen Netzwerken ist also nicht möglich. Man muss jedes Parlamentssystem einzeln durchsuchen, eine Suche über alle Parlamente funktioniert nur auf Stichwortbasis.
 
-Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist.
+# Lösungsansatz  
 
-Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig. Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht. Das Team von FragDenStaat informiert aktuell über neue Fälle, führt strategische Klagen durch und zeigt Erfolge und Probleme der Informationsfreiheit auf. 
+* Schaffung einer besseren Zugänglichkeit der Anfragen und Antworten aus den Parlamenten
+* Volltextsuche der Anfragen und Antworten aus allen Parlamenten auf einer Seite
+* Benachrichtungsfunktion bei neuen Anfragen oder Antworten, die auf einen Suchbegriff zutreffen
 
-Mehr Menschen erkennen ihr Recht auf Informationsfreiheit, mehr Menschen nutzen das Recht und die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess. Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können und Verwaltungen befolgen das Informationsfreiheitsgesetz besser. Die Akzeptanz in Verwaltungen für Informationsfreiheit wird gestärkt. Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht und es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten.
+# Angestrebte Wirkung
 
-Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
+* Verwaltungsmitarbeitende der Parlamente nutzen kleineAnfragen.de öfter als ihre eigenen Tools
+* Journalist*innen und interessierte Bürger*innen finden interessante Anfragen und Antworten
+* Anfragen tauchen in Suchmaschinen öfter auf
+* Parlamentsdokumentationssysteme und Metadaten in den Dokumenten werden verbessert
 
- 
+# Gesellschaftliche Wirkung
+
+Regierungshandeln wird transparenter und Parlamentsarbeit besser nachvollziehbar, da mehr Menschen die Möglichkeit haben, sich über Teile dessen zu informieren. Das führt zu besseren Möglichkeiten für Partizipation.
+

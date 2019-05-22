@@ -1,12 +1,15 @@
 ---
 layout: page
-chapter: 2.1
+chapter: 2.01
 title: FragdenStaat
+website: https://fragdenstaat.de
 permalink: /open-government/fragdenstaat/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
 problem: 
+- text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
+causes:
 - title: Mangelndes Wissen,
   text: Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. 
 - title: komplizierte Handhabung und
@@ -48,32 +51,43 @@ resources:
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
+
     + 30 laufende Klagen im Bereich Informationsfreiheit 
+    
     * Neue Kampagnenfunktionen und Batch-Anfragen für Journalisten
+    
     * Aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
 
 outputs: >
     * Anfragen gesamt: 33.218
+    
     *  NutzerInnen gesamt: 11.833
+    
     * Gewonnene Klagen: 9
+    
     * Großer Erfolg: Alle Bundesministerien öffnen Gesetzentwürfe und Lobby-Stellungnahmen nach FragDenStaat-Kampagne “Gläserne Gesetze”
 
 
 outcome: >
-     Durch “Gläserne Gesetze” stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus. Gewonnene Klagen haben zu Grundsatzurteilen geführt.
-     Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
+    * Durch “Gläserne Gesetze” stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus. 
+
+    * Gewonnene Klagen haben zu Grundsatzurteilen geführt.
+     
+impact: >
+    * Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
 
 evaluation:  >
     * Über den Blog und die Mailingliste wird regelmäßig über FragDenStaat berichtet.
+    
     * Metriken über die Nutzung von FragDenStaat sind jederzeit über Piwik einsehbar.
+    
     * Kleine Politische Risiken: Schwächung der Informationsfreiheit, Erschwerung der Anfragen über Internet-Plattformen
+    
     * Finanzielle Risiken: Fehlende Finanzierung von FragDenStaat 
+    
     * Es ist geplant, weitere Features für NGOs und Journalisten zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen Klagemöglichkeiten gestärkt werden. Berichterstattung, Anfragen und Klagen sollen weiter auf hohem Niveau weitergeführt werden. 
 
 
-    * lol
-
-    * lel
 
 
     Maecenas cursus id eros ac gravida. Nam ut dapibus tellus. Aliquam pharetra, massa quis aliquam viverra.
@@ -82,8 +96,6 @@ evaluation:  >
 
 
 # Portal für Anfragen nach dem Informationsfreiheitsgesetz
-
-## Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
 
 Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist.
 
