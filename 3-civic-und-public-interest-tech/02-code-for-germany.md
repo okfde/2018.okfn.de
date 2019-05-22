@@ -16,23 +16,26 @@ causes:
 - title: eine fehlende Lobby und
   text: Der Kontakt zu Regierungen, Kommunen und Verwaltungen, bpsw. zum Erlangen von Daten, ist für einzelne Akteure schwierig umsetzbar.
 - title: fehlendes Bewusstsein
-  text: Was angeboten wird, bestimmen derzeit große internationale Unternehmen oder Kapitalgeber. Das Wissen darüber, was benötigt wird und skaliert, liegt bei der Gesellschaft, wird aber nicht abgerufen.
+  text: Open Data, Open Source und Open Government sind an vielen Stellen unbekannt oder unverstanden
+  text: Die Regierung, Kommunen, Verwaltungen und andere Institutionen arbeiten deswegen stellenweise ineffizient
 - title: führen dazu, dass
-- claim: Digitale innovation in sozialen Bereichen in Deutschland kaum stattfindet und viele Technologien/Werkzeuge in den “Überwachungskapitalismus” eingebunden sind und somit keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
-
+- claim: Regionale Akteure im Bereich Civic Tech mit ähnlichen Problemen konfrontiert sind
+- claim: es kein stärkendes Netzwerk und keine Lobby gibt.
 
 
 solution:
-- title: Niedrigschwellige Förderung
-  text: Durch einen einfachen Bewerbungsprozess und ein neues, niedrigschwelliges Förderverfahren zeigen wir, dass die Förderung von digitalen Innovationen aus der Gesellschaft möglich ist.
-- title: Kompetenzaufbau
-  text: Über Coachings in den Bereichen UX/UI tragen wir Wissen in die Open-Source-Community, die auch bei der Umsetzung weiterer Projekte helfen kann. 
-- title: Sichtbarkeit
-  text: Wir geben (kleinen) Projekten und Prototypen Sichtbarkeit - Über unsere Webseite, Medien, Konferenzen und andere Veranstaltungen sowie aktive Vernetzungsarbeit.
+- title: Lokale Labs
+  text: Lokale Gruppen aus Menschen, die ihre technischen Fähigkeiten dazu nutzen, um das gesellschaftliche Zusammenleben positiv zu beeinflussen.
+- title: Vernetzung
+  text: Im Zuge des Programms werden Entscheidungsträger*innen und städtische Verwaltungen mit den lokalen Gruppen vernetzt um gemeinsam an nützlichen und innovativen Projekten für die Stadt zu arbeiten.
+- title: Stärkung von Civic Tech in Deutschland
+  text: es bildet sich eine starke Civic-Tech-Community in DE
+  text: offene Daten werden von BürgerInnen genutzt
+  text: durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen
+
 effect:
-- title: Auf Förderer 
-  text: Mehr Fördermittel werden niedrigschwellig Einzelpersonen bereitgestellt. 
-  text: Mehr Mut zur Förderung prototypischer Projekte mit geringen Fördersummen.
+- title: Auf die Community
+  text: hat einen lokalen Treffpunkt, trifft sich regelmäßig und ist vernetzt
 - title: Auf Entwickler*innen
   text: Fördermittel werden als viable Möglichkeit angesehen, Projekte umzusetzen.
   text: Open Source und User Experience Design als Konzepte werden weiter verbreitet.
@@ -40,7 +43,10 @@ effect:
   text: Digitales Ehrenamt wird sichtbarer und erfährt mehr Anerkennung.
   text: Mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige, informierte Gesellschaft
 - title: Gesellschaftliche Wirkung
-  claim: Digitale Innovation in Deutschland wird befähigt, mehr digitale Tools und sichere Infrastruktur werden für die Gesellschaft geschaffen.
+  claim: Regierungen werden transparenter
+  claim: BürgerInnen sind besser informiert / mehr Bürgerbeteiligung mit digitalen Tools
+  claim: Bewusstsein für Open Source, Open Data, Open Government
+
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -49,82 +55,62 @@ resources:
       img: http://placekitten.com/800/260
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
-    * Projektverwaltung und Dokumentation
-    
-    * Begleitforschung
-    
-    * Eventmanagement
-    
-    * Community Building und Aufbau eines Alumni-Netzwerks
-    
-    * Betreuung der geförderten Projekte
-    
-    * Vermittlung von Coachings
-    
-    * Vernetzung
-    
-    * Öffentlichkeitsarbeit: Social Media, Produktion eigener Inhalte
-    
-    * Vorträge auf Konferenzen
+    * Labs: Projekte entwerfen und umsetzen, Proposals schreiben, sichtbar sein und beraten
 
-    * Agendasetting über Themenschwerpunkte und den Auswahlprozess
+    * Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfänger*innen, Hackdays
+    
+    * Kommunikation: trägt Aktivitäten der Labs nach außen, unterstützt bei der Pressearbeit
+    
+    * Team: Fundraising, Schwerpunkte bestimmen, Research, Planung
+
+    * Open Data Day Veranstaltungen in 17 Städten 
+    
+    * Forum Offene Stadt Hamburg
+    
+    * Neuer Code of Conduct 
+
+    * Neues Lab im Landkreis Schleswig-Flensburg
+    
+    * Teilnahme der Community am Code for America & Code for All Summit 
+
 
 outputs: >
-    * 200 Projekte werden gefördert
-
-    * 400 Personen sind im Alumni-Netzwerk aktiv
-   
-    * Knowledge Base steht frei zur Verfügung
-   
-    * 6 Zwischenberichte
-   
-    * 1 Abschlussbericht
-   
-    * 1 Publikation zu Projektende
-   
-    * 24 x Events (Antragsworkshops, Kick-Off Workshop und Demo-Day)
-   
-    * 2 Videos pro Runde
-  
-    * 8 Blogposts zu den Themenschwerpunkten
+    * über 300 ehrenamtliche ProgrammiererInnen, die sich regelmäßig treffen 
     
-    * 10 Vorträge auf Konferenzen und Fachveranstaltungen
+    * 26 Open Knowledge Labs in DE, die sich mit ihren Gemeinden vernetzen
+    
+    * >90 Projekte, die den Nutzen von offenen Daten aufzeigen
+    
+    * ca. 10-20 Vorträge international und Policy-Arbeit in DE
 
 outcome: >
+    * es bildet sich eine starke Civic-Tech-Community in DE 
+    
+    * offene Daten werden von BürgerInnen genutzt 
 
-    * Neue Narrative für Technologien werden geschaffen
-
-    * Skill-Aufbau auf Seiten der Geförderten (UX-Design, Projektmanagement etc.)
-    
-    * Aufbau einer Community und eines Netzwerks
-    
-    * Ein Beispiel für ein neues Ökosystem für erfolgreiche Projektförderung wird geschaffen
-    
-    * Der Fund ist Vorbild, Aspekte werden von anderen Förderer aufgegriffen
+    * durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen
 
      
 impact:  >
-    * Soziales Engagement nachhaltig gestalten und mehr soziale Gerechtigkeit und Chancengleichheit bewirken
-    
-    * Mehr nutzerfreundliche und sichere Technologieentwicklungen
-    
-    * Kulturwandel im Fördersystem herbeiführen:
-        
-        * Förderung für Civic Tech Projekte und kleine Teams
-        
-        * Förderung für technische Infrastruktur ohne wirtschaftliche Interessen
+    * Regierungen werden transparenter 
+   
+    * BürgerInnen sind besser informiert / mehr Bürgerbeteiligung mit digitalen Tools 
+   
+    * Bewusstsein für Open Source, Open Data, Open Government
+   
+    * Nebenwirkung: Kommunen und Verwaltungen arbeiten effizienter 
+   
+    * Nebenwirkung: Menschen setzen ihre technischen Fähigkeiten für etwas Gutes ein 
+   
+    * Nebenwirkung: mehr technische Mündigkeit (Data Literacy)
 
+evaluation: >
+    Um die Interessen der ehrenamtlich engagierten Freiwilligen der Open Knowledge Labs in Zukunft noch besser berücksichtigen zu können, wurde Code for Germany ein Community Rat gewählt. Dieser wird zusammen mit der Open Knowledge Foundation Deutschland e.V. die strategische Planung des Projekts vorantreiben.
 
-evaluation:  >
-    Der Prototype Fund ist ein Forschungsprojekt, das die Frage zu beantworten sucht, wie neue Zielgruppen für öffentliche Fördergelder erschlossen werden können, und wie die öffentlichen Fördermaßnahmen so angepasst werden können, dass sie für neue Zielgruppen auch viabel sind. Im Zuge der aktuellen Diskussion über Innovationsförderung sind Einzelpersonen und kleine Teams die Zielgruppe des Prototype Funds, für die es bisher keine niedrigschwellige öffentliche Förderung gibt. Der Prototype Fund richtet sich gezielt an Softwareentwickler\*innen und kleine, interdisziplinäre Teams, die gesellschaftliche Themen vorantreiben. 
-    
-    In der Begleitforschung evaluieren wir jede Förderrunde in den Bereichen Outreach, Bewerbungs- und Bewertungsprozess sowie die Umsetzungsphase, und passen von Runde zu Runde die Modalitäten weiter an. Besonders hervorzuheben ist hier die Anhebung der Förderquote von 60% auf 95%, wodurch sich der notwendige Eigenanteil für die Projekte deutlich verringert hat. 
-    
-    Geförderte Projekte erhalten UX-Coachings, um auf die jeweilige Zielgruppe angepasst und besser nutzbar zu werden. Die Coachings wurden von den geförderten Projekten durchweg positiv evaluiert. Zusätzlich dazu wollen wir nun auch Coachings in den Bereichen Kommunikation und Außendarstellung sowie Finanzen anbieten. 
+    Vor fast fünf Jahren ist Code for Germany mit 8 Labs gestartet, mittlerweile gibt es in Deutschland bereits 26 Labs. Das haben wir dieses Jahr zum Anlass genommen gemeinsam über die ehrenamtlichen Strukturen zu sprechen. Beim Lab Leads Workshop haben wir unseren Code of Conduct überarbeitet, welcher im November 2018 in Kraft trat.
 
-
-outlook:  >    
-    Der Prototype Fund braucht pro Call mindestens 75 Einreichungen, um fortgeführt zu werden. Mit Blick auf die bisherigen Einreichungszahlen ist das nicht zu befürchten. Aufgrund des großen Rückhalls in den ersten beiden Runden wurde das Projekt im Sommer 2017 um zwei Jahre und vier weitere Runden verlängert. Deshalb legen wir ein Augenmerk darauf, mit jedem Call neue Zielgruppen anzusprechen und das Feld der Einreichenden zu diversifizieren. 
+outlook: > 
+    Thematisch bewegt uns aktuell vor allem der Smart City Diskurs und damit die Chancen der offenen und freien Digitalisierung der breiten Gesellschaft zugute kommen, widmen wir uns in Zukunft noch ausführlicher dem Thema. Wir stellen unsere Labs gerne als Diskussionsort für die öffentliche digitale Infrastruktur zur Verfügung, um nach Prinzipien des Open Government offen und ko-kreativ mit Politik und Verwaltung Ideen zu entwickeln und Lösungen zu erarbeiten. Wenn ihr euch beteiligen möchtet, dann kommt zum nächsten Lab Treffen in eurer Nähe!
 
 
 ---
@@ -132,22 +118,16 @@ outlook:  >
 
 # Förderprogramm für die Entwicklung von Open-Source-Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, Datensicherheit und anderen
 
-Eine besonders wichtige gesellschaftliche Herausforderung ist der selbstbestimmte und aufgeklärte Umgang mit der wachsenden Durchdringung unserer Gesellschaft durch neue Technologien, Daten und Algorithmen. Neben guten Werkzeugen auf der Anwendungsebene brauchen wir nachhaltige technische und Kommunikations- Infrastrukturen, die Bürger- und Freiheitsrechte zu wahren – Technologien im öffentlichen Interesse. Freie Informationen helfen dabei, unsere Umwelt zu analysieren und bessere Entscheidungen zu treffen. Dafür bedarf es nicht nur mehr offener Daten, sondern auch digitaler Partizipationsmöglichkeiten. Wie diese aussehen sollen, wissen die digital Engagierten selbst am besten. Für sie gibt es aber bisher in Deutschland kaum Möglichkeiten, ihr Engagement zu professionalisieren oder in Innovationsprozesse eingebunden zu werden. 
+Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger, die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.
 
-Öffentliche Fördermaßnahmen in Deutschland richten sich vor allem an Unternehmen und Forschungseinrichtungen. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese ihre Projekte nicht konzentriert verfolgen können, kommt ein enormes Innovationspotenzial nicht zum Tragen. Damit überlassen wir als Gesellschaft digitale Angebote den großen Konzernen und wirtschaftlichkeitsorientierter Forschung, fördern Symptome wie Vendor Lock-in und Datensammlungen. Dabei gibt es großen  Bedarf an Alternativen. 
+In Kommunen und Städten werden immer mehr Open-Data-Portale aufgesetzt und Behörden stellen ihre Informationen öffentlich zur Verfügung. Jedoch mangelt es an Anwendungen für die Daten, die echte Partizipation ermöglichen, spannende Use Cases schaffen und Bürger\*innen involvieren. 
 
-Spezieller Förderfond: Vergabe von Fördermitteln an Einzelpersonen und kleine Teams.
-Open-Source-Entwicklung, damit andere an den Ergebnissen teilhaben können/diese weiter verwerten können.
-Agendasetting über Themenschwerpunkte bei den Ausschreibungen und Policyarbeit
-Vernetzung von Akteuren  und Community-Building im Bereich Civic Tech, Data Literacy, Software-Infrastruktur  und IT-Sicherheit
+Offene Daten alleine reichen nicht aus. Es braucht technikaffine Menschen, die Lust und Möglichkeiten haben, die Daten so aufzubereiten, dass sie von Bürger\*innen genutzt werden können, um sich zu informieren und ihre Stadt mitzugestalten. In Behörden fehlt häufig das technische Know-How und die Design-Expertise, um basierend auf diesen Daten Anwendungen zu entwickeln. Zwar werden auf Hackdays immer wieder Ideen entwickelt, jedoch ohne eine nachhaltige Struktur, in der sie zu Ende gedacht werden könnten.
 
-Regierungsinstitutionen / Verwaltungen / Stiftungen:
-Weitere Förderprogramme die sich an den Bedürfnissen der Zielgruppe orientieren.
-Community:
-Mehr Einzelpersonen nehmen die Arbeit an gesellschaftsrelevanten Inhalten und Projekten auf.
-Gesellschaft:
-Es gibt mehr Tools, Anwendungen und technische Infrastruktur, die Nutzerinnen einen emanzipierten und aufgeklärten Umgang mit Daten, Information und Kommunikation  ermöglichen.
+Code for Germany ist ein Netzwerk von ehrenamtlichen Entwickler\*innen, Designer\*innen und interessierten Bürger\*innen, die Lust darauf haben, ihre Fähigkeiten für ihre Städte und Nachbarschaften einzusetzen. Sie treffen sich regelmäßig in ihren Städten in den OK Labs und entwickeln Ideen weiter. In Zusammenarbeit mit den Bewohner\*innen, Behörden, Politik und dem OK-Lab-Netzwerk werden Daten weiter geöffnet, Use Cases geschaffen und positive, zivilgesellschaftliche Impulse für die Stadt der Zukunft gesetzt. 
 
-Digitale Anwendungen, Werkzeuge und Infrastrukturen, die  einen mündigen Umgang mit Technologie ermöglichen, die Privatsphäre des Einzelnen schützen und die Selbstbestimmung der NutzerInnen stärken. Digitale Innovationen die der Gesellschaft dienen, kurz: Public Interest Tech.
+Es werden auf Basis von Offenen Daten Anwendungen entwickelt, die den Nutzen von Offenheit und Transparenz aufzeigen. Bürger\*innen nutzen diese Anwendungen, um sich zu informieren und um zu partizipieren. Die Labs werden wichtige Ansprechpartner in ihren Städten und sind Knotenpunkte für digitale Initiativen, Behördenmitarbeiter\*innen und Bürger\*innen.
+
+Durch die Arbeit der Open Knowledge Labs werden die Kommunalverwaltungen, Behörden und Stadtregierungen transparenter in ihrem Handeln. Bürger\*innen können Stadtentwicklung aktiv mitgestalten, indem sie sich informieren und digitale Tools nutzen. Menschen, die sich ehrenamtlich mit ihren technischen Fähigkeiten einsetzen, können im Rahmen der Labs gemeinnützige Tools entwickeln. 
 
  
