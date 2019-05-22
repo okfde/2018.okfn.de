@@ -1,21 +1,21 @@
 ---
 layout: page
-chapter: 3.01
-title: Prototypefund
-website: https://prototypefund.de
-permalink: /civic-und-public-interest-tech/prototypefund/
+chapter: 3.02
+title: Code for Germany
+website: https://codefor.de
+permalink: /civic-und-public-interest-tech/code-for-germany/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
 problem: 
-- text: Wenig digitale Innovation aus der breiten Gesellschaft, wenig Funding für Technologien mit Gemeinwohlansatz.
+- text: Die Civic-Tech Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber kein Netzwerk und keine Lobby haben. 
 causes:
-- title: Mangelnde Ressourcen,
-  text: Digitales Ehrenamt ist aufwändig, wird jedoch kaum anerkannt und ist auf gängingem Wege nicht finanzierbar.
-  text: Auch Technologienetwicklung erfolgt oft nach Wirtschaftlichkeits- oder Datenverwerbarkeitsgesichtspunkten.
-- title: Fehlende Netzwerke
-  text: Es gibt für das digitale Ehrenamt und gemeinwohlorientierte Technologieentwicklung kaum Netzwerke, die sich für eine Verbesserung der Situation einsetzen können. 
-- title: Dominanz großer Unternehmen
+- title: Fehlende Nutzung von Open Data,
+  text: Es gibt bereits aktive Akteure in deutschen Städten, diese agieren aber für sich und ohne Infrastruktur
+  text: Akteure mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
+- title: eine fehlende Lobby und
+  text: Der Kontakt zu Regierungen, Kommunen und Verwaltungen, bpsw. zum Erlangen von Daten, ist für einzelne Akteure schwierig umsetzbar.
+- title: fehlendes Bewusstsein
   text: Was angeboten wird, bestimmen derzeit große internationale Unternehmen oder Kapitalgeber. Das Wissen darüber, was benötigt wird und skaliert, liegt bei der Gesellschaft, wird aber nicht abgerufen.
 - title: führen dazu, dass
 - claim: Digitale innovation in sozialen Bereichen in Deutschland kaum stattfindet und viele Technologien/Werkzeuge in den “Überwachungskapitalismus” eingebunden sind und somit keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
