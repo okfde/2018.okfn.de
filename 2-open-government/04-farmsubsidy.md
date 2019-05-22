@@ -15,7 +15,7 @@ visuals:
 
 * Das Projekt FarmSubsidy.org wurde von journalismfund.eu übernommen und wird ohne Budget ehrenamtlich online und aktuell gehalten
 * Ehrenamtliche Arbeitszeit: ~120 Stunden im Jahr
-*Die Archivierung und der Zugang zu den Daten hilft Journalisten und NGOs, diesen großen Teil des EU-Haushalts besser zu verstehen
+* Die Archivierung und der Zugang zu den Daten hilft Journalisten und NGOs, diesen großen Teil des EU-Haushalts besser zu verstehen
 
 # Hintergrund
 
@@ -28,9 +28,7 @@ visuals:
 
 Der Deutsche Umweltmedienpreis 2018 wurde an eine Recherche verliehen, die die FarmSubsidy.org-Daten intensiv genutzt hatte.
 
+
 # Ausblick
 
-Für 2018 ist angesetzt, dass mehr Daten wieder in die Suchmaschine integriert werden
-
-
-## https://farmsubsidy.org/
+Für 2018 ist angesetzt, dass mehr Daten wieder in die Suchmaschine integriert werden.

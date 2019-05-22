@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.13
+chapter: 2.11
 title: D-EITI
 website: https://www.d-eiti.de/
 permalink: /open-government/d-eiti

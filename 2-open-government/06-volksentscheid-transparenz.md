@@ -23,8 +23,7 @@ visuals:
 
 * Im Berliner Koalitionsvertrag wurde vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wurde bislang nicht vorgelegt.
 * Basierend auf dem Fachgespräch Transparenzgesetz vom 16. Juni 2017 haben wir unseren eigenen Gesetzentwurf weiterentwickelt und ausformuliert. Dabei gab es für alle Menschen die Möglichkeit, den Entwurf online zu kommentieren.
-* Wir führten außerdem mehrere Gespräche mit Vertreter*innen aus Politik, Verwaltung und Zivilgesellschaft, um den Gesetzentwurf zu verbreiten und stetig zu verbessern.
-
+* Wir führten außerdem mehrere Gespräche mit Vertreter\*innen aus Politik, Verwaltung und Zivilgesellschaft, um den Gesetzentwurf zu verbreiten und stetig zu verbessern.
 
 # Highlights
 

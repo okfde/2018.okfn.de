@@ -73,7 +73,7 @@ outcome: >
 
     * Gewonnene Klagen haben zu Grundsatzurteilen geführt.
      
-impact: >
+impact:  >
     * Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
 
 evaluation:  >
@@ -84,13 +84,12 @@ evaluation:  >
     * Kleine Politische Risiken: Schwächung der Informationsfreiheit, Erschwerung der Anfragen über Internet-Plattformen
     
     * Finanzielle Risiken: Fehlende Finanzierung von FragDenStaat 
-    
-    * Es ist geplant, weitere Features für NGOs und Journalisten zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen Klagemöglichkeiten gestärkt werden. Berichterstattung, Anfragen und Klagen sollen weiter auf hohem Niveau weitergeführt werden. 
 
+outlook:  >    
+    * Es ist geplant, weitere Features für NGOs und Journalisten zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen Klagemöglichkeiten gestärkt werden. 
 
+    * Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden. 
 
-
-    Maecenas cursus id eros ac gravida. Nam ut dapibus tellus. Aliquam pharetra, massa quis aliquam viverra.
 
 ---
 

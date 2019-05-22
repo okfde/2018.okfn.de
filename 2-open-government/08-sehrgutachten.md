@@ -2,6 +2,7 @@
 layout: page
 chapter: 2.08
 title: sehrGutachten
+website: https://sehrgutachten.de/
 permalink: /open-government/sehrgutachten
 visuals:
     - img: http://placekitten.com/600/400

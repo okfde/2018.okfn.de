@@ -1,8 +1,9 @@
 ---
 layout: page
-chapter: 2.11
-title: OParl
-permalink: /open-government/oparl
+chapter: 2.09
+title: PolitikbeiUns
+website: https://politik-bei-uns.de
+permalink: /open-government/politikbeiuns
 visuals:
     - img: http://placekitten.com/600/400
       alt: Eine Beschreibung des Textes
@@ -12,17 +13,16 @@ visuals:
       alt: Eine Beschreibung des Textes
 ---
 
-* Finanzierung: keine, ehrenamtlich 
-* Beteiligte: Ernesto Ruge, Konstantin Schütze, Stefan Graupner 
-* Beginn: 2013 
+* Projektstart 2012
+* Projektbeteiligte: Ernesto Ruge
+* 2017 Förderung durch Open.NRW, davor / danach: ehernamtlich betrieben
 
 
 # Hintergrund
 
 OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data für möglichst viele verschiedene Zwecke eingesetzt werden können. 
 
+
 # Highlights
 
-OParl 1.1 wurde veröffentlicht. Ein weiterer Hersteller bietet OParl als Modul für Städte an. Verschiedene weitere Kommunen haben eine OParl-Schnittstelle gekauft. OParl ist Thema einer Unterarbeitsgruppe des Arbeitskreis Open Government geworden, welcher in Vorschläge fpr den Nationalen Aktionsplan der OGP enden wird.
-
-## https://oparl.org/
+* Einige neue Kommunen auch außerhalb von NRW sind hinzugekommen
