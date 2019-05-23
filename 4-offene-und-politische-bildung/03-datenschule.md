@@ -1,7 +1,8 @@
 ---
 layout: page
-chapter: 4.1
-title: FragDenStaat
+chapter: 4.03
+title: Datenschule
+website: https://datenschule.de
 permalink: /offene-und-politische-bildung/datenschule/
 visual:
     img: http://placekitten.com/600/700
