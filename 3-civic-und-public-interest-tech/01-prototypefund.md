@@ -5,7 +5,7 @@ title: Prototypefund
 website: https://prototypefund.de
 permalink: /civic-und-public-interest-tech/prototypefund/
 visual:
-    img: http://placekitten.com/600/700
+    img: /assets/images/civictech/ptf.png
     alt: Eine Beschreibung des Textes
 problem: 
 - text: Wenig digitale Innovation aus der breiten Gesellschaft, wenig Funding für Technologien mit Gemeinwohlansatz.

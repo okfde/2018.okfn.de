@@ -5,7 +5,7 @@ title: kleine Anfragen
 website: https://kleineanfragen.de/
 permalink: /open-government/kleineanfragen/
 visual:
-    img: http://placekitten.com/600/700
+    img: /assets/images/opengovernment/kleineanfragen.png
     alt: Eine Beschreibung des Textes
 problem: 
 - text: Anfragen und Antworten aus den Parlamenten sind nicht zugänglich

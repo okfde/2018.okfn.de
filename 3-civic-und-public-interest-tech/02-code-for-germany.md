@@ -5,7 +5,7 @@ title: Code for Germany
 website: https://codefor.de
 permalink: /civic-und-public-interest-tech/code-for-germany/
 visual:
-    img: http://placekitten.com/600/700
+    img: /assets/images/civictech/codefor.png
     alt: Eine Beschreibung des Textes
 problem: 
 - text: Die Civic-Tech Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber kein Netzwerk und keine Lobby haben. 
@@ -18,7 +18,7 @@ causes:
 - title: fehlendes Bewusstsein
   text: Was angeboten wird, bestimmen derzeit große internationale Unternehmen oder Kapitalgeber. Das Wissen darüber, was benötigt wird und skaliert, liegt bei der Gesellschaft, wird aber nicht abgerufen.
 - title: führen dazu, dass
-- claim: Digitale innovation in sozialen Bereichen in Deutschland kaum stattfindet und viele Technologien/Werkzeuge in den “Überwachungskapitalismus” eingebunden sind und somit keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
+- claim: Digitale innovation in sozialen Bereichen in Deutschland kaum stattfindet und viele Technologien/Werkzeuge in den „Überwachungskapitalismus“ eingebunden sind und somit keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
 
 
 

@@ -3,6 +3,9 @@ layout: page
 chapter: 1.03
 title: Rückblick
 permalink: /uebersicht/rueckblick
+visual:
+    img: /assets/images/einleitung/rueckblick.png
+    alt: Eine Beschreibung des Textes
 ---
 
 Global betrachtet setzten sich auch 2018 einige negative Trends vergangener Jahre fort: Populismus, Nationalismus und Rassismus stellen das demokratische Grundgerüst vieler Nationen in Europa und dem Rest der Welt auf die Probe. Technologiekonzerne mit immer größerem Marktanteil zeigen einen unstillbaren Durst nach persönlichen Daten und dringen mit Hilfe neuer Verfahren und Algorithmen immer tiefer in das Leben ihrer Nutzer*innen ein. Unternehmen nutzen weiter [Schlupflöcher im Steuersystem](https://netzwerksteuergerechtigkeit.files.wordpress.com/2018/01/6_fsi-ranking_incl-_eu-tax-havens.pdf) um Milliarden unversteuert zu belassen. Techno-optimistische Forderungen nach smarten Städten, Künstlicher Intelligenz und ein scheinbar unendlicher Strom an digitalen Konsumangeboten stehen in starkem Kontrast zu einer gemeinwohlorientierten Nutzung moderner Technologien und offener Daten im Sinne der Zivilgesellschaft. Das föderale Bildungssystem in Deutschland hat große Probleme, der Nachfrage nach zeitgemäßen Bildungsformaten gerecht zu werden, obwohl der Bedarf an kompetenten kritischen Geistern, die die Werkzeuge der Digitalisierung für das Gemeinwohl einsetzen, wohl selten größer war.

@@ -4,18 +4,15 @@ chapter: 2.07
 title: https jetzt
 website: https://https.jetzt/
 permalink: /open-government/https-jetzt
-visuals:
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
+visual:
+    img: /assets/images/opengovernment/https.png
+    alt: Eine Beschreibung des Textes
 ---
 
-* Finanzierung: keine, ehrenamtlich
-* Beteiligte: Maximilian Richt, Ernesto Ruge
-* Beginn: 5. März 2016
+https.jetzt! ist ein Projekt, das zeigt, wie viele Behördenwebseiten HTTPS unterstützen. Wieso ist eine Verschlüsselung von Websites wichtig? Jede nicht verschlüsselte Übertragung von Daten kann im Internet abgefangen und somit auch manipuliert werden. Deshalb leuchtet wohl unmittelbar ein, dass jede Übertragung sensibler Daten, etwa bei Bestellungen in Online-Shops, beim Online-Banking oder auch bei Logins auf Websites mit nicht-öffentlichen Inhalten nur verschlüsselt erfolgen sollte. Für den User bedeutet das: Im Zweifel, etwa bei der Benutzung von Online-Bestellformularen, sollte man immer in der Adresszeile prüfen, ob dort eine verschlüsselte Übertragung angezeigt wird. Seriöse und professionelle Anbieter werden vom Kunden keine Daten über unverschlüsselte Kanäle anfordern.
+
+Aber auch bei der Übertragung von normalen Webinhalten erscheint eine Verschlüsselung als sinnvoll. Die Verschlüsselung stellt sicher, dass der User nur die Daten bekommt, die er angefordert hat. Denn es lassen sich nicht nur unverschlüsselt übertragene Daten manipulieren, sondern es kann z.B. in öffentlichen WLANs Schadsoftware in die Daten eingefügt werden. Und nicht zuletzt erschwert die Verschlüsselung generell das Ausspionieren von Userverhalten.
+
 
 
 # Hintergrund
@@ -35,3 +32,9 @@ Das Projekt evaluiert regelmäßig, wie es um die Verbindungssicherheit zu Behö
 # Ausblick 
 
 * Für 2019 ist angesetzt, dass die Aktualisierung der Evaluation weiterhin monatlich stattfindet.
+
+
+# Resosourcen
+
+* Finanzierung: keine, ehrenamtlich
+* Beteiligte: Maximilian Richt, Ernesto Ruge

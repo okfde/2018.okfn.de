@@ -4,7 +4,7 @@ chapter: 2
 title: Open Government
 permalink: /opengovernment/
 visual:
-    img: /assets/images/opengovernment/offenesregierungshandeln.jpg
+    img: /assets/images/opengovernment/opengov.png
     alt: Illustration Offenes Regierungshandeln
 ---
 

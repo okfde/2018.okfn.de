@@ -1,11 +1,11 @@
 ---
 layout: page
 chapter: 2.01
-title: FragdenStaat
+title: FragDenStaat
 website: https://fragdenstaat.de
 permalink: /open-government/fragdenstaat/
 visual:
-    img: http://placekitten.com/600/700
+    img: /assets/images/opengovernment/fragdenstaat.png
     alt: Eine Beschreibung des Textes
 problem: 
 - text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
@@ -29,6 +29,8 @@ solution:
 - title: Laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf. 
 effect:
+- img: http://placekitten.com/800/80
+  alt: Das beschreibt die Projektlaufzeit in Worten
 - title: Auf BürgerInnen 
   text: Mehr Menschen erkennen ihr Recht auf Informationsfreiheit
   text: Mehr Menschen nutzen das Recht
