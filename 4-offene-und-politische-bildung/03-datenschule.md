@@ -9,7 +9,6 @@ visual:
     alt: Eine Beschreibung des Textes
 problem:
 - title: Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert - dies hindert soziale Innovation und die Wahrnehmung von Menschenrechten.
-  text: Lorem ipsum
 - title: Mangelnde Ressourcen,
   text: Digitale Informationen und Technologien  sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen.
 - title: fehlende Expertise,
@@ -30,8 +29,11 @@ effect:
   text: vertiefen ihre digitalen Fähigkeiten und nutzen digitale Informationen und Tools selbstbewusst bei der Planung und Umsetzung ihrer Projekte und Anliegen.
 - title: Civic Tech-Community
   text: durch interdisziplinäres Arbeiten werden soziale Projekte gestärkt,
-- title: Und noch einer
-  text: Lorem ipsum
+  text: mehr Einzelpersonen arbeiten an gesellschaftspolitischen Ansätzen.
+- title: Verwaltungen und Behörden
+  text: stellen besser aufbereitet Informationen zu gesellschaftspolitischen Themen bereit, fördern damit Transparenz und Rechenschaftspflicht
+- title: Gesellschaftliche Wirkung
+  claim: Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten zu sozialen Anliegen  informierter geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen.
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -40,34 +42,68 @@ resources:
       img: http://placekitten.com/800/260
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
-    - Re-Design der website
+    Zusammenarbeit mit dem Projekt Demokratielabore, Thema: Außerschulische Jugendarbeit
 
-    - Ein tolles feature
+      * Wir haben vier [Workshops](https://demokratielabore.de/angebot/schulung) mit Fachkräften aus der Jugendarbeit zu offenen Daten, Storytelling, Citizen Science und Analyse von Twitterdebatten durchgeführt. Die [Lernmaterialien sowie die Train-the-Trainer-Konzepte](https://demokratielabore.de/publikationen) haben wir unter freier Lizenz als OER publiziert. 
 
-    - Lorem ipsum
+      * Während unserer zweitägigen [Data Expedition](https://dataexpedition.demokratielabore.de/) zum Thema Demokratie und Jugendbeteiligung haben wir gemeinsam mit Fachkräften aus der Jugendarbeit, Entwickler/innen und Designer/innen digitale Prototypen und Projektideen entwickelt, die konkrete Herausforderungen der Jugendarbeit forcieren und Lösungen bieten. 
+
+      * Wir haben einen digital-analogen [Datenspaziergang](https://spaziergang.demokratielabore.de/intro) konzipiert, der Interessierten mit Hilfe einer Web-App zeigt, wie die digitale Welt mit realen Orten verwoben ist. Der erste Datenspaziergang führt durch Berlin Kreuzberg. Ein Creator-Tool ermöglicht eigene Spaziergänge online einzutragen. 
+
+    * Vermittlung digitaler Fähigkeiten & Awareness-Raising: Vorträge und Workshops, z. B. beim [3. Jugend- und Netzpolitischen Forum](http://www.politische-jugendbildung-et.de/freiraumnetz18/), [POEM der Universität Hamburg](https://www.poem.uni-hamburg.de/) und [Bits & Bäume-Konferenz](https://bits-und-baeume.org).  
+
 outputs: >
-    * Lorem ipsum
 
-    * Lorem ipsum
+    * *4 Workshops und 1 Data Expedition konzipiert, durchgeführt und dokumentiert*
 
-    * Lorem ipsum
+    * *2 Lernmaterialien und 4 Handreichungen erstellt und als OER publiziert*
 
-    * Lorem ipsum
+    * *1 Datenspaziergang inkl. Web-App und Creator-Tool entwickelt, viermal in Berlin durchgeführt*
+
+    * *5 Workshops mit Partner/innen und auf Konferenzen gehalten*
+
+    * *über 1.000 Follower auf Twitter*
+
+    * *(ca. 5700 Besucherinnen auf Webseite, 145 (450 vor DSGVO) Newsletterabonnent/innen)*
+
 outcome: >
-     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae nisi volutpat, fringilla sapien ut, luctus ligula. Maecenas cursus id eros ac gravida. Nam ut dapibus tellus. Aliquam pharetra, massa quis aliquam viverra, erat dolor aliquet massa, at elementum dolor nunc sed tellus. Sed varius at lorem a blandit. Sed eleifend, orci eu viverra ultricies, neque nunc mattis nulla, eu mollis tellus justo eu turpis. Praesent rhoncus eros odio, ut commodo lorem commodo vitae.
+  * Gemeinnützige Organisationen lernen, die Qualität von (ihren) Daten zu bewerten und zu verbessern. Sie nutzen digitale Methoden, Tools und Informationen zielgerichtet im Arbeitsalltag und beteiligen sich als Impulsgeber/innen an öffentlichen, gesellschaftspolitischen Debatten. 
+
+  * Etablierung und Stärkung einer Community von gemeinnützigen Organisationen und Civic-Tech-Aktiven in Deutschland.
+
+  * Förderung von digitaler Innovation im gemeinnützigen Bereich.
+
+impact: >
+  * Eine größere digitale Mündigkeit in der Gesellschaft stärkt die Teilhabe an gesellschaftspolitischen Fragestellungen und macht soziale Innovation möglich.
+
+  * Gesellschaft ist besser informiert, kann sich an politischen Prozessen und Entscheidungen besser beteiligen. Dies stärkt die Demokratie.
+
 evaluation:  >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae nisi volutpat, fringilla sapien ut, luctus ligula. Maecenas cursus id eros ac gravida. Nam ut dapibus tellus. Aliquam pharetra, massa quis aliquam viverra.
+  Evaluation und Lernerfahrungen
 
-    #### Kleine Unterüberschrift
+    * Wirkung des Projekts und die Evaluation der Aktivitäten erfolgt nach zuvor festgelegten Qualitätsindikatoren 
 
-    * lol
+    * Wirkung der Workshops wird nach einem [Data Literacy Maturity Modell ](https://datenschule.de/files/workshops/DataLiteracy-MaturityModel-Datenschule.pdf )evaluiert (bei z.B. Workshops eingesetzt)
 
-    * lel
+    * Bei Partnerprojekten gibt es zusätzliche Beratungs- und Monitoringinstanzen mit externen Expert/innen (Roundtables und Stakeholder-Dialoge, Interviews, Feedback-Runden)
+
+    * Erkenntnisse aus unseren Aktivitäten werden regelmäßig auf dem Blog der Datenschule und der Referenzen-Seite zugänglich gemacht.
+
+  Ausblick (Risiken und Chancen)
+
+    * Chancen
+
+        * Für gemeinnützige Organisationen ist der digitale Raum ein wichtiger Interaktionsort, den sie stärker mitdenken wollen. Das Angebot der Datenschule möchten wir zukünftig skalieren, um den Bedürfnissen der sozialen Organisationen flächendeckender zu begegnen.
+
+    * Risiken
+
+        * Um digitale Kompetenzen in den Organisationen nachhaltig zu stärken, bedarf es besseren Strukturen zur Förderung der praktischen Auseinandersetzung mit der Digitalisierung. Als gemeinnützige Initiative werden wir daher auch in Zukunft kostenlose Workshops und Lernformate anbieten, um die Beteiligung vieler Initiativen mit knappen Ressourcen zu ermöglichen. 
 
 
-    Maecenas cursus id eros ac gravida. Nam ut dapibus tellus. Aliquam pharetra, massa quis aliquam viverra.
 
 ---
+
+# Vermittlung von Daten-Kompetenzen
 
 Daten sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen. Nur wenige Organisationen verfügen über eine fundierte digitale Expertise und Tools, um aussagekräftige Erkenntnisse aus Daten zu ziehen und ihre Anliegen mit Beweisen zu belegen. Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert - dies hindert soziale Innovation und die Wahrnehmung von Menschenrechten.
 
@@ -92,7 +128,7 @@ Verwaltungen/ Behörden:
 
 * stellen besser aufbereitet Informationen zu gesellschaftspolitischen Themen bereit, fördern damit Transparent und Rechenschaftspflicht
 
-5. Gesellschaftliche Wirkung
+Gesellschaftliche Wirkung
 
 * digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen
 * öffentliche Debatten werden faktenbasiert geführt durch den mündigen und emanzipierten Umgang mit digitalen Informationen und Technologien

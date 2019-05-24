@@ -2,48 +2,42 @@
 layout: page
 chapter: 4.04
 title: Turing-Bus
-website: https://jugendhackt.org
-permalink: /open-government/turing-bus/
+website: https://turing-bus.de
+permalink: /offene-und-politische-bildung/turing-bus/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
 problem:
-- text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
+- text: Der ländliche Raum leidet unter einem Mangel an Aktionsräumen im Bereich der digitalen Bildung.
 causes:
-- title: Mangelndes Wissen,
-  text: Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt.
-- title: komplizierte Handhabung und
-  text: In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten
-- title: widerspenstige Verwaltungen
-  text: Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen.
+- title: Wenig Angebote,
+  text: Außerschulische Bildungsangebote finden sich hauptsächlich in Großstädten und Ballungszentren
+- title: unzulängliche Lehrpläne  
+  text: Lehrpläne bereiten nicht ausreichend auf die digitale Gegenwart und Zukunft vor
+- title: und unbekannte alternative Bildungsorte
+  text: Hackspaces, Fablabs und Offene Werkstätten existieren, sind aber oft nicht bekannt (genug).
 - title: führen dazu, dass
   claim: >
-    * Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist
-
-    * die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist
+    * der ländliche Raum an einem Mangel an Aktionsräumen leidet
 
 
 solution:
-- title: Einfache Anfragen online
-  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalisten und NGOs.
-- title: Transparente Darstellung
-  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht.
-- title: Laufende Berichterstattung
-  text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+- title: Workshops
+  text: Der Turing-Bus bringt Hands-On Workshops an Schulen im ländlichen Raum, die ohne Vorbildung an Themen der Informatik heranführen.
+- title: Diskussionsveranstaltungen
+  text: In verschiedenen Formaten werden gesellschaftliche Konsequenzen der Digitalisierung mit Vertretern aus Politik und Wirtschaft diskutiert. 
+- title: Miteinbeziehung existierender Angebote
+  text: Vertreter von Hackspaces, Fablabs und Offenen Werkstätten werden als Workshopleiter und als Diskussionsteilnehmer*innen miteinbezogen. 
 effect:
-- title: Auf BürgerInnen
-  text: Mehr Menschen erkennen ihr Recht auf Informationsfreiheit
-  text: Mehr Menschen nutzen das Recht
-  text: Die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess
-- title: Auf Verwaltungen
-  text: Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können
-  text: Verwaltungen befolgen das Informationsfreiheitsgesetz stärker
-  text: Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt
-- title: Auf Multiplikatoren
-  text: Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht
-  text: Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten
+- title: Auf Schüler\*innen
+  text: Technologien werden besser verstanden und genutzt 
+  text: Aus Konsumenten werden Aktivisten
+  text: nehmen am gesellschaftlichen Diskurs teil
+- title: Auf Akteure und Initiativen im ländlichen Raum
+  text: Angebote werden besser wahrgenommen
+  text: Kontakte zu Schulen in der Region werden aufgebaut
 - title: Gesellschaftliche Wirkung
-  claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt
+  claim: Digitale Mündigkeit wird gefördert und alternative Bildungsangebote werden relevanter.
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -52,56 +46,53 @@ resources:
       img: http://placekitten.com/800/260
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
-    * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
+    * mehr als zwölf Stationen in Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt, Thüringen, Sachsen, Niedersachsen und Nordrhein-Westfalen mit jeweils zwischen 10 bis 120 Teilnehmenden, vorwiegend Schülerinnen und Schüler zwischen 15 und 19 Jahren
+    
+    * dort Hands-on-Workshops, Diskussionsveranstaltungen, Vorträge, Spiele, tw. als kurze 90-min-Workshops im regulären Unterrichtsablauf (Bonn, Pfiffelbach), tw. als eigener Projekttag für eine oder mehrere Klassenstufen und klassen- und jahrgangsübergreifend (Bernau, Landsberg, Tessin) oder als Teil eines Schulprojekttags (Templin), tw. als außerschulische Veranstaltung (Uelzen)
 
-    + 30 laufende Klagen im Bereich Informationsfreiheit
-
-    * Neue Kampagnenfunktionen und Batch-Anfragen für Journalisten
-
-    * Aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
 
 outputs: >
-    * Anfragen gesamt: 33.218
+    * 13 Stationen 
 
-    *  NutzerInnen gesamt: 11.833
+    * 450 TN
 
-    * Gewonnene Klagen: 9
-
-    * Großer Erfolg: Alle Bundesministerien öffnen Gesetzentwürfe und Lobby-Stellungnahmen nach FragDenStaat-Kampagne “Gläserne Gesetze”
-
+    * 45+ Workshops & Diskussionsformate 
 
 outcome: >
-    * Durch “Gläserne Gesetze” stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus.
-
-    * Gewonnene Klagen haben zu Grundsatzurteilen geführt.
+    * Durch Veranstaltungen in Schulen und Jugendzentren, Präsenzen auf Webseite und in den sozialen Medien wird ein Beitrag zur Verbreitung digitaler Bildungsangebote geleistet
 
 impact:  >
-    * Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
+    * Digitale Mündigkeit wird gefördert und alternative Bildungsangebote werden relevanter.
 
 evaluation:  >
-    * Über den Blog und die Mailingliste wird regelmäßig über FragDenStaat berichtet.
+    * Bildungsstand zwischen Gymnasium und restlichen Schulformen signifikant
+    
+    * Kontaktaufnahme mit Schulen nicht einfach 
+    
+    * Infrastruktur in Schulen durchwachsen
 
-    * Metriken über die Nutzung von FragDenStaat sind jederzeit über Piwik einsehbar.
 
-    * Kleine Politische Risiken: Schwächung der Informationsfreiheit, Erschwerung der Anfragen über Internet-Plattformen
-
-    * Finanzielle Risiken: Fehlende Finanzierung von FragDenStaat
 
 outlook:  >
-    * Es ist geplant, weitere Features für NGOs und Journalisten zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen Klagemöglichkeiten gestärkt werden.
+    * Tour mit Themenschwerpunkt Künstliche Intelligenz in 2019
 
-    * Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
+    * Risiken: Finanzierung aufrechterhalten
+
 
 
 ---
 
 
-# Portal für Anfragen nach dem Informationsfreiheitsgesetz
+# Mobiles Bildungsprojekt für den ländlichen Raum
 
-Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist.
+Während die Digitalisierung kontinuierlich voranschreitet, Technologiekonzerne immer mächtiger werden und Lehrpläne keine ausreichende Vorbereitung auf Zukunft und Gegenwart mehr darstellen, entwickeln zivilgesellschaftliche Akteure Formate, um alternative Bildungsräume zu schaffen. Während diese Angebote meist in Großstädten und Ballungszentren vertreten sind, wohnen 42% der Bevölkerung in Deutschland  in Städten mit weniger als 25.000 Einwohnern.
 
-Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig. Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht. Das Team von FragDenStaat informiert aktuell über neue Fälle, führt strategische Klagen durch und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+Der Turing-Bus (benannt nach Alan Turing) ist ein Projekt der Gesellschaft für Informatik und der Open Knowledge Foundation Deutschland. Als mobiles Bildungsangebot fährt er Städte in Deutschland (Stationen) ab, die abseits großer und etablierter Ballungszentren liegen, um Grundlagen der Informatik und gesellschaftliche Konsequenzen der Digitalisierung zu vermitteln und diskutieren.
 
-Mehr Menschen erkennen ihr Recht auf Informationsfreiheit, mehr Menschen nutzen das Recht und die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess. Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können und Verwaltungen befolgen das Informationsfreiheitsgesetz besser. Die Akzeptanz in Verwaltungen für Informationsfreiheit wird gestärkt. Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht und es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten.
+Die Zielgruppe des Projektes sind vor allem junge Menschen zwischen 15 und 19 Jahren. Der Turing-Bus besucht nach Absprache in Schulen, Jugendclubs, lokale Labs oder passende Veranstaltungen. In kostenlosen Workshops, Diskussionsveranstaltungen und Vorträgen geben fachkundige Expertinnen, Aktivisten und Wissenschaftlerinnen, sogenannte Infonauten, Jugendlichen vor Ort spannende Einblicke in die Welt der Informatik. Das breite Spektrum an Methoden, Hardware und Know-How verknüpft praxisnahe IT-Kompetenz mit gesellschaftlichen Fragen der Digitalisierung. Die Angebote, Projekte und Fähigkeiten, die auf den Stationen vermittelt werden, stammen aus dem weiteren Feld der In Informatik und werden von Expert\*innen in den jeweiligen Gebieten vermittelt. 
 
-Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
+Der Turing-Bus fuhr 2018 zum ersten mal im Rahmen des Wissenschaftsjahress 2018 - Arbeitswelten der Zukunft. 
+
+Schüler\*innen sollen durch das Angebot des Turing-Busses lernen, relevante Technologien der Gegenwart zu verstehen und zu kontrollieren, um als digital mündige Mitglieder der Gesellschaft eine aktive und aufgeklärte Rolle einzunehmen. Existierende Projekte und Initiativen aus dem digitalen Bildungsbereich werden als Worskhopgeber involviert und erfahren so einen höheren Bekanntheitsgrad.
+
+Zeitgemäße Bildungsangebote werden so in den ländlichen Raum gebracht und existierende Initiativen werden bekannter. Junge Menschen werdend dadurch mit alternativen Bildungsräumen in Kontakt gebracht und können selbstbestimmt lernen.   

@@ -3,46 +3,35 @@ layout: page
 chapter: 4.01
 title: Jugend hackt
 website: https://jugendhackt.org
-permalink: /open-government/jugendhackt/
+permalink: /offene-und-politische-bildung/jugendhackt/
 visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
 problem:
-- text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
+- text: Jugendliche mit besonders hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten
 causes:
-- title: Mangelndes Wissen,
-  text: Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt.
-- title: komplizierte Handhabung und
-  text: In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten
-- title: widerspenstige Verwaltungen
-  text: Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen.
-- title: führen dazu, dass
+- title: Eine allgemeine gesellschaftliche Technik-Skepsis, mangelnde Anerkennung für die Programmierbegeisterung bei Jugendlichen,
+  text:
+- title: fehlende offene Lernräume vor Ort und
+  text:
+- title: der oft noch fehlende Blick für die gesellschaftlichen Chancen der Digitalisierung führen dazu, dass
   claim: >
-      * Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist
-
-      * die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist
+      * Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
 
 solution:
-- title: Einfache Anfragen online
-  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalisten und NGOs.
-- title: Transparente Darstellung
-  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht.
-- title: Laufende Berichterstattung
-  text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+- title: Jugend-Hackathons
+  text: Jugendliche vernetzen sich mit Gleichgesinnten, arbeiten an digitalen Projekten und setzen sich gleichzeitig mit deren gesellschaftlichen und ethischen Implikationen auseinander. 
+- title: Workshops für Programmier-Einsteiger\*innen
+  text: Jugendliche werden von Nutzer*innen zu Gestalter\*innen. Sie erleben, dass sie mit digitalen Mittel ihre eigenen Ideen in die Tat umsetzen können und gewinnen an Mündigkeit und Selbstbestimmtheit.
+- title: internationaler Schüler\*innenaustausch
+  text: Das deutsch-türkische Austauschprogramm von Jugend hackt, re:coded und der deutsch-türkischen Jugendbrücke ermöglicht Schüler\*innen aus Deutschland und der Türkei die Berliner Open Source und Civic Tech Szene kennenzulernen, sowie am Berliner Jugend-Hackathon teilzunehmen.
 effect:
-- title: Auf BürgerInnen
-  text: Mehr Menschen erkennen ihr Recht auf Informationsfreiheit
-  text: Mehr Menschen nutzen das Recht
-  text: Die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess
-- title: Auf Verwaltungen
-  text: Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können
-  text: Verwaltungen befolgen das Informationsfreiheitsgesetz stärker
-  text: Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt
-- title: Auf Multiplikatoren
-  text: Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht
-  text: Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten
-- title: Gesellschaftliche Wirkung
-  claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt
+- title: Auf Jugendliche, die gerne programmieren
+  text: entwickeln Zugehörigkeitsgefühl und ein positives Selbstbild
+  text: erweitern ihr Allgemeinwissen und ihre Reflexionsfähigkeit
+  text: vertiefen ihre Problemlösungsfähigkeiten
+  text: erleben (politische) Selbstwirksamkeit
+  claim: Programmierinteressierte Jugendliche vernetzen sich und sind motiviert, sich gesellschaftlich zu engagieren. Es entsteht mehr Beteiligung in Form von digitalem Ehrenamt sowie eine breitere Reflexion über ethische Fragen der Digitalisierung. 
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -51,56 +40,101 @@ resources:
       img: http://placekitten.com/800/260
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
-    * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
+    * verschiedene Veranstaltungsformate für Jugendliche
 
-    + 30 laufende Klagen im Bereich Informationsfreiheit
+    * medienpädagogisch fundierte Veranstaltungs-Konzepte, um die gesteckten Ziele zu erreichen
 
-    * Neue Kampagnenfunktionen und Batch-Anfragen für Journalisten
+    * Gewinnung und Fortbildung von Mentor\*innen (ehrenamtlichen Expert\*innen)
 
-    * Aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
+    * Vernetzung und Wissensaustausch zwischen allen Partnern
 
 outputs: >
-    * Anfragen gesamt: 33.218
+    * 7 Jugend-Hackathons in Deutschland
 
-    *  NutzerInnen gesamt: 11.833
+    * 1 Jugend-Hackathon in der Schweiz
 
-    * Gewonnene Klagen: 9
+    * 1 deutsch-türkisches Austauschprogramm in Berlin 
 
-    * Großer Erfolg: Alle Bundesministerien öffnen Gesetzentwürfe und Lobby-Stellungnahmen nach FragDenStaat-Kampagne “Gläserne Gesetze”
+    * mehr als 40 Hello World-Workshops für Programmier-Einsteiger\*innen
+
+    * mehr als 500 Mädchen und Jungen haben teilgenommen
+
+    * Erfolgreiche Ausschreibung für die Pilotregionen der Jugend hackt Labs mit über 30 Bewerbungen
 
 
 outcome: >
-    * Durch “Gläserne Gesetze” stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus.
+    Eine Wirkungsanalyse kam bereits im Jahr 2014/2015 zu folgenden Ergebnissen:
 
-    * Gewonnene Klagen haben zu Grundsatzurteilen geführt.
+    * das Selbstbild der Teilnehmer\*innen verbessert sich nach der Teilnahme an Jugend hackt
+    
+    * das Interesse an Teamwork und die selbst erlebte diesbezügliche Kompetenz erhöht sich
+    
+    * die Mentor*innen werden mehrheitlich als große Hilfe und sogar als Vorbilder angesehen.
+
 
 impact:  >
-    * Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
+    Die Jugendlichen werden in ihrer Fähigkeit gestärkt, Dinge selbst zu gestalten und ihr technisches Know-how mit gesellschaftspolitischem Gestaltungswillen zu verknüpfen. Dabei können sie ihr Selbst- und Weltbild weiterentwickeln und diese neuen Perspektiven in ihren Alltag übertragen. Dies wirkt sich auf ihre Interaktion sowohl mit Gleichaltrigen als auch mit Erwachsenen aus. Langfristig wirken diese Erfahrungen und Erkenntnisse der Politikverdrossenheit entgegen und führen zu einer reflektierteren und gleichzeitig positiveren Diskussion digitaler Möglichkeiten. Es entstehen Anstöße und Motivation zur Mitgestaltung des eigenen Umfelds und damit letztlich unserer Gesellschaft. 
 
 evaluation:  >
-    * Über den Blog und die Mailingliste wird regelmäßig über FragDenStaat berichtet.
 
-    * Metriken über die Nutzung von FragDenStaat sind jederzeit über Piwik einsehbar.
+    Welche Lessons learned gab es?
+    
+     * Fokus auf qualitativem Wachstum
+    
+    Welche Hürden wurden wie gemeistert?
 
-    * Kleine Politische Risiken: Schwächung der Informationsfreiheit, Erschwerung der Anfragen über Internet-Plattformen
+      * Führungswechsel und Teamwachstum wurden erfolgreich umgesetzt
+        
+    Welche Indikatoren (siehe Output oben) werden wie überprüft?
 
-    * Finanzielle Risiken: Fehlende Finanzierung von FragDenStaat
+      * Anzahl der Veranstaltungen
+
+      * Resonanz der Teilnehmer*innen (wie stark werden die Veranstaltungen nachgefragt, Feedback-Fragebogen)
+    
+    Gibt es Monitoring, regelmäßige Treffen, Berichte, Team-Konferenzen (z.B. Policy Gruppe), Strategie-Meetings, Schulungen, Zielvereinbarungen 
+
+      * Netzwerktreffen 2x jährlich mit allen Partnern
+      
+      * regelmäßige Beratungs-Termine für Partner
+      
+      * Strategie-Meeting zur Jahresplanung
+      
+      * Kooperationsvereinbarungen mit Partnern
 
 outlook:  >
-    * Es ist geplant, weitere Features für NGOs und Journalisten zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen Klagemöglichkeiten gestärkt werden.
+    
+    Welche Risiken und Chancen sind absehbar?
 
-    * Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
+      * Risiken: zu schnelles Wachstum der Angebote und des Teams
+      
+      * Chancen: Modularer Aufbau der Angebote stärker dezentralisieren und mehr Zeit für Teamwachstum einplanen
+    
+    Welche Vorhaben / konkrete Deliverables sind geplant? 
 
+      * Start der ersten beiden Jugend hackt Labs
+      
+      * Website-Relaunch
+      
+      * Intensivierung des Community-Managements
+      
+      * Weiterentwicklung der pädagogischen Schulung für Mentor*innen
+      
+      * Nachhaltigerenund regelmäßigeren Austausch der Zielgruppe fördern
 
 ---
 
 
-# Portal für Anfragen nach dem Informationsfreiheitsgesetz
+# Mit Code die Welt verbessern
 
-Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist.
+Jugendliche mit besonders hohem Technik-/IT-Interesse finden in ihrem Alltag oft wenige Anschlussmöglichkeiten und Technik-/IT-Kompetenz wird nicht als Chance für persönliche und gesellschaftliche Veränderungen zum Besseren wahrgenommen. Bei vielen Eltern/Pädagogi*innen herrscht nach wie vor eine große Skepsis gegenüber der Nutzung digitaler Tools durch Kinder/Jugendliche. Generell werden in der gesellschaftliche Wahrnehmung eher die Risiken der Digitalisierung diskutiert, statt zu diskutieren, wie die Möglichkeiten positiv für die Gesellschaft genutzt werden können. IT-begeisterte Jugendliche kennen außerdem oft wenige Gleichgesinnte und müssen sich gegenüber Erwachsenen dafür rechtfertigen, dass sie viel Zeit vor dem PC verbringen. 
 
-Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig. Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht. Das Team von FragDenStaat informiert aktuell über neue Fälle, führt strategische Klagen durch und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+Jugend hackt begegnet dem Problem mit Jugend-Hackathons und Workshops für Programmier-Einsteiger*innen. Was Jugend hackt dabei vor anderen Angeboten, auszeichnet ist der gesellschaftspolitische Anspruch. unter dem Motto “mit Code die Welt verbessern” ist neben dem Programmieren die Entwicklung einer ethische Haltung und Mündigkeit der Jugendlichen gleichwertiger Bestandteil des Programms.
 
-Mehr Menschen erkennen ihr Recht auf Informationsfreiheit, mehr Menschen nutzen das Recht und die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess. Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können und Verwaltungen befolgen das Informationsfreiheitsgesetz besser. Die Akzeptanz in Verwaltungen für Informationsfreiheit wird gestärkt. Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht und es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten.
+Die Jugendlichen lernen, wie sie Teamwork und Peer-to-Peer-Austausch nutzen können, um Herausforderungen gemeinsam zu lösen
+vertiefen die Fähigkeit, gesellschaftliche Herausforderungen zu benennen und entwickeln mit Hilfe ihrer technischen/digitalen Kompetenz Lösungsideen für gesellschaftliche Herausforderungen.
 
-Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
+**Vernetzung & Gesellschaftliche Beteiligung:** Junge Menschen arbeiten in Teams und lösen Probleme gemeinsam. Sie erleben sich als Teil einer Gruppe und erkennen, dass sie über Fähigkeiten und Kenntnisse verfügen, durch die sie Dinge aktiv mitgestalten können. Das Denken verändert sich weg von “da kann man ja sowieso nichts machen” hin zu “so wünsche ich mir die Welt und Folgendes will ich dafür tun”. Das wirkt in die Gesellschaft hinein, dem Gefühl der Alternativlosigkeit entgegen und trägt zu einer demokratischen, aktiven Gesellschaft bei.
+
+**Ethische Reflexion digitaler Möglichkeiten**: Gestärkt wird darüber hinaus die gesellschaftliche Reflexion über die Chancen und Risiken dessen, was mit digitalen Mitteln machbar ist (z.B. Technikfolgenabschätzung, Algorithmenethik) und wie sie sich zum Wohl der Gesellschaft nutzen lassen.
+
+

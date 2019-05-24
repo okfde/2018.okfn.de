@@ -8,42 +8,37 @@ visual:
     img: http://placekitten.com/600/700
     alt: Eine Beschreibung des Textes
 problem:
-- text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
+- text: Jugendliche Positionen werden in einer überalternden Gesellschaft nicht ausreichend wahrgenommen, was zu Politikverdrossenheit führt.
 causes:
-- title: Mangelndes Wissen,
-  text: Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt.
-- title: komplizierte Handhabung und
-  text: In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten
-- title: widerspenstige Verwaltungen
-  text: Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen.
+- title: Wenig Angebote,
+  text: Außerschulische Jugendeinrichtungen haben oftmals wenige, teilweise gar keine Angebote mit digital-politischem Schwerpunkt in ihrem Programm
+- title: fehlende Kompetenzen
+  text: Pädagogischen Fachkräften in den Jugendeinrichtungen vor Ort fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. 
+- title: und wenig Sichtbarkeit
+  text: Ein konsumorientiertes Nutzungsverhalten digitaler Werkzeuger steht einem kreativ-schaffenden gegenüber und verhindert die eigene Wahrnehmung im digitalen wie analogen Raum durch andere
 - title: führen dazu, dass
   claim: >
-    * Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist
-
-
-    * die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist
+    * der wachsende Zugang zu Technologie nicht in einer wachsenden sozialen Teilhabe mündet.
 
 solution:
-- title: Einfache Anfragen online
-  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalisten und NGOs.
-- title: Transparente Darstellung
-  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht.
-- title: Laufende Berichterstattung
-  text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+- title: Angebote schaffen
+  text: Workshopangebote zu digitalen Tools und gesellschaftlichem Miteinander in Jugendeinrichtungen schaffen und zu eigenen Projekten anregen
+- title: Kompetenzen aufbauen
+  text: Pädagogische Fachkräfte und Mitarbeiter\*innen in Management und Verwaltung zum Einsatz und zur Kontextualisierung digitaler Werkzeuge in ihrer täglichen Arbeit qualifizieren
+- title: Vernetzung fördern
+  text: Räume für Jugendliche und Fachkräfte aufbauen, die zum regelmäßig Austausch einalden und durch eine Unterstützungsstruktur getragen werden
 effect:
-- title: Auf BürgerInnen
-  text: Mehr Menschen erkennen ihr Recht auf Informationsfreiheit
-  text: Mehr Menschen nutzen das Recht
-  text: Die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess
-- title: Auf Verwaltungen
-  text: Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können
-  text: Verwaltungen befolgen das Informationsfreiheitsgesetz stärker
-  text: Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt
-- title: Auf Multiplikatoren
-  text: Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht
-  text: Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten
+- title: Auf Jugendliche
+  text: Mehr Sichtbarkeit im unmittelbaren Umfeld
+  text: Selbstwirksamkeitserfahrungen im Umfeld von Digitalität und Demokratie
+- title: Auf pädagogische Fachkräfte
+  text: Zusätzliche Qualifizierung im Umgang mit digitalen Werkzeugen in der Jugendarbeit
+  text: Ausbau des Netzwerks in die Digitalcommunity
+- title: Auf Fachkräfte in Management und Verwaltung
+  text: Nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
+  text: Nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
 - title: Gesellschaftliche Wirkung
-  claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt
+- claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -52,56 +47,108 @@ resources:
       img: http://placekitten.com/800/260
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
-    * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
 
-    + 30 laufende Klagen im Bereich Informationsfreiheit
+    Für Jugendliche
 
-    * Neue Kampagnenfunktionen und Batch-Anfragen für Journalisten
+      * Workshops und Digital-AGs für Jugendliche 
+      
+      * Vernetzung mit anderen Technikinitiativen 
+      
+      * Lernplattform mit inspirierenden Projektideen und Tutorials  
 
-    * Aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
+
+    Für erwachsene Fachkräfte/Multiplikator\*innen
+    
+      * Train-the-Trainer Schulungen zu den Workshops
+      
+      * 4 Fachkräfteschulungen (Themen: Citizen Science, Digitales Storytelling, Offene Daten in der Jugendarbeit, Twitterdebatten analysieren)
+      
+      * Konzeption und Durchführung einer zweitägigen Data Expedition
+      
+      * Entwicklung und Durchführung eines Datenspaziergangs durch Berlin inkl. Web-App
+
+    Sonstige 
+
+      * Netzwerktreffen für Fachkräfte der Digital-AGs
 
 outputs: >
-    * Anfragen gesamt: 33.218
+    * Konzeption von 3 weiteren Workshopformaten
+    
+    * 73 Workshopdurchführungen für Jugendliche und Multiplikator*innen
+    
+    * 3 Digital-AGs in Einrichtungen außerschulischer Jugendarbeit 
+    
+    * insgesamt 931 erreichte Personen (624 Jugendliche, 214 päd. Fachkräfte, 93 Fachkräfte aus Management und Verwaltung)
+    
+    * 4 Handreichungen zu den Fachkräfteschulungen 
+    
+    * 6 Vorträge 
 
-    *  NutzerInnen gesamt: 11.833
+    * Social Media: ca. 416.000 Impressionen und 708 Follower auf Twitter, 481 Abonnent*innen auf Facebook
 
-    * Gewonnene Klagen: 9
+    * Webseite: ca. 7,5k Besucher*innen, ca. 1.800 Downloads von Materialien
 
-    * Großer Erfolg: Alle Bundesministerien öffnen Gesetzentwürfe und Lobby-Stellungnahmen nach FragDenStaat-Kampagne “Gläserne Gesetze”
+    * Newsletter: ca. 100 Abonnent*innen nach Umstellung gemäß DSGVO
+
 
 
 outcome: >
-    * Durch “Gläserne Gesetze” stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus.
+    Jugendliche
 
-    * Gewonnene Klagen haben zu Grundsatzurteilen geführt.
+      * setzen eigene digitale Projekte um und testen sie
+
+      * lernen einen kreativen Umgang mit konkreten digitalen Tools und Technik im Internet
+      
+      * erkennen verschiedene Meinungen an und tauschen sich aus
+
+      * verstetigen ihre kritische Auseinandersetzung mit Themenfeldern (Peer-to-Peer!)
+
+    Päd. Fachkräfte (vor Ort, direkte Arbeit mit ZG Jugendliche)
+      
+      * setzen sich selbstgesteuert mit digitalen Angeboten auseinander
+      
+      * geben Raum für digitale Angebote der Jugendlichen
+
+      * eigene lokale Angebote werden geschaffen und/oder aufgewertet 
+
+    Fachkräfte aus Management und Verwaltung
+
+      * erkennen den Wert von Daten und stellen diese selbst bereit
+
+      * vertiefen digitale Fähigkeiten und wenden sie an
+
+
 
 impact:  >
-    * Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
+    Die Zugänge Jugendlicher zur Gesellschaft und ihre Repräsentanz in ihr sind gleichermaßen gegeben. Die Jugendlichen haben eine kritische Haltung und digitale Mündigkeit erworben und setzen diese zur Gestaltung der Gesellschaft ein. Das digitale Ehrenamt wird gestärkt durch seine gesellschaftliche Anerkennung. 
+
 
 evaluation:  >
-    * Über den Blog und die Mailingliste wird regelmäßig über FragDenStaat berichtet.
-
-    * Metriken über die Nutzung von FragDenStaat sind jederzeit über Piwik einsehbar.
-
-    * Kleine Politische Risiken: Schwächung der Informationsfreiheit, Erschwerung der Anfragen über Internet-Plattformen
-
-    * Finanzielle Risiken: Fehlende Finanzierung von FragDenStaat
+    Die Zusammenarbeit mit externen Partner*innen wird nach jedem Workshops mittels Feedbackgesprächen evaluiert. In Strategietreffen zum Jahresbeginn wurden Meilensteine geplant und in regelmäßigen Abständen überprüft. Externe Expert\*innen wurden zur Schulung der Mitarbeiter\*innen hinzugezogen.
 
 outlook:  >
-    * Es ist geplant, weitere Features für NGOs und Journalisten zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen Klagemöglichkeiten gestärkt werden.
+    Es besteht die Gefahr, dass gestartete Digital-AGs und das Durchführen von Workshops in Jugendeinrichtungen durch Personalwechsel und personelle Ressourcen nicht nachhaltig weitergeführt werden können. Dem wird versucht, durch das Aufbereiten aller notwendigen Inhalte und Konzepte und durch das Bereitstellen der Lernmaterialien unter freier Lizenz entgegenzuwirken. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
 
-    * Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
 
 
 ---
 
 
-# Portal für Anfragen nach dem Informationsfreiheitsgesetz
+# Mit digitalen Tools die Gesellschaft von morgen gestalten
 
-Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist.
+In einer langsam überalternden Gesellschaft bleiben die Stimmen Jugendlicher viel zu oft ungehört. Das Interesse Jugendlicher an Politik ist in den letzten Jahren zwar gestiegen, dennoch ist die Politikverdrossenheit hoch ([Shell Jugendstudie 2015](https://www.shell.de/ueber-uns/die-shell-jugendstudie.html)). Es fehlt an geeigneten Möglichkeiten der demokratischen Mitsprache, die mit den Lebenswelten Jugendlicher vereinbar sind und über die sie Selbstwirksamkeitserfahrungen sammeln können.
 
-Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig. Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht. Das Team von FragDenStaat informiert aktuell über neue Fälle, führt strategische Klagen durch und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+Die Nutzung digitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswirklichkeit, die jedoch in außerschulischen Bildungseinrichtungen oft nicht hinreichend abgebildet wird. Pädagogischen Fachkräften fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. Ein rein konsumorientierter Zugang zu Technologie führt nicht zwangsläufig zu einer wachsenden sozialen Teilhabe oder zu einer Verkleinerung der sozialen Spaltung (Nicole Zillien (2013): Digitale Spaltung – Reproduktion sozialer Ungleichheiten im Internet).
 
-Mehr Menschen erkennen ihr Recht auf Informationsfreiheit, mehr Menschen nutzen das Recht und die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess. Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können und Verwaltungen befolgen das Informationsfreiheitsgesetz besser. Die Akzeptanz in Verwaltungen für Informationsfreiheit wird gestärkt. Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht und es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten.
+Die Demokratielabore fördern und schaffen...
+* ...Angebote vor Ort in außerschulischen Jugendeinrichtungen 
+* ...Wissenstransfer und Verankerung
+  * in den Jugendeinrichtungen vor Ort
+  * im Management und der Verwaltung der Trägerorganisationen
+* ...ein Bewusstsein für Digitalität als Werkzeug zur Gestaltung von Gesellschaft
+* ...niedrigschwellige Projektangebote- und Ideen zum Ausprobieren digitaler Werkzeuge.
 
-Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
+Jugendliche erhalten dadurch mehr Sichtbarkeit im unmittelbaren Umfeld und sammeln Selbstwirksamkeitserfahrungen im Umgang mit Digitalität und Demokratie. Pädagogische Fachkräfte lernen neue (digitale) Ansätze der Jugendarbeit kennen und erweitern ihr Netzwerk in die netzpolitische Community hinein. Fachkräfte im Management und der Verwaltung nutzen digitale Informationen und Tools für die Planung und Umsetzung ihrer Projekte und Anliegen. 
+
+Durch die Erfahrung von Selbstwirksamkeit im Umgang mit digitalen Werkzeugen und Technologien in ihrer Lebenswirklichkeit werden Jugendliche zu maßgeblichen demokratischen Akteuren und gestalten ihre Gesellschaft aktiv mit.
+
