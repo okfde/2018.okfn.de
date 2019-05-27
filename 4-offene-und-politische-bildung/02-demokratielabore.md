@@ -13,7 +13,7 @@ causes:
 - title: Wenig Angebote,
   text: Außerschulische Jugendeinrichtungen haben oftmals wenige, teilweise gar keine Angebote mit digital-politischem Schwerpunkt in ihrem Programm
 - title: fehlende Kompetenzen
-  text: Pädagogischen Fachkräften in den Jugendeinrichtungen vor Ort fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. 
+  text: Pädagogischen Fachkräften in den Jugendeinrichtungen vor Ort fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung.
 - title: und wenig Sichtbarkeit
   text: Ein konsumorientiertes Nutzungsverhalten digitaler Werkzeuger steht einem kreativ-schaffenden gegenüber und verhindert die eigene Wahrnehmung im digitalen wie analogen Raum durch andere
 - title: führen dazu, dass
@@ -29,16 +29,23 @@ solution:
   text: Räume für Jugendliche und Fachkräfte aufbauen, die zum regelmäßig Austausch einalden und durch eine Unterstützungsstruktur getragen werden
 effect:
 - title: Auf Jugendliche
-  text: Mehr Sichtbarkeit im unmittelbaren Umfeld
-  text: Selbstwirksamkeitserfahrungen im Umfeld von Digitalität und Demokratie
+  text: >
+    Mehr Sichtbarkeit im unmittelbaren Umfeld
+
+
+    Selbstwirksamkeitserfahrungen im Umfeld von Digitalität und Demokratie
 - title: Auf pädagogische Fachkräfte
-  text: Zusätzliche Qualifizierung im Umgang mit digitalen Werkzeugen in der Jugendarbeit
-  text: Ausbau des Netzwerks in die Digitalcommunity
+  text: >
+    Zusätzliche Qualifizierung im Umgang mit digitalen Werkzeugen in der Jugendarbeit
+
+    Ausbau des Netzwerks in die Digitalcommunity
 - title: Auf Fachkräfte in Management und Verwaltung
-  text: Nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
-  text: Nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
+  text: >
+    Nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
+
+    Nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
 - title: Gesellschaftliche Wirkung
-- claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
+  claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -50,39 +57,39 @@ achievements: >
 
     Für Jugendliche
 
-      * Workshops und Digital-AGs für Jugendliche 
-      
-      * Vernetzung mit anderen Technikinitiativen 
-      
-      * Lernplattform mit inspirierenden Projektideen und Tutorials  
+      * Workshops und Digital-AGs für Jugendliche
+
+      * Vernetzung mit anderen Technikinitiativen
+
+      * Lernplattform mit inspirierenden Projektideen und Tutorials
 
 
     Für erwachsene Fachkräfte/Multiplikator\*innen
-    
+
       * Train-the-Trainer Schulungen zu den Workshops
-      
+
       * 4 Fachkräfteschulungen (Themen: Citizen Science, Digitales Storytelling, Offene Daten in der Jugendarbeit, Twitterdebatten analysieren)
-      
+
       * Konzeption und Durchführung einer zweitägigen Data Expedition
-      
+
       * Entwicklung und Durchführung eines Datenspaziergangs durch Berlin inkl. Web-App
 
-    Sonstige 
+    Sonstige
 
       * Netzwerktreffen für Fachkräfte der Digital-AGs
 
 outputs: >
     * Konzeption von 3 weiteren Workshopformaten
-    
+
     * 73 Workshopdurchführungen für Jugendliche und Multiplikator*innen
-    
-    * 3 Digital-AGs in Einrichtungen außerschulischer Jugendarbeit 
-    
+
+    * 3 Digital-AGs in Einrichtungen außerschulischer Jugendarbeit
+
     * insgesamt 931 erreichte Personen (624 Jugendliche, 214 päd. Fachkräfte, 93 Fachkräfte aus Management und Verwaltung)
-    
-    * 4 Handreichungen zu den Fachkräfteschulungen 
-    
-    * 6 Vorträge 
+
+    * 4 Handreichungen zu den Fachkräfteschulungen
+
+    * 6 Vorträge
 
     * Social Media: ca. 416.000 Impressionen und 708 Follower auf Twitter, 481 Abonnent*innen auf Facebook
 
@@ -98,18 +105,18 @@ outcome: >
       * setzen eigene digitale Projekte um und testen sie
 
       * lernen einen kreativen Umgang mit konkreten digitalen Tools und Technik im Internet
-      
+
       * erkennen verschiedene Meinungen an und tauschen sich aus
 
       * verstetigen ihre kritische Auseinandersetzung mit Themenfeldern (Peer-to-Peer!)
 
     Päd. Fachkräfte (vor Ort, direkte Arbeit mit ZG Jugendliche)
-      
+
       * setzen sich selbstgesteuert mit digitalen Angeboten auseinander
-      
+
       * geben Raum für digitale Angebote der Jugendlichen
 
-      * eigene lokale Angebote werden geschaffen und/oder aufgewertet 
+      * eigene lokale Angebote werden geschaffen und/oder aufgewertet
 
     Fachkräfte aus Management und Verwaltung
 
@@ -120,7 +127,7 @@ outcome: >
 
 
 impact:  >
-    Die Zugänge Jugendlicher zur Gesellschaft und ihre Repräsentanz in ihr sind gleichermaßen gegeben. Die Jugendlichen haben eine kritische Haltung und digitale Mündigkeit erworben und setzen diese zur Gestaltung der Gesellschaft ein. Das digitale Ehrenamt wird gestärkt durch seine gesellschaftliche Anerkennung. 
+    Die Zugänge Jugendlicher zur Gesellschaft und ihre Repräsentanz in ihr sind gleichermaßen gegeben. Die Jugendlichen haben eine kritische Haltung und digitale Mündigkeit erworben und setzen diese zur Gestaltung der Gesellschaft ein. Das digitale Ehrenamt wird gestärkt durch seine gesellschaftliche Anerkennung.
 
 
 evaluation:  >
@@ -141,14 +148,13 @@ In einer langsam überalternden Gesellschaft bleiben die Stimmen Jugendlicher vi
 Die Nutzung digitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswirklichkeit, die jedoch in außerschulischen Bildungseinrichtungen oft nicht hinreichend abgebildet wird. Pädagogischen Fachkräften fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. Ein rein konsumorientierter Zugang zu Technologie führt nicht zwangsläufig zu einer wachsenden sozialen Teilhabe oder zu einer Verkleinerung der sozialen Spaltung (Nicole Zillien (2013): Digitale Spaltung – Reproduktion sozialer Ungleichheiten im Internet).
 
 Die Demokratielabore fördern und schaffen...
-* ...Angebote vor Ort in außerschulischen Jugendeinrichtungen 
+* ...Angebote vor Ort in außerschulischen Jugendeinrichtungen
 * ...Wissenstransfer und Verankerung
   * in den Jugendeinrichtungen vor Ort
   * im Management und der Verwaltung der Trägerorganisationen
 * ...ein Bewusstsein für Digitalität als Werkzeug zur Gestaltung von Gesellschaft
 * ...niedrigschwellige Projektangebote- und Ideen zum Ausprobieren digitaler Werkzeuge.
 
-Jugendliche erhalten dadurch mehr Sichtbarkeit im unmittelbaren Umfeld und sammeln Selbstwirksamkeitserfahrungen im Umgang mit Digitalität und Demokratie. Pädagogische Fachkräfte lernen neue (digitale) Ansätze der Jugendarbeit kennen und erweitern ihr Netzwerk in die netzpolitische Community hinein. Fachkräfte im Management und der Verwaltung nutzen digitale Informationen und Tools für die Planung und Umsetzung ihrer Projekte und Anliegen. 
+Jugendliche erhalten dadurch mehr Sichtbarkeit im unmittelbaren Umfeld und sammeln Selbstwirksamkeitserfahrungen im Umgang mit Digitalität und Demokratie. Pädagogische Fachkräfte lernen neue (digitale) Ansätze der Jugendarbeit kennen und erweitern ihr Netzwerk in die netzpolitische Community hinein. Fachkräfte im Management und der Verwaltung nutzen digitale Informationen und Tools für die Planung und Umsetzung ihrer Projekte und Anliegen.
 
 Durch die Erfahrung von Selbstwirksamkeit im Umgang mit digitalen Werkzeugen und Technologien in ihrer Lebenswirklichkeit werden Jugendliche zu maßgeblichen demokratischen Akteuren und gestalten ihre Gesellschaft aktiv mit.
-

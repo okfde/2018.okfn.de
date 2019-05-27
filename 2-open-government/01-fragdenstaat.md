@@ -31,19 +31,28 @@ solution:
 - title: Laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
 effect:
-- img: http://placekitten.com/800/80
-  alt: Das beschreibt die Projektlaufzeit in Worten
 - title: Auf BürgerInnen
-  text: Mehr Menschen erkennen ihr Recht auf Informationsfreiheit
-  text: Mehr Menschen nutzen das Recht
-  text: Die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess
+  text: >
+    Mehr Menschen erkennen ihr Recht auf Informationsfreiheit
+
+
+    Mehr Menschen nutzen das Recht
+
+
+    Die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess
 - title: Auf Verwaltungen
-  text: Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können
-  text: Verwaltungen befolgen das Informationsfreiheitsgesetz stärker
-  text: Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt
+  text: >
+    Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen über Informationsfreiheit lernen können
+
+
+    Verwaltungen befolgen das Informationsfreiheitsgesetz stärker
+
+
+    Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt
 - title: Auf Multiplikatoren
-  text: Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht
-  text: Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten
+  text: >
+    Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagne und journalistische Projekte wird erhöht
+    Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten
 - title: Gesellschaftliche Wirkung
   claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt
 resources:
@@ -65,7 +74,7 @@ achievements: >
 outputs: >
     * Anfragen gesamt: 33.218
 
-    *  NutzerInnen gesamt: 11.833
+    * NutzerInnen gesamt: 11.833
 
     * Gewonnene Klagen: 9
 

@@ -11,15 +11,17 @@ problem:
 - text: Wenig digitale Innovation aus der breiten Gesellschaft, wenig Funding für Technologien mit Gemeinwohlansatz.
 causes:
 - title: Mangelnde Ressourcen,
-  text: Digitales Ehrenamt ist aufwändig, wird jedoch kaum anerkannt und ist auf gängingem Wege nicht finanzierbar.
-  text: Auch Technologienetwicklung erfolgt oft nach Wirtschaftlichkeits- oder Datenverwerbarkeitsgesichtspunkten.
+  text: >
+    Digitales Ehrenamt ist aufwändig, wird jedoch kaum anerkannt und ist auf gängingem Wege nicht finanzierbar.
+
+
+    Auch Technologienetwicklung erfolgt oft nach Wirtschaftlichkeits- oder Datenverwerbarkeitsgesichtspunkten.
 - title: Fehlende Netzwerke
   text: Es gibt für das digitale Ehrenamt und gemeinwohlorientierte Technologieentwicklung kaum Netzwerke, die sich für eine Verbesserung der Situation einsetzen können.
 - title: Dominanz großer Unternehmen
   text: Was angeboten wird, bestimmen derzeit große internationale Unternehmen oder Kapitalgeber. Das Wissen darüber, was benötigt wird und skaliert, liegt bei der Gesellschaft, wird aber nicht abgerufen.
 - title: führen dazu, dass
   claim: Digitale innovation in sozialen Bereichen in Deutschland kaum stattfindet und viele Technologien/Werkzeuge in den “Überwachungskapitalismus” eingebunden sind und somit keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
-
 
 
 solution:
@@ -31,14 +33,23 @@ solution:
   text: Wir geben (kleinen) Projekten und Prototypen Sichtbarkeit - Über unsere Webseite, Medien, Konferenzen und andere Veranstaltungen sowie aktive Vernetzungsarbeit.
 effect:
 - title: Auf Förderer
-  text: Mehr Fördermittel werden niedrigschwellig Einzelpersonen bereitgestellt.
-  text: Mehr Mut zur Förderung prototypischer Projekte mit geringen Fördersummen.
+  text: >
+    Mehr Fördermittel werden niedrigschwellig Einzelpersonen bereitgestellt.
+
+
+    Mehr Mut zur Förderung prototypischer Projekte mit geringen Fördersummen.
 - title: Auf Entwickler*innen
-  text: Fördermittel werden als viable Möglichkeit angesehen, Projekte umzusetzen.
-  text: Open Source und User Experience Design als Konzepte werden weiter verbreitet.
+  text: >
+    Fördermittel werden als viable Möglichkeit angesehen, Projekte umzusetzen.
+
+
+    Open Source und User Experience Design als Konzepte werden weiter verbreitet.
 - title: Auf die Gesellschaft
-  text: Digitales Ehrenamt wird sichtbarer und erfährt mehr Anerkennung.
-  text: Mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige, informierte Gesellschaft
+  text: >
+    Digitales Ehrenamt wird sichtbarer und erfährt mehr Anerkennung.
+
+
+    Mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige, informierte Gesellschaft
 - title: Gesellschaftliche Wirkung
   claim: Digitale Innovation in Deutschland wird befähigt, mehr digitale Tools und sichere Infrastruktur werden für die Gesellschaft geschaffen.
 resources:

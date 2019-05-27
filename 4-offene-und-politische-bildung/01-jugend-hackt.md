@@ -20,18 +20,25 @@ causes:
 
 solution:
 - title: Jugend-Hackathons
-  text: Jugendliche vernetzen sich mit Gleichgesinnten, arbeiten an digitalen Projekten und setzen sich gleichzeitig mit deren gesellschaftlichen und ethischen Implikationen auseinander. 
+  text: Jugendliche vernetzen sich mit Gleichgesinnten, arbeiten an digitalen Projekten und setzen sich gleichzeitig mit deren gesellschaftlichen und ethischen Implikationen auseinander.
 - title: Workshops für Programmier-Einsteiger\*innen
   text: Jugendliche werden von Nutzer*innen zu Gestalter\*innen. Sie erleben, dass sie mit digitalen Mittel ihre eigenen Ideen in die Tat umsetzen können und gewinnen an Mündigkeit und Selbstbestimmtheit.
 - title: internationaler Schüler\*innenaustausch
   text: Das deutsch-türkische Austauschprogramm von Jugend hackt, re:coded und der deutsch-türkischen Jugendbrücke ermöglicht Schüler\*innen aus Deutschland und der Türkei die Berliner Open Source und Civic Tech Szene kennenzulernen, sowie am Berliner Jugend-Hackathon teilzunehmen.
 effect:
 - title: Auf Jugendliche, die gerne programmieren
-  text: entwickeln Zugehörigkeitsgefühl und ein positives Selbstbild
-  text: erweitern ihr Allgemeinwissen und ihre Reflexionsfähigkeit
-  text: vertiefen ihre Problemlösungsfähigkeiten
-  text: erleben (politische) Selbstwirksamkeit
-  claim: Programmierinteressierte Jugendliche vernetzen sich und sind motiviert, sich gesellschaftlich zu engagieren. Es entsteht mehr Beteiligung in Form von digitalem Ehrenamt sowie eine breitere Reflexion über ethische Fragen der Digitalisierung. 
+  text: >
+    entwickeln Zugehörigkeitsgefühl und ein positives Selbstbild
+
+
+    erweitern ihr Allgemeinwissen und ihre Reflexionsfähigkeit
+
+
+    vertiefen ihre Problemlösungsfähigkeiten
+
+
+    erleben (politische) Selbstwirksamkeit
+- claim: Programmierinteressierte Jugendliche vernetzen sich und sind motiviert, sich gesellschaftlich zu engagieren. Es entsteht mehr Beteiligung in Form von digitalem Ehrenamt sowie eine breitere Reflexion über ethische Fragen der Digitalisierung.
 resources:
   timespan:
       img: http://placekitten.com/800/80
@@ -53,7 +60,7 @@ outputs: >
 
     * 1 Jugend-Hackathon in der Schweiz
 
-    * 1 deutsch-türkisches Austauschprogramm in Berlin 
+    * 1 deutsch-türkisches Austauschprogramm in Berlin
 
     * mehr als 40 Hello World-Workshops für Programmier-Einsteiger\*innen
 
@@ -66,59 +73,59 @@ outcome: >
     Eine Wirkungsanalyse kam bereits im Jahr 2014/2015 zu folgenden Ergebnissen:
 
     * das Selbstbild der Teilnehmer\*innen verbessert sich nach der Teilnahme an Jugend hackt
-    
+
     * das Interesse an Teamwork und die selbst erlebte diesbezügliche Kompetenz erhöht sich
-    
+
     * die Mentor*innen werden mehrheitlich als große Hilfe und sogar als Vorbilder angesehen.
 
 
 impact:  >
-    Die Jugendlichen werden in ihrer Fähigkeit gestärkt, Dinge selbst zu gestalten und ihr technisches Know-how mit gesellschaftspolitischem Gestaltungswillen zu verknüpfen. Dabei können sie ihr Selbst- und Weltbild weiterentwickeln und diese neuen Perspektiven in ihren Alltag übertragen. Dies wirkt sich auf ihre Interaktion sowohl mit Gleichaltrigen als auch mit Erwachsenen aus. Langfristig wirken diese Erfahrungen und Erkenntnisse der Politikverdrossenheit entgegen und führen zu einer reflektierteren und gleichzeitig positiveren Diskussion digitaler Möglichkeiten. Es entstehen Anstöße und Motivation zur Mitgestaltung des eigenen Umfelds und damit letztlich unserer Gesellschaft. 
+    Die Jugendlichen werden in ihrer Fähigkeit gestärkt, Dinge selbst zu gestalten und ihr technisches Know-how mit gesellschaftspolitischem Gestaltungswillen zu verknüpfen. Dabei können sie ihr Selbst- und Weltbild weiterentwickeln und diese neuen Perspektiven in ihren Alltag übertragen. Dies wirkt sich auf ihre Interaktion sowohl mit Gleichaltrigen als auch mit Erwachsenen aus. Langfristig wirken diese Erfahrungen und Erkenntnisse der Politikverdrossenheit entgegen und führen zu einer reflektierteren und gleichzeitig positiveren Diskussion digitaler Möglichkeiten. Es entstehen Anstöße und Motivation zur Mitgestaltung des eigenen Umfelds und damit letztlich unserer Gesellschaft.
 
 evaluation:  >
 
     Welche Lessons learned gab es?
-    
+
      * Fokus auf qualitativem Wachstum
-    
+
     Welche Hürden wurden wie gemeistert?
 
       * Führungswechsel und Teamwachstum wurden erfolgreich umgesetzt
-        
+
     Welche Indikatoren (siehe Output oben) werden wie überprüft?
 
       * Anzahl der Veranstaltungen
 
       * Resonanz der Teilnehmer*innen (wie stark werden die Veranstaltungen nachgefragt, Feedback-Fragebogen)
-    
-    Gibt es Monitoring, regelmäßige Treffen, Berichte, Team-Konferenzen (z.B. Policy Gruppe), Strategie-Meetings, Schulungen, Zielvereinbarungen 
+
+    Gibt es Monitoring, regelmäßige Treffen, Berichte, Team-Konferenzen (z.B. Policy Gruppe), Strategie-Meetings, Schulungen, Zielvereinbarungen
 
       * Netzwerktreffen 2x jährlich mit allen Partnern
-      
+
       * regelmäßige Beratungs-Termine für Partner
-      
+
       * Strategie-Meeting zur Jahresplanung
-      
+
       * Kooperationsvereinbarungen mit Partnern
 
 outlook:  >
-    
+
     Welche Risiken und Chancen sind absehbar?
 
       * Risiken: zu schnelles Wachstum der Angebote und des Teams
-      
+
       * Chancen: Modularer Aufbau der Angebote stärker dezentralisieren und mehr Zeit für Teamwachstum einplanen
-    
-    Welche Vorhaben / konkrete Deliverables sind geplant? 
+
+    Welche Vorhaben / konkrete Deliverables sind geplant?
 
       * Start der ersten beiden Jugend hackt Labs
-      
+
       * Website-Relaunch
-      
+
       * Intensivierung des Community-Managements
-      
+
       * Weiterentwicklung der pädagogischen Schulung für Mentor*innen
-      
+
       * Nachhaltigerenund regelmäßigeren Austausch der Zielgruppe fördern
 
 ---
@@ -126,7 +133,7 @@ outlook:  >
 
 # Mit Code die Welt verbessern
 
-Jugendliche mit besonders hohem Technik-/IT-Interesse finden in ihrem Alltag oft wenige Anschlussmöglichkeiten und Technik-/IT-Kompetenz wird nicht als Chance für persönliche und gesellschaftliche Veränderungen zum Besseren wahrgenommen. Bei vielen Eltern/Pädagogi*innen herrscht nach wie vor eine große Skepsis gegenüber der Nutzung digitaler Tools durch Kinder/Jugendliche. Generell werden in der gesellschaftliche Wahrnehmung eher die Risiken der Digitalisierung diskutiert, statt zu diskutieren, wie die Möglichkeiten positiv für die Gesellschaft genutzt werden können. IT-begeisterte Jugendliche kennen außerdem oft wenige Gleichgesinnte und müssen sich gegenüber Erwachsenen dafür rechtfertigen, dass sie viel Zeit vor dem PC verbringen. 
+Jugendliche mit besonders hohem Technik-/IT-Interesse finden in ihrem Alltag oft wenige Anschlussmöglichkeiten und Technik-/IT-Kompetenz wird nicht als Chance für persönliche und gesellschaftliche Veränderungen zum Besseren wahrgenommen. Bei vielen Eltern/Pädagogi*innen herrscht nach wie vor eine große Skepsis gegenüber der Nutzung digitaler Tools durch Kinder/Jugendliche. Generell werden in der gesellschaftliche Wahrnehmung eher die Risiken der Digitalisierung diskutiert, statt zu diskutieren, wie die Möglichkeiten positiv für die Gesellschaft genutzt werden können. IT-begeisterte Jugendliche kennen außerdem oft wenige Gleichgesinnte und müssen sich gegenüber Erwachsenen dafür rechtfertigen, dass sie viel Zeit vor dem PC verbringen.
 
 Jugend hackt begegnet dem Problem mit Jugend-Hackathons und Workshops für Programmier-Einsteiger*innen. Was Jugend hackt dabei vor anderen Angeboten, auszeichnet ist der gesellschaftspolitische Anspruch. unter dem Motto “mit Code die Welt verbessern” ist neben dem Programmieren die Entwicklung einer ethische Haltung und Mündigkeit der Jugendlichen gleichwertiger Bestandteil des Programms.
 
@@ -136,5 +143,3 @@ vertiefen die Fähigkeit, gesellschaftliche Herausforderungen zu benennen und en
 **Vernetzung & Gesellschaftliche Beteiligung:** Junge Menschen arbeiten in Teams und lösen Probleme gemeinsam. Sie erleben sich als Teil einer Gruppe und erkennen, dass sie über Fähigkeiten und Kenntnisse verfügen, durch die sie Dinge aktiv mitgestalten können. Das Denken verändert sich weg von “da kann man ja sowieso nichts machen” hin zu “so wünsche ich mir die Welt und Folgendes will ich dafür tun”. Das wirkt in die Gesellschaft hinein, dem Gefühl der Alternativlosigkeit entgegen und trägt zu einer demokratischen, aktiven Gesellschaft bei.
 
 **Ethische Reflexion digitaler Möglichkeiten**: Gestärkt wird darüber hinaus die gesellschaftliche Reflexion über die Chancen und Risiken dessen, was mit digitalen Mitteln machbar ist (z.B. Technikfolgenabschätzung, Algorithmenethik) und wie sie sich zum Wohl der Gesellschaft nutzen lassen.
-
-

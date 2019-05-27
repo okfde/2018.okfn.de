@@ -11,13 +11,19 @@ problem:
 - text: Die Civic-Tech Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber kein Netzwerk und keine Lobby haben.
 causes:
 - title: Fehlende Nutzung von Open Data,
-  text: Es gibt bereits aktive Akteure in deutschen Städten, diese agieren aber für sich und ohne Infrastruktur
-  text: Akteure mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
+  text: >
+    Es gibt bereits aktive Akteure in deutschen Städten, diese agieren aber für sich und ohne Infrastruktur
+
+
+    Akteure mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
 - title: eine fehlende Lobby und
   text: Der Kontakt zu Regierungen, Kommunen und Verwaltungen, bpsw. zum Erlangen von Daten, ist für einzelne Akteure schwierig umsetzbar.
 - title: fehlendes Bewusstsein
-  text: Open Data, Open Source und Open Government sind an vielen Stellen unbekannt oder unverstanden
-  text: Die Regierung, Kommunen, Verwaltungen und andere Institutionen arbeiten deswegen stellenweise ineffizient
+  text: >
+    Open Data, Open Source und Open Government sind an vielen Stellen unbekannt oder unverstanden
+
+
+    Die Regierung, Kommunen, Verwaltungen und andere Institutionen arbeiten deswegen stellenweise ineffizient
 - title: führen dazu, dass
   claim: >
       * Digitale innovation in sozialen Bereichen in Deutschland kaum stattfindet und viele Technologien/Werkzeuge in den „Überwachungskapitalismus“ eingebunden sind und somit keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
@@ -33,9 +39,14 @@ solution:
 - title: Vernetzung
   text: Im Zuge des Programms werden Entscheidungsträger*innen und städtische Verwaltungen mit den lokalen Gruppen vernetzt um gemeinsam an nützlichen und innovativen Projekten für die Stadt zu arbeiten.
 - title: Stärkung von Civic Tech in Deutschland
-  text: es bildet sich eine starke Civic-Tech-Community in DE
-  text: offene Daten werden von BürgerInnen genutzt
-  text: durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen
+  text: >
+    es bildet sich eine starke Civic-Tech-Community in DE
+
+
+    offene Daten werden von BürgerInnen genutzt
+
+
+    durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen
 
 effect:
 - title: Auf die Community
@@ -44,12 +55,20 @@ effect:
   text: Fördermittel werden als viable Möglichkeit angesehen, Projekte umzusetzen.
   text: Open Source und User Experience Design als Konzepte werden weiter verbreitet.
 - title: Auf die Gesellschaft
-  text: Digitales Ehrenamt wird sichtbarer und erfährt mehr Anerkennung.
-  text: Mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige, informierte Gesellschaft
+  text: >
+    Digitales Ehrenamt wird sichtbarer und erfährt mehr Anerkennung.
+
+
+    Mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige, informierte Gesellschaft
 - title: Gesellschaftliche Wirkung
-  claim: Regierungen werden transparenter
-  claim: BürgerInnen sind besser informiert / mehr Bürgerbeteiligung mit digitalen Tools
-  claim: Bewusstsein für Open Source, Open Data, Open Government
+  claim: >
+    Regierungen werden transparenter
+
+
+    BürgerInnen sind besser informiert / mehr Bürgerbeteiligung mit digitalen Tools
+
+
+    Bewusstsein für Open Source, Open Data, Open Government
 
 resources:
   timespan:
@@ -77,7 +96,7 @@ achievements: >
 
 
 outputs: >
-  * über 300 ehrenamtliche ProgrammiererInnen, die sich regelmäßig treffen
+  * über 300 ehrenamtliche ProgrammiererInnen, die sich regelmäßig treffen
 
   * 26 Open Knowledge Labs in DE, die sich mit ihren Gemeinden vernetzen
 
@@ -88,7 +107,7 @@ outputs: >
 outcome: >
   * es bildet sich eine starke Civic-Tech-Community in DE
 
-  * offene Daten werden von BürgerInnen genutzt
+  * offene Daten werden von BürgerInnen genutzt
 
   * durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen
 
@@ -96,15 +115,15 @@ outcome: >
 impact:  >
   * Regierungen werden transparenter
 
-  * BürgerInnen sind besser informiert / mehr Bürgerbeteiligung mit digitalen Tools
+  * BürgerInnen sind besser informiert / mehr Bürgerbeteiligung mit digitalen Tools
 
-  * Bewusstsein für Open Source, Open Data, Open Government
+  * Bewusstsein für Open Source, Open Data, Open Government
 
   * Nebenwirkung: Kommunen und Verwaltungen arbeiten effizienter
 
-  * Nebenwirkung: Menschen setzen ihre technischen Fähigkeiten für etwas Gutes ein
+  * Nebenwirkung: Menschen setzen ihre technischen Fähigkeiten für etwas Gutes ein
 
-  * Nebenwirkung: mehr technische Mündigkeit (Data Literacy)
+  * Nebenwirkung: mehr technische Mündigkeit (Data Literacy)
 
 evaluation: >
   Um die Interessen der ehrenamtlich engagierten Freiwilligen der Open Knowledge Labs in Zukunft noch besser berücksichtigen zu können, wurde Code for Germany ein Community Rat gewählt. Dieser wird zusammen mit der Open Knowledge Foundation Deutschland e.V. die strategische Planung des Projekts vorantreiben.
@@ -118,7 +137,7 @@ outlook: >
 ---
 
 
-# Förderprogramm für die Entwicklung von Open-Source-Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, Datensicherheit und anderen
+# Förderprogramm für die Entwicklung von Open-Source-Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, Datensicherheit und anderen
 
 Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger, die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.
 
