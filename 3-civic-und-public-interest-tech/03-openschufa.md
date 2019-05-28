@@ -1,15 +1,11 @@
 ---
 layout: page
-chapter: 3.03
+chapter: 3.3
 title: OpenSchufa
 website:
 permalink: /civic-und-public-interest-tech/openschufa
-visuals:
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
+visual:
+      img: /assets/images/opengovernment/openschufa.png
       alt: Eine Beschreibung des Textes
 ---
 

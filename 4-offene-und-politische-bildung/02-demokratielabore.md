@@ -5,7 +5,7 @@ title: Demokratielabore
 website: https://demokratielabore.de
 permalink: /open-government/demokratielabore/
 visual:
-    img: http://placekitten.com/600/700
+    img: /assets/images/bildung/demokratielabore.png
     alt: Eine Beschreibung des Textes
 problem:
 - text: Jugendliche Positionen werden in einer überalternden Gesellschaft nicht ausreichend wahrgenommen, was zu Politikverdrossenheit führt.

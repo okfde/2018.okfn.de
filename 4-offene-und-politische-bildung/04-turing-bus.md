@@ -5,8 +5,8 @@ title: Turing-Bus
 website: https://turing-bus.de
 permalink: /offene-und-politische-bildung/turing-bus/
 visual:
-    img: http://placekitten.com/600/700
-    alt: Eine Beschreibung des Textes
+  img: /assets/images/bildung/turingbus.png
+  alt: Eine Beschreibung des Textes
 problem:
 - text: Der ländliche Raum leidet unter einem Mangel an Aktionsräumen im Bereich der digitalen Bildung.
 causes:
@@ -30,8 +30,7 @@ solution:
   text: Vertreter von Hackspaces, Fablabs und Offenen Werkstätten werden als Workshopleiter und als Diskussionsteilnehmer*innen miteinbezogen.
 effect:
 - title: Auf Schüler*innen
-  text: >
-    Technologien werden besser verstanden und genutzt
+  text: Technologien werden besser verstanden und genutzt
 
 
     Aus Konsumenten werden Aktivisten

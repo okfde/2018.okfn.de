@@ -16,7 +16,8 @@ Bürger*innen können auf vielen Ebenen des politischen Handelns direkt einbezog
 
 Hinter dem Konzept steht das Ziel, die Arbeit von Politik, Regierung, Verwaltung und Justiz offener, transparenter, partizipativer und kooperativer zu gestalten.
 
-Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren; auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.		
+Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren; auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.	
+<br>	
 
 # Rückblick
 

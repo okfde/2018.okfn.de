@@ -1,8 +1,8 @@
 ---
 layout: page
-chapter: 1.02
+chapter: 1.1
 title: Gegenstand des Berichts
-permalink: /uebersicht/intro
+permalink: /einleitung/intro
 ---
 
 
@@ -14,13 +14,17 @@ Sitz der Organisation ist die Singerstraße 109, 10179 Berlin.
 
 OKF DE ist ein eingetragener Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieses Berichts sind, sofern nicht anders angegeben, nach Creative Commons 3.0 Attribution lizensiert.
 
+<br>
 # Anwendung des SRS 
 
 Der vorliegende Jahresbericht ist nach dem Social Reporting Standard (SRS) strukturiert. Aufgrund der großen Zahl einzelner Projekte ist die Organisationsstruktur auf die Organisation insgesamt bezogen dargestellt. Die Organisation berichtet zum zweiten Mal nach dem SRS.
 
+<br>
 # Berichtszeitraum und Berichtszyklus
 
 Die Finanzberichterstattung bezieht sich auf das Geschäftsjahr 2018. Alle anderen Fakten reichen bis zur Gründung im Februar 2011 zurück. Es ist geplant, im jährlichen Turnus zu berichten. 
+
+<br>
 
 # Ansprechpartner 
 

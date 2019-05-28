@@ -15,6 +15,7 @@ Offene Bildung ist ein Überbegriff für all jene schulischen und außerschulisc
 Ein weiterer wichtiger Aspekt hierbei ist die politische Bildung: Offene Bildung fördert digitale Mündigkeit, das Entwickeln neuer Formen des sozialen und zivilgesellschaftlichen Engagements, z. B. im Rahmen des digitalen Ehrenamts, und den ethischen Umgang mit Informations- und Kommunikationstechnologien inspiriert durch die [Hackerethik](https://www.ccc.de/hackerethics)[.](https://www.ccc.de/hackerethics) Diese Ziele werden unter anderem durch partizipative Lernszenarien sowie freie Bildungsmaterialien („Open Educational Resources") erreicht. Dazu gehören das Aufbrechen der „Lehrer-Schüler-Rolle“ in gleichberechtigte Partner*innen und das kollaborative Entwickeln von Lern- und Lehrinhalten sowie entsprechender Unterlagen. Das dezentrale Organisieren und Teilen der Materialien ist dafür eine wichtige Voraussetzung. 
 
 Digitale Mündigkeit beschreibt hierbei die Fähigkeit, konstruktiv, kritisch und souverän mit digitalen Räumen umzugehen, um sich zivilgesellschaftlich und politisch in diesen engagieren zu können. Nur so können wir unsere zunehmend digitalisierte Gesellschaft hinterfragen und mitgestalten. Fähigkeiten im Umgang mit digitalen Technologien (Digital Literacy), z. B. um online bürgerliche Rechte und Pflichten wahrzunehmen, sind hierbei kein Selbstzweck, sondern Mittel für gesellschaftliche Teilhabe. Vielmehr geht es um ein Verständnis dafür, wie notwendig es ist, sich am gesellschaftlichen und politischen Leben in digitalen Räumen zu beteiligen, um zivilgesellschaftliche Interessen zu wahren und die Gesellschaft mitzugestalten.
+<br>
 
 # Rückblick
 
@@ -30,5 +31,7 @@ In den deutschlandweit verteilten edulabs hat sich eine nachhaltige Community vo
 
 Der Turing-Bus fuhr erstmals durch den in vielerlei Hinsicht vernachlässigten ländlichen Raum, um über 450 Teilnehmende bei Digitalworkshops mit regionalen Hackspaces zusammenzubringen. Mithilfe von Hands-on Workshops, Screenings, Diskussionsformaten mit Regionalpolitiern und vor allem durch die aktive Hilfe von Experten digitaler Disziplinen und Vertretern regionaler Initiativen (Offene Werkstätten, Hackspaces, OK-Labs) entstanden so 13 spannende Stationen.
 
-Insgesamt haben wir in den Workshops und Veranstaltungen von Jugend hackt, De- mokratielabore, Turing-Bus und edulabs 2017 über 1.500 Kinder, Jugendliche, Eltern und Lehrkräfte in der Anwendung digitaler Tools für gesellschaftliche Fragestellungen geschult.		
+Insgesamt haben wir in den Workshops und Veranstaltungen von Jugend hackt, De- mokratielabore, Turing-Bus und edulabs 2017 über 1.500 Kinder, Jugendliche, Eltern und Lehrkräfte in der Anwendung digitaler Tools für gesellschaftliche Fragestellungen geschult.	
+<br>
+	
 # Folgend werden die Projekte der OKF DE vorgestellt, die dem Bereich Offene und politische Bildung zuzuordnen sind.

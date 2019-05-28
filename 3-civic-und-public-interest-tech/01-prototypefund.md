@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 3.01
+chapter: 3.1
 title: Prototypefund
 website: https://prototypefund.de
 permalink: /civic-und-public-interest-tech/prototypefund/

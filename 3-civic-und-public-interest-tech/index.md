@@ -24,6 +24,8 @@ Thematisch erweitert Public Interest Tech den Fokus des Civic Tech: Der Augenmer
 
 Diese Herangehensweise kann an konkreten Themen wie Umweltschutz, Menschenrechten, Gesundheit oder emergenten Technologien ansetzen. 
 
+<br>
+
 # Rückblick
 
 Im Jahr 2018 haben wir das Konzept für ein [citylab.berlin](https://okfn.de/blog/2018/06/make-city-citylab-berlin/) mitenwickelt. Außerdem war der Energyhack 2 ein wichtiger Schritt zur weiteren Verzahnung von Nachhaltigkeits- und Tech– Communities.
@@ -32,11 +34,14 @@ Der Prototype Fund konnte 2018 die maximale Fördersumme je Team und Einzelentwi
 
 Zudem haben wir einen wichtigen zivilgesellschaftlichen Beitrag zur öffentlichen Diskussion um Anwendungen des maschinellen Lernens geleistet: Parallel zur Einrichtung der KI-Enquete (ohne nennenswerte zivilgesellschaftliche Beteiligung) haben wir mit der Förderrunde 5 "Maschinen lernen lassen" Software-Ideen gesammelt, die die Potenziale und Herausforderungen von Künstlicher Intelligenz für die Gesellschaft erproben. Diese Usecases erlauben, anhand von konkreten Anwendungen den Diskurs anzureichern, zu kommentieren und Regulierungsbedarfe mitzuentwickeln.
 
+<br>
+
 # Links 
 
 * [So wirkt der Prototypefund](https://prototypefund.de/prototypeworks-so-wirkt-der-prototype-fund-ein-zwischenbericht-in-7-grafiken/) / [Grafik](https://prototypefund.de/wp-content/uploads/2019/03/190319_der_prototype_fund_in_zahlen_DE.pdf) 
 * Report: [Maschinen lernen lassen](https://prototypefund.de/wp-content/uploads/2019/03/Begleitforschung-Rundenschwerpunkt-Kohorte-5.pdf)
 * [Geförderte Projekte der Runde 5](https://prototypefund.de/projects/round-5/)
 
+<br> 
 
 # Folgend werden die Projekte der OKF DE vorgestellt, die dem Bereich Civic und Public Interest Tech zuzuordnen sind.

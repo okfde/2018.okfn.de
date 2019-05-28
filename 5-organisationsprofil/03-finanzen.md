@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 5.2
+chapter: 5.3
 title: Finanzen und Rechnungslegung
 permalink: /organisation/finanzen
 ---

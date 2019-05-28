@@ -1,16 +1,12 @@
 ---
 layout: page
-chapter: 3.05
+chapter: 4.06
 title: DARIAH
 website:
 permalink: /offene-und-politische-bildung/dariah
-visuals:
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
+visual:
+    img: /assets/images/bildung/dariah.png
+    alt: Ein Screenshor der Dariah-Website
 ---
 
 

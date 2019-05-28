@@ -5,7 +5,7 @@ title: Jugend hackt
 website: https://jugendhackt.org
 permalink: /offene-und-politische-bildung/jugendhackt/
 visual:
-    img: http://placekitten.com/600/700
+    img: /assets/images/bildung/jugendhackt.png
     alt: Eine Beschreibung des Textes
 problem:
 - text: Jugendliche mit besonders hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten

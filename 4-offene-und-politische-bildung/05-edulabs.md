@@ -5,8 +5,8 @@ title: edulabs
 website: https://edulabs.de
 permalink: /offene-und-politische-bildung/edulabs/
 visual:
-    img: http://placekitten.com/600/700
-    alt: Eine Beschreibung des Textes
+    img: /assets/images/bildung/edulabs.png
+    alt: Das Logo von edulabs
 problem:
 - text: Das deutsche Bildungssystem fördert zeitgemäße gesellschaftliche Partizipation unzureichend
 causes:

@@ -1,8 +1,8 @@
 ---
 layout: page
-chapter: 1.03
+chapter: 1.2
 title: Rückblick
-permalink: /uebersicht/rueckblick
+permalink: /einleitung/rueckblick
 visual:
     img: /assets/images/einleitung/rueckblick.png
     alt: Eine Beschreibung des Textes
@@ -11,6 +11,8 @@ visual:
 Global betrachtet setzten sich auch 2018 einige negative Trends vergangener Jahre fort: Populismus, Nationalismus und Rassismus stellen das demokratische Grundgerüst vieler Nationen in Europa und dem Rest der Welt auf die Probe. Technologiekonzerne mit immer größerem Marktanteil zeigen einen unstillbaren Durst nach persönlichen Daten und dringen mit Hilfe neuer Verfahren und Algorithmen immer tiefer in das Leben ihrer Nutzer*innen ein. Unternehmen nutzen weiter [Schlupflöcher im Steuersystem](https://netzwerksteuergerechtigkeit.files.wordpress.com/2018/01/6_fsi-ranking_incl-_eu-tax-havens.pdf) um Milliarden unversteuert zu belassen. Techno-optimistische Forderungen nach smarten Städten, Künstlicher Intelligenz und ein scheinbar unendlicher Strom an digitalen Konsumangeboten stehen in starkem Kontrast zu einer gemeinwohlorientierten Nutzung moderner Technologien und offener Daten im Sinne der Zivilgesellschaft. Das föderale Bildungssystem in Deutschland hat große Probleme, der Nachfrage nach zeitgemäßen Bildungsformaten gerecht zu werden, obwohl der Bedarf an kompetenten kritischen Geistern, die die Werkzeuge der Digitalisierung für das Gemeinwohl einsetzen, wohl selten größer war.
 
 Auf europäischer und nationaler Ebene wurde im letzten Jahr an vielen Stellen an Verbesserungen gearbeitet, wenn auch mit gemischtem Erfolg. Das aufgrund von Nutzungseinschränkungen [leider intransparente](https://www.sueddeutsche.de/politik/gegen-geldwaesche-einblick-unter-vorbehalt-1.3387385) Transparenzregister wurde mit einer neuen [Anti-Geldwäsche-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1529999596017&uri=CELEX:32018L0843) überarbeitet, die PSI-Richtlinie bzw. [Open-Data-Verordnung](https://okfn.de/blog/2019/02/offene-daten-fuer-alle/) ging in eine richtige Richtung und die Datenschutz-Grundverordnung (DSGVO) stärkte die Rechte von Verbraucherinnen und Verbrauchern gegenüber datenhungrigen Diensten. Versuche der Regulierung des Internets (wie der mittlerweile beschlossene Uploadfilter aus Artikel 13) demonstrieren das Gewicht lobbyistischer Interessen im politischen Prozess sowie die Probleme unserer Volksvertreter*innen, sich in einer zunehmend technisierten Gegenwart zu orientieren. Im Bildungsbereich verabschiedet die Bundesregierung aktuell den [Digitalpakt](https://www.bmbf.de/de/wissenswertes-zum-digitalpakt-schule-6496.html) mit 5,5 Milliarden Euro. Es bleibt abzuwarten, ob die Gelder in ihrer Gänze in smarten Tafeln versinken oder auch qualifizierende Maßnahmen finanziert werden, die einen aufgeklärten Umgang ermöglichen. Überhaupt versucht die Bundesregierung an [(zu)](https://netzpolitik.org/2018/zwischen-digitalrat-und-digitalkabinett-das-ringen-um-die-richtige-netzpolitik/) vielen Stellen (Digitalkabinett, Digitalrat, Digitalgipfel, Digitalklausur, Digitalagenda, Digitalministerin...), die digitale Zukunft zu formen, nicht zuletzt mit dem im [Koalitionsvertrag](https://okfn.de/blog/2018/03/open-gov-koalitionsvertrag/) versprochenen Open-Data-Gesetz (wir warten!).
+
+<br>
 
 **Die Zivilgesellschaft ist (immer noch) gefragt**
 

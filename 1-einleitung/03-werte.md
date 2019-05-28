@@ -1,23 +1,33 @@
 ---
 layout: page
-chapter: 1.04
+chapter: 1.3
 title: Unsere Werte und Überzeugungen
-permalink: /uebersicht/werte
+permalink: /einleitung/werte
 ---
 
 Die Open Knowledge Foundation Deutschland (OKF DE) wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen für eine offene und gerechte Gesellschaft gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen: 
+<br><br>
 
-1. **Rechtsstaatlichkeit und Grundrechte**: ein demokratisch verfasster Rechtsstaat, der Grundrechte wie Informations-, Meinungs-, Versammlungs-, und Pressefreiheit sowie demokratische Teilhabe garantiert;
+### 1. Rechtsstaatlichkeit und Grundrechte
+ein demokratisch verfasster Rechtsstaat, der Grundrechte wie Informations-, Meinungs-, Versammlungs-, und Pressefreiheit sowie demokratische Teilhabe garantiert.
 
-2. **Transparenz und Rechenschaft**: öffentliche Institutionen in Politik und Verwaltung, die Transparenz herstellen indem sie die Öffentlichkeit proaktiv über ihr Handeln informieren und Rechenschaft ablegen;
 
-3. **Zugang und Teilhabe**: freier Zugang zu Bildung und Wissen für alle Menschen damit sie informierte Entscheidungen treffen und sich aktiv an sozialen und politischen Prozessen beteiligen können;
+### 2. Transparenz und Rechenschaft 
+öffentliche Institutionen in Politik und Verwaltung, die Transparenz herstellen indem sie die Öffentlichkeit proaktiv über ihr Handeln informieren und Rechenschaft ablegen.
 
-4. **Digitale Kompetenz**: einen selbstbestimmten und aufgeklärten Umgang mit digitalen Technologien, Medien, Informationen und Wissen;
 
-5. **Öffentliche Kontrolle**: eine aktive Zivilgesellschaft und unabhängige Medien, die das Handeln von Politik, Verwaltung und Wirtschaft kritisch beobachten, um auf Missstände hinzuweisen und Fälle von Machtmissbrauch und Korruption aufzudecken.
+### 3. Zugang und Teilhabe
+freier Zugang zu Bildung und Wissen für alle Menschen damit sie informierte Entscheidungen treffen und sich aktiv an sozialen und politischen Prozessen beteiligen können.
+
+
+### 4. Digitale Kompetenz
+einen selbstbestimmten und aufgeklärten Umgang mit digitalen Technologien, Medien, Informationen und Wissen.
+
+
+### 5. Öffentliche Kontrolle
+eine aktive Zivilgesellschaft und unabhängige Medien, die das Handeln von Politik, Verwaltung und Wirtschaft kritisch beobachten, um auf Missstände hinzuweisen und Fälle von Machtmissbrauch und Korruption aufzudecken.
 <br>
-<br>
+<br><br>
 Zur Erreichung einer offenen und gerechten Gesellschaft initiiert und fördert die OKF DE aufeinander aufbauende und sich ergänzende Projekte und Initiativen in der Wirkungskette der oben beschriebenen Aktionsfelder. 
 <br>
 <br>

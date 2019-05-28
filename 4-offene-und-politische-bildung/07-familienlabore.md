@@ -1,16 +1,12 @@
 ---
 layout: page
-chapter: 3.05
-title: Rette deinen Nahverkehr
+chapter: 4.07
+title: Familienlabore
 website:
-permalink: /civic-und-public-interest-tech/RDNV
-visuals:
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
+permalink: /civic-und-public-interest-tech/familienlabore
+visual:
+    img: /assets/images/bildung/familienlabore.png
+    alt: Zwei Bilder von der Veranstaltung der Familielabore
 ---
 
 

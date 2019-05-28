@@ -1,16 +1,12 @@
 ---
 layout: page
-chapter: 3.05
+chapter: 3.5
 title: Rette deinen Nahverkehr
 website:
 permalink: /civic-und-public-interest-tech/RDNV
-visuals:
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
-    - img: http://placekitten.com/600/400
-      alt: Eine Beschreibung des Textes
+visual:
+     img: /assets/images/civictech/rettedeinennahverkehr.png
+     alt: Eine Beschreibung des Textes
 ---
 
 
