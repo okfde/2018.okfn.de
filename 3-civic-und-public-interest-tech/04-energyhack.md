@@ -3,14 +3,14 @@ layout: page
 chapter: 3.4
 title: Energyhack 2.0
 website:
-permalink: /civic-und-public-interest-tech/energyhack
+permalink: /civic-und-public-interest-tech/energyhack/
 visual:
       img: /assets/images/civictech/energyhack.png
       alt: Eine Beschreibung des Textes
 ---
 
 
-* Finanzierung: 30.000 € 
+* Finanzierung: 30.000 €
 * Partner: stromnetz Berlin & WindNODE
 * Projektleitung: Walter Palmetshofer
 

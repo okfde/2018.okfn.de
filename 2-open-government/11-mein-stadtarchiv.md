@@ -3,7 +3,7 @@ layout: page
 chapter: 2.11
 title: Mein Stadtarchiv
 website: https://mein-stadtarchiv.de/
-permalink: /open-government/mein-stadtarchiv
+permalink: /open-government/mein-stadtarchiv/
 visual:
     img: /assets/images/opengovernment/stadtarchiv.png
     alt: Eine Beschreibung des Textes
@@ -22,5 +22,5 @@ In Stadtarchiven sind viele Informationen und Dokumente, die Bürgerinnen und B�
 # Ressourcen
 
 * Finanzierung: Ehrenamtlich mit anfänglicher Förderung
-* Projektleitung: Ernesto Ruge 
+* Projektleitung: Ernesto Ruge
 * Beginn: 2017

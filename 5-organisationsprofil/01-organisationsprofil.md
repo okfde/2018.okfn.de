@@ -2,14 +2,14 @@
 layout: page
 chapter: 5.1
 title: Organisationsprofil
-permalink: /organisation/profil
+permalink: /organisation/profil/
 ---
 
 
-## Governance der Organisation 
+## Governance der Organisation
 
 
-### Leitungs- und ggf. Geschäftsführungsorgan 
+### Leitungs- und ggf. Geschäftsführungsorgan
 Gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
 
 
@@ -85,12 +85,9 @@ Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine An
 
 **Zum Sozialprofil gehören die folgenden Punkte:**
 * flexible Arbeitszeiten
-* freie Einteilung von Heimarbeitstagen 
+* freie Einteilung von Heimarbeitstagen
 * Tiere am Arbeitsplatz sind erlaubt
 * Weiterbildungsmaßnahmen innerhalb der Arbeitszeit werden unterstützt und teilweise finanziert
 * das gesamte Team wird mindestens monatlich über die wichtigsten Entwicklungen von Vorstand, Geschäftsführung und Team intern informiert, um stets einen Gesamtüberblick zu haben
 * alle MitarbeiterInnen, die dem Geschäftsführer nicht direkt unterstehen, haben mehrmals im Jahr Gruppenmeetings mit der Geschäftsführerin
 * die Geschäftsführerin hat eine »Open-Door-Policy« für alle MitarbeiterInnen.
-
-
-

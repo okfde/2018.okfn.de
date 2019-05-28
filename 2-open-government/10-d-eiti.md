@@ -3,7 +3,7 @@ layout: page
 chapter: 2.10
 title: D-EITI
 website: https://www.d-eiti.de/
-permalink: /open-government/d-eiti
+permalink: /open-government/d-eiti/
 visual:
     img: /assets/images/opengovernment/eiti.png
     alt: Eine Beschreibung des Textes
@@ -16,9 +16,9 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 
 # Hintergrund
 
-* Transparenz im Rohstoffsektor 
+* Transparenz im Rohstoffsektor
 * Vertragstransparenz
-* Beneficial Ownership also der Offenlegung der wirtschaftlichen Eigentümer 
+* Beneficial Ownership also der Offenlegung der wirtschaftlichen Eigentümer
 * Offene Daten, Diskussion und Visualisierungen im Rohstoffsektor
 
 
@@ -26,9 +26,9 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 
 * Internationale Vernetzung und kontinuierliche lokale Arbeit
 
-# Ausblick 
+# Ausblick
 
-* Für 2019 Fokus auf Kooperation mit der Zivilgesellschaft in der Ukraine 
+* Für 2019 Fokus auf Kooperation mit der Zivilgesellschaft in der Ukraine
 * Kommende Themen sind Vertragstransparenz und wirtschaftlicher Eigentümer
 
 

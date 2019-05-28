@@ -3,7 +3,7 @@ layout: page
 chapter: 4.07
 title: Familienlabore
 website:
-permalink: /civic-und-public-interest-tech/familienlabore
+permalink: /civic-und-public-interest-tech/familienlabore/
 visual:
     img: /assets/images/bildung/familienlabore.png
     alt: Zwei Bilder von der Veranstaltung der Familielabore
@@ -36,5 +36,4 @@ Eine große Herausforderung der Familienlabore besteht darin ein Format zu entwi
 
 # Ausblick
 
-* Für 2019 sind bisher keine weiteren Veranstaltungen geplant. 
-
+* Für 2019 sind bisher keine weiteren Veranstaltungen geplant.

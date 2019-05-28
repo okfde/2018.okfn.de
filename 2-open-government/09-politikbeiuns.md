@@ -3,7 +3,7 @@ layout: page
 chapter: 2.09
 title: Politik bei Uns
 website: https://politik-bei-uns.de
-permalink: /open-government/politikbeiuns
+permalink: /open-government/politikbeiuns/
 visual:
     img: /assets/images/opengovernment/politikbeiuns.png
     alt: Eine Beschreibung des Textes
@@ -19,7 +19,7 @@ Mit den Daten im OParl-Format kann man jetzt ganz neue Darstellungen bauen. Dabe
 
 # Hintergrund
 
-OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data für möglichst viele verschiedene Zwecke eingesetzt werden können. 
+OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data für möglichst viele verschiedene Zwecke eingesetzt werden können.
 
 
 # Highlights

@@ -3,7 +3,7 @@ layout: page
 chapter: 4.06
 title: DARIAH
 website:
-permalink: /offene-und-politische-bildung/dariah
+permalink: /offene-und-politische-bildung/dariah/
 visual:
     img: /assets/images/bildung/dariah.png
     alt: Ein Screenshor der Dariah-Website
