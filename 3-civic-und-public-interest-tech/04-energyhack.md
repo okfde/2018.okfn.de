@@ -2,7 +2,7 @@
 layout: page
 chapter: 3.4
 title: Energyhack 2.0
-website:
+website: https://energyhack.de/
 permalink: /civic-und-public-interest-tech/energyhack/
 visual:
       img: /assets/images/civictech/energyhack.png

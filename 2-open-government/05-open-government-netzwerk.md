@@ -2,7 +2,7 @@
 layout: page
 chapter: 2.05
 title: Open Government Netzwerk
-website:
+website: https://opengovpartnership.de/
 permalink: /open-government/open-government-netzwerk/
 visual:
     img: /assets/images/opengovernment/ogp.png

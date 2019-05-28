@@ -2,7 +2,7 @@
 layout: page
 chapter: 4.07
 title: Familienlabore
-website:
+website: https://familienlabore.de/
 permalink: /civic-und-public-interest-tech/familienlabore/
 visual:
     img: /assets/images/bildung/familienlabore.png

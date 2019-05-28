@@ -2,7 +2,7 @@
 layout: page
 chapter: 4.06
 title: DARIAH
-website:
+website: https://www.dariah.eu/
 permalink: /offene-und-politische-bildung/dariah/
 visual:
     img: /assets/images/bildung/dariah.png
