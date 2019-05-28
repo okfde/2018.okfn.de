@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://taetigkeitsbericht.okfn.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 title: Tätigkeitsbericht der Open Knowledge Foundation 2018
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -44,9 +44,9 @@ chapter:
     - label: Ausblick
       key: outlook
 
-# matomo:
-#   url: //to-your-matomo.tdl
-#   id: projectID
+matomo:
+   url: "//traffic.okfn.de/"
+   id: 51
 
 
 # Build settings
