@@ -21,9 +21,9 @@ causes:
 solution:
 - title: Jugend-Hackathons
   text: Jugendliche vernetzen sich mit Gleichgesinnten, arbeiten an digitalen Projekten und setzen sich gleichzeitig mit deren gesellschaftlichen und ethischen Implikationen auseinander.
-- title: Workshops für Programmier-Einsteiger\*innen
+- title: Workshops für Programmier-Einsteiger*innen
   text: Jugendliche werden von Nutzer*innen zu Gestalter\*innen. Sie erleben, dass sie mit digitalen Mittel ihre eigenen Ideen in die Tat umsetzen können und gewinnen an Mündigkeit und Selbstbestimmtheit.
-- title: internationaler Schüler\*innenaustausch
+- title: internationaler Schüler*innenaustausch
   text: Das deutsch-türkische Austauschprogramm von Jugend hackt, re:coded und der deutsch-türkischen Jugendbrücke ermöglicht Schüler\*innen aus Deutschland und der Türkei die Berliner Open Source und Civic Tech Szene kennenzulernen, sowie am Berliner Jugend-Hackathon teilzunehmen.
 effect:
 - title: Auf Jugendliche, die gerne programmieren
