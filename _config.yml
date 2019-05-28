@@ -12,7 +12,7 @@ license:
   license: License CC BY-SA 3.0
 mainpage:
   url: https://okfn.de
-  pdf: /fake/link/to.pdf
+  #pdf: /fake/link/to.pdf
   label: Zurück zur OKF Website
   year: 2018
 chapter:
