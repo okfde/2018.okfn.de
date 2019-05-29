@@ -17,21 +17,18 @@ Zentrale Dokumente der Demokratie müssen offen für alle bereitstehen. Das Urhe
 
 # Hintergrund
 
-* Basierend auf dem Fachgespräch Transparenzgesetz vom 16. Juni 2017 haben wir unseren eigenen Gesetzentwurf weiterentwickelt und ausformuliert. Dabei gab es für alle Menschen die Möglichkeit, den Entwurf online zu kommentieren.
-* Wir führten außerdem mehrere Gespräche mit Vertreter\*innen aus Politik, Verwaltung und Zivilgesellschaft, um den Gesetzentwurf zu verbreiten und stetig zu verbessern.
+* 
 
 
 # Highlights
 
-* Mit Mehr Demokratie e.V. konnten wir eine Partnerorganisation mit langjähriger Erfahrung mit Volksentscheiden gewinnen. Gemeinsam entwickelten wir die Struktur zur Umsetzung des Volksentscheids bis 2021.
-* Ein erster Meilenstein für die Verbreitung des Vorhabens in der Öffentlichkeit war die Teilnahme am Rixdorfer Weihnachtsmarkt, wo mehrere Hundert Menschen auf das Projekt aufmerksam wurden.
+* 
 
 
 # Ausblick
 
-* Über das ganze Jahr hinweg werden neue Bündnispartner*innen und Freiwillige gesucht, die den Volksentscheid in verschiedenen Kapazitäten unterstützen.
-* Im März 2019 wird der Gesetzentwurf der Senatsverwaltung zur Kostenschätzung vorgelegt.
-Die erste Phase der Unterschriftensammlung beginnt im Sommer 2019.
+* 
+* 
 
 
 # Ressourcen
