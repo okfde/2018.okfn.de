@@ -32,7 +32,3 @@ OParl 1.1 wurde veröffentlicht. Ein weiterer Hersteller bietet OParl als Modul 
 * Beteiligte: Ernesto Ruge, Konstantin Schütze, Stefan Graupner
 * Beginn: 2013
 
-
-# Website
-
-[https://oparl.org/](https://oparl.org/)

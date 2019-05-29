@@ -29,7 +29,3 @@ Nachdem 2017 der erste nationale Aktionsplan verabschiedet wurde, hat das Netzwe
 # Ausblick
 
 Der erste Aktionsplan für Open Government beschränkte sich nur auf den Bund. Ziel des Netzwerks ist es Open Government auch in den Ländern und den Kommunen zu verankern. Dabei möchte das Netzwerk seine Mitgliederstrukturen auf regionaler Ebene weiter ausbauen um auch lokal Veranstaltungen durchzuführen. Gemeinsames Lobbying auf nationaler Ebene für Open Government ist weiterhin ein zentraler Fokus, damit im zweiten Aktionsplan noch ambitionierte Reformen umgesetzt werden.
-
-# Website
-
-[https://opengovpartnership.de](https://opengovpartnership.de/)

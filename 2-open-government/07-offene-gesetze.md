@@ -39,8 +39,3 @@ Die erste Phase der Unterschriftensammlung beginnt im Sommer 2019.
 * Beteiligte: Stefan Wehrmeyer, Johannes Filter, Arne Semsrott
 * Projektstart: Dezember 2018
 * Freiwilligenstunden: ?
-
-
-# Website
-
-[https://volksentscheid-transparenz.de](https://volksentscheid-transparenz.de/)

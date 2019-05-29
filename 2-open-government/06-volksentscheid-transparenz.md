@@ -39,7 +39,3 @@ Die erste Phase der Unterschriftensammlung beginnt im Sommer 2019.
 * Projektpartner: Mehr Demokratie e.V.
 * Beginn: Sommer 2018
 
-
-# Website
-
-[https://volksentscheid-transparenz.de](https://volksentscheid-transparenz.de/)

@@ -36,7 +36,3 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 * Partner: GIZ, FOES, FUE, TI
 * Projektleitung: Walter Palmetshofer
 
-
-# Website
-
-[https://www.d-eiti.de](https://www.d-eiti.de/)

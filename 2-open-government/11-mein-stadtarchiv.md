@@ -21,7 +21,3 @@ In Stadtarchiven sind viele Informationen und Dokumente, die Bürgerinnen und B�
 * Finanzierung: Ehrenamtlich mit anfänglicher Förderung
 * Projektleitung: Ernesto Ruge
 * Beginn: 2017
-
-# Website
-
-[https://mein-stadtarchiv.de](https://mein-stadtarchiv.de/)
