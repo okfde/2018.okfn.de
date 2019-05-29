@@ -2,7 +2,7 @@
 layout: page
 chapter: 3.5
 title: Rette deinen Nahverkehr
-website:
+website: https://rettedeinennahverkehr.de/
 permalink: /civic-und-public-interest-tech/RDNV/
 visual:
      img: /assets/images/civictech/rettedeinennahverkehr.png

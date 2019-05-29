@@ -2,7 +2,7 @@
 layout: page
 chapter: 3.3
 title: OpenSchufa
-website:
+website: https://openschufa.de/
 permalink: /civic-und-public-interest-tech/openschufa/
 visual:
       img: /assets/images/opengovernment/openschufa.png
