@@ -1,4 +1,4 @@
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/2018" # the subpath of your site, e.g. /blog
 url: "https://taetigkeitsbericht.okfn.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 title: Tätigkeitsbericht der Open Knowledge Foundation 2018
