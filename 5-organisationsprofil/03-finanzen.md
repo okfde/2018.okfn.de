@@ -8,9 +8,18 @@ permalink: /organisation/finanzen/
 
 ## Buchführung und Rechnungslegung
 
+<a href="#" class="download-table">Buchführung</a>
+
+
 ## Vermögensrechnung
 
+<a href="#" class="download-table">Vermögensrechnung</a>
+
+
 ## Einnahmen und Ausgaben
+
+<a href="#" class="download-table">Einnahmen Tabelle</a>
+
 
 ## Finanzielle Situation und Planung
 

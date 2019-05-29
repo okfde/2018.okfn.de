@@ -30,3 +30,7 @@ Die große Frage, aus welchem \*werk stammen die Daten?
 # Ausblick
 
 Im Rahmen von WindNode wollen wir noch mindestens ein weiteres Community-Event rund um offene Energiedaten in den nächsten Jahren durchführen. Um interessante Projekte zwischen den Veranstaltungen von der Idee auf dem Hackathon zum fertigen Prototypen und funktionierenden Demonstrator entwickeln zu können, hat Stromnetz Berlin im Rahmen von WindNODE ein Budget von 30.000 Euro eingeplant. Damit wollen wir den Hackday-Effekt abschwächen und fördern das langfristig tolle offene Softwareprojekte umgesetzt werden.
+
+### Website
+
+[https://energyhack.de](https://energyhack.de/)
