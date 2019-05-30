@@ -4,7 +4,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 title: Tätigkeitsbericht der Open Knowledge Foundation 2018
 description: > # this means to ignore newlines until "show_exerpts:"
   Unser Tätigkeitsbericht enthält detaillierte Angaben zu den Entwicklungen unserer Organisation und unserer Projekte. Seit 2017 orientiert sich unser Jahresbericht am Social Reporting Standard.
-#main_image: http://placekitten.com/900/600
+main_image: url(/assets/images/einleitung/intro.png)
 show_excerpts: false # set to true to show excerpts on the homepage
 
 license:

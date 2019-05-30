@@ -57,11 +57,11 @@ effect:
   claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt
 resources:
   timespan:
-      img: http://placekitten.com/800/80
-      alt: Das beschreibt die Projektlaufzeit in Worten
+      img: /assets/images/opengovernment/laufzeit/fds.svg
+      alt: ganzjährige Projektlaufzeit
   funding:
-      img: http://placekitten.com/800/260
-      alt: Das beschreibt die Finanzierungssituation in Worten
+      img: /assets/images/opengovernment/finanzierung/fds.svg
+      alt: ganzjährige Projektlaufzeit
 achievements: >
     * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
 

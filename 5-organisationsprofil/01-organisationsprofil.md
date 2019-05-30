@@ -3,6 +3,9 @@ layout: page
 chapter: 5.1
 title: Organisationsprofil
 permalink: /organisation/profil
+visual:
+    img: /assets/images/einleitung/logo.png
+    alt: Logo der OKF
 ---
 
 
@@ -41,6 +44,11 @@ Gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
 § 7.2 In jedem Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt. Sie wird vom Vorstand schriftlich oder in elektronischer Form als E-Mail unter Angabe der Tagesordnung einberufen. Wahlen bzw. Abwahlen von Vorstandsmitgliedern und Änderungen dieser Satzung bedürfen der ausdrücklichen Nennung in der Tagesordnung, mit der eingeladen wird. Die Einladungsfrist beträgt zwei Wochen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins schriftlich bekannt gegebene Adresse / E-Mail Adresse gerichtet ist.
 
 § 8.1 Der Mitgliederversammlung als beschlussfassendem Vereinsorgan obliegen alle Aufgaben, es sei denn, diese sind ausdrücklich laut Satzung einem anderen Vereinsorgan übertragen worden.
+
+**Mitglieder**<br>
+Anna Alberts, Adrian Pohl, Andreas Pawelke, Andrej Sandorf, Anja Jentzsch, Arne Semsrott,  Bela Seeger, Christian Heise, Christian Kreutz, Claudia Schwegmann, Daniel Dietrich, Daniel Mietchen, Edgar Zanella Alvarenga, Eileen Wagner, Fiona Krakenbürger, Friedrich Lindenberg, Hauke Gierow, Helene Hahn, Jana Wichmann, Johanna zum Felde, Jonathan Gray, Julia Kloiber, Knut Perseke, Kristina Klein, Leonard Wolf, ucy Chambers, Mara Mendes, Marcus Dapp, Maria Reimer, Mark Brough, Markus Neuschäfer, Maximilian Voigt, Michael Hörz, Michael Peters, Moritz Neujeffski, Paula Grünwald, Rufus Pollock, Sören Auer, Stefan Kaufmann, Stefan Wehrmeyer, Timo Lundelius, Walter Palmetshofer
+
+
 
 <br>
 
