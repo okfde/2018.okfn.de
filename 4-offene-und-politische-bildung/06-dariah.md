@@ -2,8 +2,8 @@
 layout: page
 chapter: 4.06
 title: DARIAH
-website:
-permalink: /offene-und-politische-bildung/dariah
+website: https://www.dariah.eu/
+permalink: /offene-und-politische-bildung/dariah/
 visual:
     img: /assets/images/bildung/dariah.png
     alt: Ein Screenshor der Dariah-Website
@@ -37,3 +37,8 @@ visual:
 # Ausblick
 
 * Projektende 02/2019
+
+
+### Website
+
+[https://www.dariah.eu](https://www.dariah.eu/)

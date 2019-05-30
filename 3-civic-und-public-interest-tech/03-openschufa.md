@@ -2,8 +2,8 @@
 layout: page
 chapter: 3.3
 title: OpenSchufa
-website:
-permalink: /civic-und-public-interest-tech/openschufa
+website: https://openschufa.de/
+permalink: /civic-und-public-interest-tech/openschufa/
 visual:
       img: /assets/images/opengovernment/openschufa.png
       alt: Eine Beschreibung des Textes
@@ -22,7 +22,7 @@ Ob Kredite, Handyverträge oder Wohnungsbewerbungen - bei wichtigen Verbraucherf
 * Crowdfunding für das Datentool mit 43.000 Euro
 * 100.000 Datenanfragen an Kreditauskunftsteien, über 30.000 an die Schufa
 * Deutschlandweite Aufmerksamkeit, zweimal bundesweit in den Hauptabendnachrichten, insbesonders Analysen von Bayrischen Rundfunk und SpiegelOnline
-* Neue Erkenntnisse aufgrund der Datenauswertugn der crowdsourced 3.000 Datenspenden 
+* Neue Erkenntnisse aufgrund der Datenauswertugn der crowdsourced 3.000 Datenspenden
 
 # Ausblick
 

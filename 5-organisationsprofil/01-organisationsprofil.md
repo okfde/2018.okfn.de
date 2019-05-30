@@ -6,13 +6,67 @@ permalink: /organisation/profil
 visual:
     img: /assets/images/einleitung/logo.png
     alt: Logo der OKF
+
 ---
 
 
-## Governance der Organisation 
+## Anzahl in Köpfen
+
+<table width="500">
+  <tr>
+    <td><b>Jahr</b></td>
+    <td><b>Mitarbeiter</b></td>
+    <td><b>davon hauptamtlich</b></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>10</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>22</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>24</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>39</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>36</td>
+    <td>36</td>
+  </tr>
+</table>
+
+<br>
 
 
-### Leitungs- und ggf. Geschäftsführungsorgan 
+## Governance der Organisation
+
+
+### Leitungs- und ggf. Geschäftsführungsorgan
 Gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
 
 
@@ -52,9 +106,53 @@ Anna Alberts, Adrian Pohl, Andreas Pawelke, Andrej Sandorf, Anja Jentzsch, Arne 
 
 <br>
 
+### Mitglieder des Vereins
+
+* Adrian Pohl
+* Andreas Pawelke, bis 02.06.2018 Beisitzer, dann Vorstandsvorsitzender
+* Andrej Sandorf
+* Anja Jentzsch
+* Anna Alberts
+* Arne Semsrott
+* Bela Seeger
+* Christian Heise - Vorstandsvorsitzender bis 02.06.2018
+* Claudia Schwegmann - Beisitzerin bis 21.11.2018
+* Daniel Dietrich - Beisitzer
+* Daniel Mietchen
+* Edgar Zanella Alvarenga
+* Eileen Wagner
+* Fiona Krakenbürger
+* Friedrich Lindenberg - stellv. Vorstandsvorsitzender bis 02.06.2018
+* Hauke Gierow
+* Helene Hahn
+* Jana Wichmann
+* Johanna zum Felde
+* Jonathan Gray
+* Julia Kloiber
+* Knut Perseke
+* Kristina Klein bis 30.06.2017; Geschäftsführerin, ab 11.11.2017 Kassenwartin
+* Leonard Wolf
+* Lucy Chambers; Beisitzerin, stellv. Vorstandsvorsitzende ab 02.06.2018
+* Mara Mendes
+* Maria Reimer
+* Mark Brough
+* Markus Neuschäfer
+* Maximilian Voigt
+* Michael Hörz
+* Michael Peters
+* Moritz Neujeffski
+* Paula Grünwald
+* Rufus Pollock
+* Sören Auer - Beisitzer bis 02.06.2018
+* Stefan Wehrmeyer
+* Stefan Kaufmann
+* Timo Lundelius
+* Walter Palmetshofer
+
+
 ### Interessenskonflikte
 
-Der Vorstand und einige hauptamtliche Teammitglieder sind auch Vereinsmitglieder und damit stimmberechtigt in der Mitgliederversammlung als Aufsichtsorgan der OKF Deutschland e.V. Der Vorstand ist ehrenamtlich tätig und erhält keine Bezüge weder Gehälter, Aufwandsentschädigungen noch Sachbezüge. Kein Vorstandsmitglied arbeitet vertraglich in einem OKF-Projekt mit und bezieht daraus Gehalt.
+Der Vorstand und einige hauptamtliche Teammitglieder sind auch Vereinsmitglieder und damit stimmberechtigt in der Mitgliederversammlung als Aufsichtsorgan der OKF Deutschland e.V. Der Vorstand ist ehrenamtlich tätig und erhält keine Bezüge, weder Gehälter, Aufwandsentschädigungen noch Sachbezüge. Kein Vorstandsmitglied arbeitet vertraglich in einem OKF-Projekt mit und bezieht daraus Gehalt.
 Für das Geschäftsjahr 2018 gabe es keine finanziellen, persönlichen oder rechtlichen Abhängigkeitsverhältnisse zwischen den Mitgliedern der OKF Deutschland e.V. und anderen an der Finanzierung der OKF beteiligten Organisationen. Es bestanden auch keine Verwandtschaftsverhältnisse innerhalb der Organisation.
 
 <br>
@@ -99,6 +197,7 @@ Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine An
 * das gesamte Team wird mindestens monatlich über die wichtigsten Entwicklungen von Vorstand, Geschäftsführung und Team intern informiert, um stets einen Gesamtüberblick zu haben
 * alle MitarbeiterInnen, die dem Geschäftsführer nicht direkt unterstehen, haben mehrmals im Jahr Gruppenmeetings mit der Geschäftsführerin
 * die Geschäftsführerin hat eine »Open-Door-Policy« für alle MitarbeiterInnen.
+
 
 
 

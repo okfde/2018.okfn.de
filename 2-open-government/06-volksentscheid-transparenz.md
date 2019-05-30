@@ -3,7 +3,7 @@ layout: page
 chapter: 2.06
 title: Volksentscheid Transparenz
 website: https://volksentscheid-transparenz.de/
-permalink: /open-government/volksentscheid-transparenz
+permalink: /open-government/volksentscheid-transparenz/
 visual:
     img: /assets/images/opengovernment/volksentscheid.png
     alt: Eine Beschreibung des Textes
@@ -23,7 +23,7 @@ Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit 
 # Highlights
 
 * Mit Mehr Demokratie e.V. konnten wir eine Partnerorganisation mit langjähriger Erfahrung mit Volksentscheiden gewinnen. Gemeinsam entwickelten wir die Struktur zur Umsetzung des Volksentscheids bis 2021.
-* Ein erster Meilenstein für die Verbreitung des Vorhabens in der Öffentlichkeit war die Teilnahme am Rixdorfer Weihnachtsmarkt, wo mehrere Hundert Menschen auf das Projekt aufmerksam wurden. 
+* Ein erster Meilenstein für die Verbreitung des Vorhabens in der Öffentlichkeit war die Teilnahme am Rixdorfer Weihnachtsmarkt, wo mehrere Hundert Menschen auf das Projekt aufmerksam wurden.
 
 
 # Ausblick
@@ -33,7 +33,7 @@ Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit 
 Die erste Phase der Unterschriftensammlung beginnt im Sommer 2019.
 
 
-# Ressourcen 
+# Ressourcen
 * Finanzierung: keine
 * Beteiligte: Arne Semsrott, Lea Pfau, Leonard Wolf, Nadine Stammen
 * Projektpartner: Mehr Demokratie e.V.

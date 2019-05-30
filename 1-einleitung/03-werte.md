@@ -2,17 +2,17 @@
 layout: page
 chapter: 1.3
 title: Unsere Werte und Überzeugungen
-permalink: /einleitung/werte
+permalink: /einleitung/werte/
 ---
 
-Die Open Knowledge Foundation Deutschland (OKF DE) wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen für eine offene und gerechte Gesellschaft gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen: 
+Die Open Knowledge Foundation Deutschland (OKF DE) wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen für eine offene und gerechte Gesellschaft gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen:
 <br><br>
 
 ### 1. Rechtsstaatlichkeit und Grundrechte
 ein demokratisch verfasster Rechtsstaat, der Grundrechte wie Informations-, Meinungs-, Versammlungs-, und Pressefreiheit sowie demokratische Teilhabe garantiert.
 
 
-### 2. Transparenz und Rechenschaft 
+### 2. Transparenz und Rechenschaft
 öffentliche Institutionen in Politik und Verwaltung, die Transparenz herstellen indem sie die Öffentlichkeit proaktiv über ihr Handeln informieren und Rechenschaft ablegen.
 
 
@@ -28,18 +28,18 @@ einen selbstbestimmten und aufgeklärten Umgang mit digitalen Technologien, Medi
 eine aktive Zivilgesellschaft und unabhängige Medien, die das Handeln von Politik, Verwaltung und Wirtschaft kritisch beobachten, um auf Missstände hinzuweisen und Fälle von Machtmissbrauch und Korruption aufzudecken.
 <br>
 <br><br>
-Zur Erreichung einer offenen und gerechten Gesellschaft initiiert und fördert die OKF DE aufeinander aufbauende und sich ergänzende Projekte und Initiativen in der Wirkungskette der oben beschriebenen Aktionsfelder. 
+Zur Erreichung einer offenen und gerechten Gesellschaft initiiert und fördert die OKF DE aufeinander aufbauende und sich ergänzende Projekte und Initiativen in der Wirkungskette der oben beschriebenen Aktionsfelder.
 <br>
 <br>
 
-Wir brauchen Gesetze, Normen und Praktiken, die 
+Wir brauchen Gesetze, Normen und Praktiken, die
 
-* aufeinander aufbauen und den Zugang zu offenen Daten ausbauen, 
+* aufeinander aufbauen und den Zugang zu offenen Daten ausbauen,
 * die Informationsfreiheit stärken,
-* neue Möglichkeiten der demokratischen Teilhabe eröffnen, 
-* Transparenz und Rechenschaft öffentlicher Institutionen erhöhen, 
+* neue Möglichkeiten der demokratischen Teilhabe eröffnen,
+* Transparenz und Rechenschaft öffentlicher Institutionen erhöhen,
 * die Aufsichtsfunktion und öffentliche Kontrolle durch zivilgesellschaftlichen Watchdog-Organisationen, unabhängige Medien und unabhängige Aufsichtsbehörden stärken
 * Machtmissbrauch und Korruption eindämmen,
 * einen selbstbestimmten und aufgeklärten Umgang mit digitalen Technologien, Informationen und Medien sowie die Entwicklung und Nutzung von digitalen Werkzeugen für das demokratische Gemeinwesen fördern.
 
-Vor diesem Hintergrund bedarf es aus Sicht der OKF DE starker zivilgesellschaftlicher Organisationen, die auf politischer Ebene Fortschritte im Bezug auf eine offene und gerechten Gesellschaft einfordern und durchsetzen, die relevante Erfahrungen in diesem Bereich sammeln und teilen und anhand kreativer Beispiele die Notwendigkeit und den Wert einer offenen und gerechten Gesellschaft demonstrieren können. Solch eine Organisation möchte die OKF DE sein. Unseren inhaltlichen Schwerpunkte sind dabei Offenes Regierungshandeln, Civic und Public Interest Tech sowie Offene Bildung. 
+Vor diesem Hintergrund bedarf es aus Sicht der OKF DE starker zivilgesellschaftlicher Organisationen, die auf politischer Ebene Fortschritte im Bezug auf eine offene und gerechten Gesellschaft einfordern und durchsetzen, die relevante Erfahrungen in diesem Bereich sammeln und teilen und anhand kreativer Beispiele die Notwendigkeit und den Wert einer offenen und gerechten Gesellschaft demonstrieren können. Solch eine Organisation möchte die OKF DE sein. Unseren inhaltlichen Schwerpunkte sind dabei Offenes Regierungshandeln, Civic und Public Interest Tech sowie Offene Bildung.

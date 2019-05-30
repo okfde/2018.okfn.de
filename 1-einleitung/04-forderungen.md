@@ -2,7 +2,7 @@
 layout: page
 chapter: 1.4
 title: Forderungen
-permalink: /einleitung/forderungen
+permalink: /einleitung/forderungen/
 visual:
     img: /assets/images/einleitung/forderung.png
     alt: Eine Beschreibung des Textes
@@ -22,7 +22,7 @@ An die im Jahr 2018 eingesetzte neue Bundesregierung haben wir folgende Forderun
 # 2. Digitale Zivilgesellschaft fördern
 
 * Die Digitalisierung verändert unser Leben und durchdringt alle Bereiche der Gesellschaft. Die Zivilgesellschaft muss ein [wesentlicher Bestandteil](https://okfn.de/blog/2017/07/offenheit/) dieser Veränderung sein und die Welt mitgestalten, in der wir leben wollen. Dies ist nur möglich durch nachhaltige Förderstrukturen und Beteiligungsverfahren auf Augenhöhe.
-* Nur eine aktive Zivilgesellschaft kann der Politik als fähiger Partner in einer funktionierenden Demokratie zur Seite stehen und ein Gegengewicht zu kommerziellen Interessen bilden. Bei der [freiwilligen Feuerwehr](https://jugendhackt.org/kommentar-zur-forderung-nach-einer-freiwilligen-cyber-feuerwehr/), welche sich für das Gemeinwohl einsetzt, liegt die Verantwortung für den Erhalt ihrer Infrastruktur, der Fahrzeuge, der Gebäude und der Lohnfortzahlung auf Seiten des Staates. In diesem Sinne sollten auch gemeinnützige zivilgesellschaftliche Initiativen im digitalen Raum strukturell und nachhaltig gefördert werden. 
+* Nur eine aktive Zivilgesellschaft kann der Politik als fähiger Partner in einer funktionierenden Demokratie zur Seite stehen und ein Gegengewicht zu kommerziellen Interessen bilden. Bei der [freiwilligen Feuerwehr](https://jugendhackt.org/kommentar-zur-forderung-nach-einer-freiwilligen-cyber-feuerwehr/), welche sich für das Gemeinwohl einsetzt, liegt die Verantwortung für den Erhalt ihrer Infrastruktur, der Fahrzeuge, der Gebäude und der Lohnfortzahlung auf Seiten des Staates. In diesem Sinne sollten auch gemeinnützige zivilgesellschaftliche Initiativen im digitalen Raum strukturell und nachhaltig gefördert werden.
 * Investitionen in die Wirtschaft gibt es überall - wir brauchen Investitionen in die Zivilgesellschaft. Wir fordern, dass mehr öffentliche Fördermittel für zivilgesellschaftliche Projekte im digitalen Bereich bereitgestellt werden, um mehr Menschen zu beteiligen.
 <br>
 

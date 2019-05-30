@@ -93,6 +93,7 @@ evaluation:  >
 
     * Erkenntnisse aus unseren Aktivitäten werden regelmäßig auf dem Blog der Datenschule und der Referenzen-Seite zugänglich gemacht.
 
+outook: >
   Ausblick (Risiken und Chancen)
 
     * Chancen

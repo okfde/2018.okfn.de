@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 2.07
+chapter: 2.12
 title: https jetzt
 website: https://https.jetzt/
-permalink: /open-government/https-jetzt
+permalink: /open-government/https-jetzt/
 visual:
     img: /assets/images/opengovernment/https.png
     alt: Eine Beschreibung des Textes
@@ -29,7 +29,7 @@ Das Projekt evaluiert regelmäßig, wie es um die Verbindungssicherheit zu Behö
 * [Problemfeld wird im Tätigkeitsbericht des LfDI BaWü erwähnt](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/02/LfDI-34.-Datenschutz-T%C3%A4tigkeitsbericht-Internet.pdf#page=84)
 
 
-# Ausblick 
+# Ausblick
 
 * Für 2019 ist angesetzt, dass die Aktualisierung der Evaluation weiterhin monatlich stattfindet.
 
@@ -38,3 +38,5 @@ Das Projekt evaluiert regelmäßig, wie es um die Verbindungssicherheit zu Behö
 
 * Finanzierung: keine, ehrenamtlich
 * Beteiligte: Maximilian Richt, Ernesto Ruge
+
+

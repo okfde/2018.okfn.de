@@ -2,8 +2,8 @@
 layout: page
 chapter: 3.5
 title: Rette deinen Nahverkehr
-website:
-permalink: /civic-und-public-interest-tech/RDNV
+website: https://rettedeinennahverkehr.de/
+permalink: /civic-und-public-interest-tech/RDNV/
 visual:
      img: /assets/images/civictech/rettedeinennahverkehr.png
      alt: Eine Beschreibung des Textes
@@ -22,14 +22,15 @@ Offene Fahrplan­daten statt vernagelter Systeme. Für die Mobilität von morgen
 
 # Highlights
 
-* In den letzten 12 Monaten gab es es zusätzliche Nahverkehrsdaten von VRS Verkehrsverbund Rhein-Sieg, HVV Hamburger Verkehrsverbund 
-KVV Karlsruher Verkehrsverbund, VGN Verkehrsverbund Großraum Nürnberg und LVB Leipziger Verkehrsbetriebe. 
+* In den letzten 12 Monaten gab es es zusätzliche Nahverkehrsdaten von VRS Verkehrsverbund Rhein-Sieg, HVV Hamburger Verkehrsverbund
+KVV Karlsruher Verkehrsverbund, VGN Verkehrsverbund Großraum Nürnberg und LVB Leipziger Verkehrsbetriebe.
 * 6 Veranstaltungen mit produktiven Ergebnissen.
 * Städtemobiltiätsstrategie
 
 
 # Ausblick
 
-* Aktive, konsequente Überzeugungsarbeit bei Kommunen und Verwaltungen. 
+* Aktive, konsequente Überzeugungsarbeit bei Kommunen und Verwaltungen.
 * Umsetzungunterstützung bei der delegierten Verordnung 2017/1926
 * Projektüberführung
+

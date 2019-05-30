@@ -3,7 +3,7 @@ layout: page
 chapter: 2.08
 title: OParl
 website: https://oparl.org/
-permalink: /open-government/oparl
+permalink: /open-government/oparl/
 visual:
     img: /assets/images/opengovernment/oparl.png
     alt:
@@ -18,7 +18,7 @@ Eine Reihe an Ratsanträgen in verschiedenen Städten zeigt bereits jetzt, dass 
 
 # Hintergrund
 
-OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data für möglichst viele verschiedene Zwecke eingesetzt werden können. 
+OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data für möglichst viele verschiedene Zwecke eingesetzt werden können.
 
 
 # Highlights
@@ -28,6 +28,7 @@ OParl 1.1 wurde veröffentlicht. Ein weiterer Hersteller bietet OParl als Modul 
 
 # Ressourcen
 
-* Finanzierung: keine, ehrenamtlich 
-* Beteiligte: Ernesto Ruge, Konstantin Schütze, Stefan Graupner 
-* Beginn: 2013 
+* Finanzierung: keine, ehrenamtlich
+* Beteiligte: Ernesto Ruge, Konstantin Schütze, Stefan Graupner
+* Beginn: 2013
+
