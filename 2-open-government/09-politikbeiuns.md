@@ -19,10 +19,15 @@ Mit den Daten im OParl-Format kann man jetzt ganz neue Darstellungen bauen. Dabe
 
 # Hintergrund
 
-OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data für möglichst viele verschiedene Zwecke eingesetzt werden können.
-
+* Um Politik mitgestalten zu können, hilft es sehr, wenn man gut informiert ist. All die Informationen über politische Entscheidungen in einer Kommune liegen in sogenannten Ratsinformationssystemen (oder kurz: RIS) und ein ganz großer Teil dieser Daten ist seit jeher öffentlich. 
+* Das Problem ist allerdings, dass die Ratsinformationssysteme Arbeitswerkzeuge für die Ratsmitglieder und die Verwaltung sind. Der öffentliche Teil für Bürgerinnen und Bürger ist damit nicht der Fokus. Genau das möchten wir ändern.
 
 # Highlights
 
 * Einige neue Kommunen auch außerhalb von NRW sind hinzugekommen
 
+# Ressourcen
+
+* Finanzierung: Ehrenamtlich mit zwischenzeitlichen Förderungen
+* Projektleitung: Ernesto Ruge 
+* Beginn: 2013 
