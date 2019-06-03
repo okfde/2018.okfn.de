@@ -8,7 +8,7 @@ visual:
     img: /assets/images/bildung/jugendhackt.png
     alt: Eine Beschreibung des Textes
 problem:
-- text: \*Jugendliche mit hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten.
+- text: Jugendliche mit hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten.
 causes:
 - title: Eine allgemeine gesellschaftliche Technik-Skepsis, mangelnde Anerkennung für die Programmierbegeisterung bei Jugendlichen,
   text:
@@ -16,7 +16,8 @@ causes:
   text:
 - title: der oft noch fehlende Blick für die gesellschaftlichen Chancen der Digitalisierung führen dazu, dass
   claim: >
-      Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
+
+Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
 
 solution:
 - title: Jugend-Hackathons
