@@ -6,20 +6,12 @@ permalink: /organisation/finanzen/
 ---
 
 
-## Buchführung und Rechnungslegung
 
-<a href="#" class="download-table">Buchführung</a>
+Alle Informationen zu Buchführung, Rechnungslegung, Vermögensrechnung sowie Einnahmen und Ausgaben finden sich in folgendem PDF zum Download. 
 
+<a href="/assets/document/Finanzen_Jahresbericht_2018.pdf" class="download-table">Download</a>
 
-## Vermögensrechnung
-
-<a href="#" class="download-table">Vermögensrechnung</a>
-
-
-## Einnahmen und Ausgaben
-
-<a href="#" class="download-table">Einnahmen Tabelle</a>
-
+<br>
 
 ## Finanzielle Situation und Planung
 

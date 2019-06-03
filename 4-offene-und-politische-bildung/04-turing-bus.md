@@ -47,10 +47,10 @@ effect:
   claim: Digitale Mündigkeit wird gefördert und alternative Bildungsangebote werden relevanter.
 resources:
   timespan:
-      img: http://placekitten.com/800/80
+      img: /assets/images/opengovernment/laufzeit/turingbus.svg
       alt: Das beschreibt die Projektlaufzeit in Worten
   funding:
-      img: http://placekitten.com/800/260
+      img: /assets/images/opengovernment/finanzierung/turingbus.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     * mehr als zwölf Stationen in Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt, Thüringen, Sachsen, Niedersachsen und Nordrhein-Westfalen mit jeweils zwischen 10 bis 120 Teilnehmenden, vorwiegend Schülerinnen und Schüler zwischen 15 und 19 Jahren

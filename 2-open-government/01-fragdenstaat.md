@@ -62,7 +62,11 @@ resources:
   funding:
       img: /assets/images/opengovernment/finanzierung/fds.svg
       alt: ganzjährige Projektlaufzeit
+
 achievements: >
+    Finanzierungsgrad: 100% finanziert durch Einzelspenden, Querfinanzierung
+ 
+
     * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
 
     + 30 laufende Klagen im Bereich Informationsfreiheit

@@ -72,11 +72,11 @@ effect:
 
 resources:
   timespan:
-      img: http://placekitten.com/800/80
-      alt: Das beschreibt die Projektlaufzeit in Worten
+      img: /assets/images/opengovernment/laufzeit/codefor.svg
+      alt: Die Projektlaufzeit von Code for Germany ging über alle 12 Monate im Jahr 2018.
   funding:
-      img: http://placekitten.com/800/260
-      alt: Das beschreibt die Finanzierungssituation in Worten
+      img: /assets/images/opengovernment/finanzierung/codefor.svg
+      alt: Code for Germany hat 0% Finanzierung
 achievements: >
   * Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfängerinnen, Hackdays
 

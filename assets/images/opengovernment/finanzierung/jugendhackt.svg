@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="266px" viewBox="0 0 490 266" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressourcen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Jugend-hackt" transform="translate(-621.000000, -348.000000)">
+            <g id="Group" transform="translate(621.000000, 348.000000)">
+                <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                <text id="XXX€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="83.538" y="60.088">XXX€</tspan>
+                </text>
+                <text id="Personalkosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="77.248" y="83">Personalkosten</tspan>
+                </text>
+                <rect id="Rectangle-3" fill="#F1F1F1" x="251" y="0" width="239" height="127"></rect>
+                <text id="8-Stellen" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="311.839351" y="60.088">8 Stellen</tspan>
+                </text>
+                <text id="innerhalb-der-OKF" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="319.948" y="83">innerhalb der OKF</tspan>
+                </text>
+                <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="139" width="239" height="127"></rect>
+                <text id="149.894€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="56.4993506" y="199.088">149.894€</tspan>
+                </text>
+                <text id="Sachkosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="88.0517403" y="222">Sachkosten</tspan>
+                </text>
+                <rect id="Rectangle-3" fill="#F1F1F1" x="251" y="139" width="239" height="127"></rect>
+                <text id="ca.-6000h" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="298.193351" y="198.088">ca. 6000h</tspan>
+                </text>
+                <text id="ehrenamtliche-Arbeit" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="312.03374" y="222">ehrenamtliche Arbeit </tspan>
+                    <tspan x="314.49974" y="236">durch Mentor*innen</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

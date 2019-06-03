@@ -4,7 +4,7 @@ chapter: 3
 title: Civic & Public Interest Tech
 permalink: /civicandpublicinteresttech/
 visual:
-    img: /assets/images/opengovernment/.jpg
+    img: /assets/images/civictech/civictech.png
     alt: Illustration Offenes Regierungshandeln
 ---
 

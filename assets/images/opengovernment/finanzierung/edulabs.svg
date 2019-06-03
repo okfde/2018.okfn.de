@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="127px" viewBox="0 0 490 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressourcen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edulabs" transform="translate(-621.000000, -348.000000)">
+            <g id="Group-12" transform="translate(621.000000, 348.000000)">
+                <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                <text id="149.495€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="56.532" y="60.088">149.495€</tspan>
+                </text>
+                <text id="Gesamtbudget" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="79.198" y="83">Gesamtbudget</tspan>
+                </text>
+                <g id="Group-5" transform="translate(251.000000, 0.000000)">
+                    <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                    <text id="3-Stellen" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                        <tspan x="61.0073506" y="60.088">3 Stellen</tspan>
+                    </text>
+                    <text id="Projektleitung,-Enwi" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                        <tspan x="43.252" y="83">Projektleitung, Enwicklung, </tspan>
+                        <tspan x="77.446" y="97">Administration</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

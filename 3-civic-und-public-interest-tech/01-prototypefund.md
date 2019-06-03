@@ -54,10 +54,10 @@ effect:
   claim: Digitale Innovation in Deutschland wird befähigt, mehr digitale Tools und sichere Infrastruktur werden für die Gesellschaft geschaffen.
 resources:
   timespan:
-      img: http://placekitten.com/800/80
+      img: /assets/images/opengovernment/laufzeit/ptf.svg
       alt: Das beschreibt die Projektlaufzeit in Worten
   funding:
-      img: http://placekitten.com/800/260
+      img: /assets/images/opengovernment/finanzierung/ptf.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     * Projektverwaltung und Dokumentation

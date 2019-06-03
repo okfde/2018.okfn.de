@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="507px" height="625px" viewBox="0 0 507 625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressourcen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Demokratielabore" transform="translate(-607.000000, -883.000000)">
+            <g id="Group-2" transform="translate(607.000000, 883.000000)">
+                <g id="Group-12">
+                    <rect id="Rectangle-3" fill="#F1F1F1" x="1" y="0" width="239" height="127"></rect>
+                    <text id="510.542€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                        <tspan x="57.266" y="60.088">510.542€</tspan>
+                    </text>
+                    <text id="Personalkosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                        <tspan x="78.248" y="83">Personalkosten</tspan>
+                    </text>
+                    <g id="Group-5" transform="translate(252.000000, 0.000000)">
+                        <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                        <text id="127.331€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                            <tspan x="61.3293506" y="60.088">127.331€</tspan>
+                        </text>
+                        <text id="Honorare" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                            <tspan x="93.3797403" y="83">Honorare</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-6" transform="translate(1.000000, 139.000000)">
+                        <g id="Group-5">
+                            <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                            <text id="59.832€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                                <tspan x="58.9253506" y="59.088">59.832€</tspan>
+                            </text>
+                            <text id="Sachkosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                                <tspan x="84.0517403" y="83">Sachkosten</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-6" transform="translate(252.000000, 139.000000)">
+                        <g id="Group-5">
+                            <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                            <text id="54.283€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                                <tspan x="58.5053506" y="59.088">54.283€</tspan>
+                            </text>
+                            <text id="Reisekosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                                <tspan x="82.0837403" y="83">Reisekosten</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-6" transform="translate(0.000000, 277.000000)">
+                        <g id="Group-5">
+                            <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                            <text id="72.920€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                                <tspan x="59.6533506" y="59.088">72.920€</tspan>
+                            </text>
+                            <text id="Verwaltungskosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                                <tspan x="63.5977403" y="83">Verwaltungskosten</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <text id="Personal:-1-Projektl" font-family="ApercuPro, Apercu Pro" font-size="17" font-weight="normal" line-spacing="25" fill="#444F5A">
+                    <tspan x="0" y="456">Personal: 1 Projektleitung, 1 Modulleitung, 1 Projektkoordination, </tspan>
+                    <tspan x="0" y="481">7 Projekt- und Juniorprojektmanagement, 1 Tech Lead, 1 Design </tspan>
+                    <tspan x="0" y="506">Lead, 1 Modulmanagement, 2 Softwareentwickler*innen, 2 </tspan>
+                    <tspan x="0" y="531">studentische Mitarbeiter*innen, 1 </tspan>
+                    <tspan x="0" y="556">Bundesfreiwilligendienstleistender, 1 Supervision &amp; Intervision</tspan>
+                    <tspan x="0" y="593">Partner*innen 2018: mediale pfade e.V., youthpolicy lab, creative </tspan>
+                    <tspan x="0" y="618">gaming e.V., stuhlkreis_revolte</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -50,10 +50,10 @@ effect:
   claim: Regierungshandeln wird transparenter, Parlamentsarbeit wirksamer und besser nachvollziehbar, da mehr Menschen die Möglichkeit haben, sich über Teile dessen zu informieren
 resources:
   timespan:
-      img: http://placekitten.com/800/80
+      img: /assets/images/opengovernment/laufzeit/kleineanfragen.svg
       alt: Das beschreibt die Projektlaufzeit in Worten
   funding:
-      img: http://placekitten.com/800/260
+      img: /assets/images/opengovernment/finanzierung/kleineanfragen.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     * Stabile, menschenlesbare URLs für Anfragen & Antworten, sodass diese auch per Mail oder in Sozialen Medien geteilt werden können.

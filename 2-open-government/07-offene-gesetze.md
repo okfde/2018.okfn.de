@@ -5,7 +5,7 @@ title: Offene Gesetze
 website: https://offenegesetze.de/
 permalink: /open-government/offene-gesetze/
 visual:
-    img: /assets/images/opengovernment/offenegesetze.png
+    img: /assets/images/opengovernment/bgbl.png
     alt: Eine Beschreibung des Textes
 ---
 

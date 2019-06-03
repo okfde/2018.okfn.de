@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="127px" viewBox="0 0 490 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressourcen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Turing-Bus" transform="translate(-621.000000, -348.000000)">
+            <g id="Group-12" transform="translate(621.000000, 348.000000)">
+                <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                <text id="39.293€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="62.944" y="60.088">39.293€</tspan>
+                </text>
+                <text id="Personalkosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="77.248" y="83">Personalkosten</tspan>
+                </text>
+                <g id="Group-5" transform="translate(251.000000, 0.000000)">
+                    <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                    <text id="4.500€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                        <tspan x="69.2673506" y="60.088">4.500€</tspan>
+                    </text>
+                    <text id="Sachkosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                        <tspan x="88.0517403" y="83">Sachkosten</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -48,10 +48,10 @@ effect:
   claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
 resources:
   timespan:
-      img: http://placekitten.com/800/80
+      img: /assets/images/opengovernment/laufzeit/demokratielabore.svg
       alt: Das beschreibt die Projektlaufzeit in Worten
   funding:
-      img: http://placekitten.com/800/260
+      img: /assets/images/opengovernment/finanzierung/demokratielabore.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
 

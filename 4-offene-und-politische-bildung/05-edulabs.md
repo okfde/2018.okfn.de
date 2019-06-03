@@ -48,10 +48,10 @@ effect:
   claim: Bürger*innen wird durch die Vermittlung technischer Kompetenzen die Beteiligung an einer modernen Gesellschaft erleichtert.
 resources:
   timespan:
-      img: http://placekitten.com/800/80
-      alt: Das beschreibt die Projektlaufzeit in Worten
+      img: /assets/images/opengovernment/laufzeit/edulabs.svg
+      alt: Projektlaufzeit bis August 2018
   funding:
-      img: http://placekitten.com/800/260
+      img: /assets/images/opengovernment/finanzierung/edulabs.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     * Interviews mit Innovator\*innen im Bereich zeitgemäße Bildung und OER

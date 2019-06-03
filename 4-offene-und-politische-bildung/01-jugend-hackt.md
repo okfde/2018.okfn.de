@@ -41,10 +41,10 @@ effect:
 - claim: Programmierinteressierte Jugendliche vernetzen sich und sind motiviert, sich gesellschaftlich zu engagieren. Es entsteht mehr Beteiligung in Form von digitalem Ehrenamt sowie eine breitere Reflexion über ethische Fragen der Digitalisierung.
 resources:
   timespan:
-      img: http://placekitten.com/800/80
+      img: /assets/images/opengovernment/laufzeit/jugendhackt.svg
       alt: Das beschreibt die Projektlaufzeit in Worten
   funding:
-      img: http://placekitten.com/800/260
+      img: /assets/images/opengovernment/finanzierung/jugendhackt.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     * verschiedene Veranstaltungsformate für Jugendliche

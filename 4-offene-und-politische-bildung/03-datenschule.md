@@ -5,8 +5,8 @@ title: Datenschule
 website: https://datenschule.de
 permalink: /offene-und-politische-bildung/datenschule/
 visual:
-    img: http://placekitten.com/600/700
-    alt: Eine Beschreibung des Textes
+    img: /assets/images/bildung/datenschule.png
+    alt: Das Key Visual der Datenschule
 problem:
 - text: Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert - dies hindert soziale Innovation und die Wahrnehmung von Menschenrechten.
 causes:
@@ -40,10 +40,10 @@ effect:
   claim: Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten zu sozialen Anliegen  informierter geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen.
 resources:
   timespan:
-      img: http://placekitten.com/800/80
+      img: /assets/images/opengovernment/laufzeit/datenschule.svg
       alt: Das beschreibt die Projektlaufzeit in Worten
   funding:
-      img: http://placekitten.com/800/260
+      img: /assets/images/opengovernment/finanzierung/datenschule.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
 achievements: >
     Zusammenarbeit mit dem Projekt Demokratielabore, Thema: Außerschulische Jugendarbeit
@@ -58,17 +58,17 @@ achievements: >
 
 outputs: >
 
-    * *4 Workshops und 1 Data Expedition konzipiert, durchgeführt und dokumentiert*
+    * 4 Workshops und 1 Data Expedition konzipiert, durchgeführt und dokumentiert
 
-    * *2 Lernmaterialien und 4 Handreichungen erstellt und als OER publiziert*
+    * 2 Lernmaterialien und 4 Handreichungen erstellt und als OER publiziert
 
-    * *1 Datenspaziergang inkl. Web-App und Creator-Tool entwickelt, viermal in Berlin durchgeführt*
+    * 1 Datenspaziergang inkl. Web-App und Creator-Tool entwickelt, viermal in Berlin durchgeführt
 
-    * *5 Workshops mit Partner/innen und auf Konferenzen gehalten*
+    * 5 Workshops mit Partner/innen und auf Konferenzen gehalten
 
-    * *über 1.000 Follower auf Twitter*
+    * über 1.000 Follower auf Twitter
 
-    * *(ca. 5700 Besucherinnen auf Webseite, 145 (450 vor DSGVO) Newsletterabonnent/innen)*
+    * ca. 5700 Besucherinnen auf Webseite, 145 (450 vor DSGVO) Newsletterabonnent/innen
 
 outcome: >
   * Gemeinnützige Organisationen lernen, die Qualität von (ihren) Daten zu bewerten und zu verbessern. Sie nutzen digitale Methoden, Tools und Informationen zielgerichtet im Arbeitsalltag und beteiligen sich als Impulsgeber/innen an öffentlichen, gesellschaftspolitischen Debatten.

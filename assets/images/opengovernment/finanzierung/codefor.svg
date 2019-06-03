@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="127px" viewBox="0 0 490 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressourcen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Code-for" transform="translate(-621.000000, -348.000000)">
+            <g id="Group" transform="translate(621.000000, 348.000000)">
+                <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                <text id="0%" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="96.152" y="60.088">0%</tspan>
+                </text>
+                <text id="Finanzierung" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="84.46" y="83">Finanzierung</tspan>
+                </text>
+                <g id="Group-5" transform="translate(251.000000, 0.000000)">
+                    <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
+                    <text id="ca.-300" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                        <tspan x="68.2453506" y="60.088">ca. 300</tspan>
+                    </text>
+                    <text id="Ehrenamtliche-in-der" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                        <tspan x="61.7477403" y="83">Ehrenamtliche in der </tspan>
+                        <tspan x="87.9137403" y="97">Community </tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

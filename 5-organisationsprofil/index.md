@@ -3,6 +3,9 @@ layout: page
 chapter: 5
 title: Die Organisation
 permalink: /profil/
+visual:
+    img: /assets/images/einleitung/logo.png
+    alt: Logo der OKF
 ---
 
 ## Allgemeine Angaben

@@ -4,7 +4,7 @@ chapter: 4
 title: Offene und politische Bildung
 permalink: /offeneundpolitischebildung/
 visual:
-    img: /assets/images/opengovernment/offenesregierungshandeln.jpg
+    img: /assets/images/bildung/bildung-2.png
     alt: Illustration Offenes Regierungshandeln
 ---
 
@@ -33,5 +33,5 @@ Der Turing-Bus fuhr erstmals durch den in vielerlei Hinsicht vernachlässigten l
 
 Insgesamt haben wir in den Workshops und Veranstaltungen von Jugend hackt, De- mokratielabore, Turing-Bus und edulabs 2017 über 1.500 Kinder, Jugendliche, Eltern und Lehrkräfte in der Anwendung digitaler Tools für gesellschaftliche Fragestellungen geschult.	
 <br>
-	
+
 # Folgend werden die Projekte der OKF DE vorgestellt, die dem Bereich Offene und politische Bildung zuzuordnen sind.
