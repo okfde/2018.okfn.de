@@ -2,7 +2,7 @@
 layout: page
 chapter: 4.06
 title: DARIAH
-website: https://www.dariah.eu/
+website: https://de.dariah.eu/
 permalink: /offene-und-politische-bildung/dariah/
 visual:
     img: /assets/images/bildung/dariah.png
@@ -10,13 +10,23 @@ visual:
 ---
 
 
-* FPartner: Niedersächsische Staats- und Universitätsbibliothek Göttingen
-* Koordination: Markus Neuschäfer
-* Beginn: 1.3.2016
+
+DARIAH-DE unterstützt die mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kultur­­wissen­­schaftler­­Innen in Forschung und Lehre.
 
 
 
-# Hintergrund
+#  Hintergrund  
+
+DARIAH-DE (Digital Research Infrastructure for the Arts and Humanities) ist eine Initiative zur Schaffung einer digitalen Forschungsinfrastruktur für die Geistes- und Kulturwissenschaften. Zu diesem Zweck unterstützt DARIAH-DE die mit digitalen Methoden und Verfahren arbeitende Forschung in den Geistes- und Kulturwissenschaften mit einer Forschungsinfrastruktur aus vier Säulen:
+* Lehre
+* Forschung
+* Forschungsdaten
+* Technische Komponenten.
+
+Als Partner in DARIAH-EU trägt DARIAH-DE ferner dazu bei, europaweit state-of-the-art Aktivitäten der Digitalen Geisteswissenschaften zu bündeln und zu vernetzen.
+
+
+# Leistungen 2018
 
 * Weiterentwicklung der Disseminationsstrategie, Beratung und Unterstützung zur Öffentlichkeitsarbeit
 * Organisation, Betreuung des Begutachtungs- und Auswahlprozesse des jährlich verliehenen DH-Awards und der DH-Reisestipendien
@@ -32,13 +42,12 @@ visual:
 * Weiterentwicklung der Disseminationsstrategie
 * Beratung zum Website-Relaunch
 
-
-
 # Ausblick
 
 * Projektende 02/2019
 
+# Ressourcen
 
-### Website
-
-[https://www.dariah.eu](https://www.dariah.eu/)
+* Partner: Niedersächsische Staats- und Universitätsbibliothek Göttingen
+* Koordination: Markus Neuschäfer
+* Beginn: 1.3.2016

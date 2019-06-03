@@ -18,7 +18,7 @@ causes:
   text: Hackspaces, Fablabs und Offene Werkstätten existieren, sind aber oft nicht bekannt (genug).
 - title: führen dazu, dass
   claim: >
-    * der ländliche Raum an einem Mangel an Aktionsräumen leidet
+    der ländliche Raum an einem Mangel an Aktionsräumen leidet
 
 
 solution:
@@ -36,7 +36,7 @@ effect:
     Aus Konsumenten werden Aktivisten
 
 
-    nehmen am gesellschaftlichen Diskurs teil
+    SuS nehmen am gesellschaftlichen Diskurs teil
 - title: Auf Akteure und Initiativen im ländlichen Raum
   text: >
     Angebote werden besser wahrgenommen

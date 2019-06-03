@@ -9,6 +9,7 @@ visual:
     alt: Zwei Bilder von der Veranstaltung der Familielabore
 ---
 
+Familienlabore sind Veranstaltungen auf denen digitale Werkzeuge für gutes Zusammenleben nutzbar gemacht werden.
 
 # Hintergrund
 
@@ -26,6 +27,11 @@ Das FamilienLabor entwickelte und führte damit ein Format weiter, welches Famil
 
 Eine große Herausforderung der Familienlabore besteht darin ein Format zu entwickeln, welches eine Konzentration und längere Auseinandersetzung mit einem Thema, Schwerpunkt, Ansatz ermöglicht und ermutigt, dass Teilnehmende zu handelnden werden und die Angebote nicht nur konsumieren. Gleichzeitig muss es offen und flexibel sein, damit die altersgemischte Zielgruppe mit ihren verschiedenen Bedürfnissen diesen situativ nachgehen kann. In insgesamt 3 vollständigen Durchführungen dieser Frage nachzugehen ermöglichte uns den Spielraum verschiedene Ansätze auzuprobieren.
 
+# Ausblick
+
+* Für 2019 sind bisher keine weiteren Veranstaltungen geplant.
+
+
 # Ressourcen
 
 * Laufzeit: bis März 2018
@@ -33,13 +39,3 @@ Eine große Herausforderung der Familienlabore besteht darin ein Format zu entwi
 * Partner: OKLab Potsam & Ulm
 * Projektleitung: Sarina Balkenhausen
 * Projektart: Event und OER Formatentwicklung
-
-
-
-# Ausblick
-
-* Für 2019 sind bisher keine weiteren Veranstaltungen geplant.
-
-
-### Website
-[https://familienlabore.de](https://familienlabore.de/)
