@@ -17,7 +17,7 @@ causes:
 - title: der oft noch fehlende Blick für die gesellschaftlichen Chancen der Digitalisierung führen dazu, dass
   claim: >
 
-Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
+    Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
 
 solution:
 - title: Jugend-Hackathons
