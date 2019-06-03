@@ -8,15 +8,15 @@ visual:
     img: /assets/images/bildung/jugendhackt.png
     alt: Eine Beschreibung des Textes
 problem:
-- text: Jugendliche mit besonders hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten
+- text: *Jugendliche mit hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten.
 causes:
 - title: Eine allgemeine gesellschaftliche Technik-Skepsis, mangelnde Anerkennung für die Programmierbegeisterung bei Jugendlichen,
   text:
-- title: fehlende offene Lernräume vor Ort und
+- title: fehlende offene Lernräume mit passenden Angeboten in ihrer Nähe, sowie
   text:
 - title: der oft noch fehlende Blick für die gesellschaftlichen Chancen der Digitalisierung führen dazu, dass
   claim: >
-      * Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
+      Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
 
 solution:
 - title: Jugend-Hackathons
@@ -126,18 +126,18 @@ outlook:  >
 
       * Weiterentwicklung der pädagogischen Schulung für Mentor*innen
 
-      * Nachhaltigerenund regelmäßigeren Austausch der Zielgruppe fördern
+      * Nachhaltigeren und regelmäßigeren Austausch der Zielgruppe fördern
 
 ---
 
 
 # Mit Code die Welt verbessern
 
-Jugendliche mit besonders hohem Technik-/IT-Interesse finden in ihrem Alltag oft wenige Anschlussmöglichkeiten und Technik-/IT-Kompetenz wird nicht als Chance für persönliche und gesellschaftliche Veränderungen zum Besseren wahrgenommen. Bei vielen Eltern/Pädagogi*innen herrscht nach wie vor eine große Skepsis gegenüber der Nutzung digitaler Tools durch Kinder/Jugendliche. Generell werden in der gesellschaftliche Wahrnehmung eher die Risiken der Digitalisierung diskutiert, statt zu diskutieren, wie die Möglichkeiten positiv für die Gesellschaft genutzt werden können. IT-begeisterte Jugendliche kennen außerdem oft wenige Gleichgesinnte und müssen sich gegenüber Erwachsenen dafür rechtfertigen, dass sie viel Zeit vor dem PC verbringen.
+Jugendliche mit hohem Technik-/IT-Interesse finden in ihrem Alltag oft wenige Anschlussmöglichkeiten und Technik-/IT-Kompetenz wird nicht als Chance für persönliche und gesellschaftliche Veränderungen zum Besseren wahrgenommen. Bei vielen Eltern/Pädagogi*innen herrscht nach wie vor eine große Skepsis gegenüber der Nutzung digitaler Tools durch Kinder/Jugendliche. Generell werden in der gesellschaftliche Wahrnehmung eher die Risiken der Digitalisierung diskutiert, statt zu diskutieren, wie die Möglichkeiten positiv für die Gesellschaft genutzt werden können. IT-begeisterte Jugendliche kennen außerdem oft wenige Gleichgesinnte und müssen sich gegenüber Erwachsenen dafür rechtfertigen, dass sie viel Zeit vor dem PC verbringen.
 
-Jugend hackt begegnet dem Problem mit Jugend-Hackathons und Workshops für Programmier-Einsteiger*innen. Was Jugend hackt dabei vor anderen Angeboten, auszeichnet ist der gesellschaftspolitische Anspruch. unter dem Motto “mit Code die Welt verbessern” ist neben dem Programmieren die Entwicklung einer ethische Haltung und Mündigkeit der Jugendlichen gleichwertiger Bestandteil des Programms.
+Jugend hackt begegnet dem Problem mit Jugend-Hackathons und Workshops für Programmier-Einsteiger*innen. Was Jugend hackt dabei vor anderen Angeboten, auszeichnet ist der gesellschaftspolitische Anspruch. Unter dem Motto “Mit Code die Welt verbessern” ist neben dem Programmieren die Entwicklung einer ethische Haltung und Mündigkeit der Jugendlichen gleichwertiger Bestandteil des Programms.
 
-Die Jugendlichen lernen, wie sie Teamwork und Peer-to-Peer-Austausch nutzen können, um Herausforderungen gemeinsam zu lösen
+Die Jugendlichen lernen, wie sie Teamwork und Peer-to-Peer-Austausch nutzen können, um Herausforderungen gemeinsam zu lösen,
 vertiefen die Fähigkeit, gesellschaftliche Herausforderungen zu benennen und entwickeln mit Hilfe ihrer technischen/digitalen Kompetenz Lösungsideen für gesellschaftliche Herausforderungen.
 
 **Vernetzung & Gesellschaftliche Beteiligung:** Junge Menschen arbeiten in Teams und lösen Probleme gemeinsam. Sie erleben sich als Teil einer Gruppe und erkennen, dass sie über Fähigkeiten und Kenntnisse verfügen, durch die sie Dinge aktiv mitgestalten können. Das Denken verändert sich weg von “da kann man ja sowieso nichts machen” hin zu “so wünsche ich mir die Welt und Folgendes will ich dafür tun”. Das wirkt in die Gesellschaft hinein, dem Gefühl der Alternativlosigkeit entgegen und trägt zu einer demokratischen, aktiven Gesellschaft bei.
