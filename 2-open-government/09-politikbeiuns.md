@@ -9,7 +9,7 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
-"Politik bei uns" macht Entscheidungen in Stadt- und Landräten transparent. 
+„Politik bei uns“ macht Entscheidungen in Stadt- und Landräten transparent. 
 
 # Hintergrund
 
@@ -31,3 +31,8 @@ Mit den Daten im OParl-Format kann man jetzt ganz neue Darstellungen bauen. Dabe
 * Finanzierung: Ehrenamtlich mit zwischenzeitlichen Förderungen
 * Projektleitung: Ernesto Ruge 
 * Beginn: 2013 
+
+
+# Website
+
+[https://politik-bei-uns.de/](https://politik-bei-uns.de/)

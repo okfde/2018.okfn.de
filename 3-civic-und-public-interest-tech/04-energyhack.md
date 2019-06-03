@@ -32,3 +32,8 @@ Im Rahmen von WindNode wollen wir noch mindestens ein weiteres Community-Event r
 * Finanzierung: 30.000 €
 * Partner: stromnetz Berlin & WindNODE
 * Projektleitung: Walter Palmetshofer
+
+
+# Website
+
+[https://energyhack.de/](https://energyhack.de/)

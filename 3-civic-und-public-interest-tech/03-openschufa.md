@@ -35,3 +35,8 @@ Für 2019 stehen Policymeetings sowie ein Treffen mit Staatssekretär zum weiter
 * Finanzierung: Crowdfunding
 * Beteiligte: Walter Palmetshofer, Arne Semsrott und Partner Algorithmwatch
 * Beginn: Februar 2018
+
+
+# Website
+
+[https://openschufa.de/](https://openschufa.de/)

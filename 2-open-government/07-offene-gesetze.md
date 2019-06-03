@@ -44,3 +44,8 @@ Zentrale Dokumente der Demokratie müssen offen für alle bereitstehen. Das Urhe
 * Beteiligte: Stefan Wehrmeyer, Johannes Filter, Arne Semsrott
 * Projektstart: August 2018, Launch Dezember 2018
 * Freiwilligenstunden: 200+
+
+
+# Website
+
+[https://offenegesetze.de/](https://offenegesetze.de/)

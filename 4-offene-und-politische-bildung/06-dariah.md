@@ -51,3 +51,7 @@ Als Partner in DARIAH-EU trägt DARIAH-DE ferner dazu bei, europaweit state-of-t
 * Partner: Niedersächsische Staats- und Universitätsbibliothek Göttingen
 * Koordination: Markus Neuschäfer
 * Beginn: 1.3.2016
+
+# Website
+
+[https://de.dariah.eu/](https://de.dariah.eu/)

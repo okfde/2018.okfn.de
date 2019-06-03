@@ -31,3 +31,8 @@ Der erste Aktionsplan für Open Government beschränkte sich nur auf den Bund. Z
 * Partner: [Liste der Netzwerk Mitglieder](https://opengovpartnership.de/open-gov-netzwerk/)
 * Projektleiter: Michael Peters
 * Policy Unterstützung: Arne Semsrott, Walter Palmetshofer
+
+
+# Website
+
+[https://opengovpartnership.de/](https://opengovpartnership.de/)
