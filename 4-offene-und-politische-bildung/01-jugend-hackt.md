@@ -8,7 +8,7 @@ visual:
     img: /assets/images/bildung/jugendhackt.png
     alt: Eine Beschreibung des Textes
 problem:
-- text: *Jugendliche mit hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten.
+- text: \*Jugendliche mit hohem Technik-/IT-Interesse finden im Alltag wenige Anschlussmöglichkeiten.
 causes:
 - title: Eine allgemeine gesellschaftliche Technik-Skepsis, mangelnde Anerkennung für die Programmierbegeisterung bei Jugendlichen,
   text:
