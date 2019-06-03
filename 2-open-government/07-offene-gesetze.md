@@ -40,5 +40,5 @@ Um uns rechtlich abzusichern, haben wir ein Rechtsgutachten zum Thema Urheberrec
 # Ressourcen
 * Ehrenamtlich
 * Beteiligte: Stefan Wehrmeyer, Johannes Filter, Arne Semsrott
-* Projektstart:  August 2018, Launch Dezember 2018
+* Projektstart: August 2018, Launch Dezember 2018
 * Freiwilligenstunden: 200+

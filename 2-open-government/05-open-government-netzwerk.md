@@ -10,12 +10,6 @@ visual:
 
 ---
 
-* OKF Budget: 0,00 € Laufzeit: Januar 2018 - Dezember 2018 / Querfinanzierung durch Gemeinkosten
-* Partner: [Liste der Netzwerk Mitglieder](https://opengovpartnership.de/open-gov-netzwerk/)
-* Projektleiter: Michael Peters
-* Policy Unterstützung: Arne Semsrott, Walter Palmetshofer
-
-
 # Hintergrund
 
 Das Open Government Netzwerk wurde 2011 mit dem Ziel der aktiven Mitwirkung Deutschlands in der Open Government Partnership (OGP) gegründet. Seit Dezember 2016 nimmt Deutschland an der OGP teil und wird von der durch die Open Knowledge Foundation geschaffenen Koordinierungsstelle geleitet. Das Netzwerk setzt sich für offenes, transparentes, partizipatives und kooperatives Regierungs- und Verwaltungshandeln in Deutschland ein und nutzt dafür den OGP-Prozess um zivilgesellschaftliche Interessen zu verbreiten.
@@ -29,3 +23,10 @@ Nachdem 2017 der erste nationale Aktionsplan verabschiedet wurde, hat das Netzwe
 # Ausblick
 
 Der erste Aktionsplan für Open Government beschränkte sich nur auf den Bund. Ziel des Netzwerks ist es Open Government auch in den Ländern und den Kommunen zu verankern. Dabei möchte das Netzwerk seine Mitgliederstrukturen auf regionaler Ebene weiter ausbauen um auch lokal Veranstaltungen durchzuführen. Gemeinsames Lobbying auf nationaler Ebene für Open Government ist weiterhin ein zentraler Fokus, damit im zweiten Aktionsplan noch ambitionierte Reformen umgesetzt werden.
+
+# Ressourcen
+
+* OKF Budget: 0,00 € Laufzeit: Januar 2018 - Dezember 2018 / Querfinanzierung durch Gemeinkosten
+* Partner: [Liste der Netzwerk Mitglieder](https://opengovpartnership.de/open-gov-netzwerk/)
+* Projektleiter: Michael Peters
+* Policy Unterstützung: Arne Semsrott, Walter Palmetshofer
