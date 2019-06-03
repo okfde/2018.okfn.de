@@ -10,10 +10,11 @@ visual:
 
 ---
 
+Das Open Government Netzwerk koordiniert Deutschlands Beitritt zur Open Government Partnership. 
+
 # Hintergrund
 
 Das Open Government Netzwerk wurde 2011 mit dem Ziel der aktiven Mitwirkung Deutschlands in der Open Government Partnership (OGP) gegründet. Seit Dezember 2016 nimmt Deutschland an der OGP teil und wird von der durch die Open Knowledge Foundation geschaffenen Koordinierungsstelle geleitet. Das Netzwerk setzt sich für offenes, transparentes, partizipatives und kooperatives Regierungs- und Verwaltungshandeln in Deutschland ein und nutzt dafür den OGP-Prozess um zivilgesellschaftliche Interessen zu verbreiten.
-
 
 # Highlights
 

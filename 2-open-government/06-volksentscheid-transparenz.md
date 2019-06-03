@@ -9,6 +9,8 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
+Mit der Kampagne 'Volksentscheid Transparenz' soll ein Gesetz für Berlin durchgesetzt werden, das Verwaltungen proaktiv zu Transparenz verpflichtet.
+
 # Hintergrund 
 
 Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wird bislang jedoch nicht erarbeitet. Das möchten wir ändern. Wir haben gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben. Im Rahmen eines Volksentscheids setzen wir bis 2021 den Gesetzentwurf für ganz Berlin durch.

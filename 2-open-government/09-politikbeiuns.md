@@ -9,6 +9,10 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
+"Politik bei uns" macht Entscheidungen in Stadt- und Landräten transparent. 
+
+# Hintergrund
+
 Das offene Ratsinformationssystem „Politik Bei Uns“ stellt Informationen und Vorgänge aus Rat und Verwaltung nutzerfreundlich dar, damit Bürgerinnen und Bürger politische Entscheidungen nachvollziehen können und frühzeitig mitbestimmen können. Unser Projekt stellt als eine Art Datenmarktplatz Rats- und Verwaltungsdaten Drittentwicklern zur Verfügung, so dass sie ohne großen Aufwand weitere Applikationen bauen können. Neben der Politik, der Zivilgesellschaft und den Journalisten profitiert auch die Wissenschaft von strukturierten und somit analysierbaren Daten.
 
 Wer Politik mitgestalten möchte, muss gut informiert ist. All die Informationen über politische Entscheidungen in einer Kommune liegen in sogenannten Ratsinformationssystemen (oder kurz: RIS) und ein ganz großer Teil dieser Daten ist seit jeher öffentlich. Das Problem ist nur, dass die Ratsinformationssysteme Arbeitswerkzeuge für die Ratsmitglieder und die Verwaltung sind. Der öffentliche Teil für Bürgerinnen und Bürger ist damit nicht der Fokus. Genau das möchten wir ändern.
@@ -17,10 +21,6 @@ Die Menschen in einer Stadt denken nicht in Gremien und Antragstypen, sondern in
 
 Mit den Daten im OParl-Format kann man jetzt ganz neue Darstellungen bauen. Dabei helfen moderne Webtechnologien wie Suchserver und das Verschneiden der Daten mit Geodaten von OpenStreetMap.
 
-# Hintergrund
-
-* Um Politik mitgestalten zu können, hilft es sehr, wenn man gut informiert ist. All die Informationen über politische Entscheidungen in einer Kommune liegen in sogenannten Ratsinformationssystemen (oder kurz: RIS) und ein ganz großer Teil dieser Daten ist seit jeher öffentlich. 
-* Das Problem ist allerdings, dass die Ratsinformationssysteme Arbeitswerkzeuge für die Ratsmitglieder und die Verwaltung sind. Der öffentliche Teil für Bürgerinnen und Bürger ist damit nicht der Fokus. Genau das möchten wir ändern.
 
 # Highlights
 

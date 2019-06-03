@@ -9,6 +9,9 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
+
+Die Europäische Union stellt jährlich rund 59 Milliarden Euro für Agrarsubventionen zur Verfügung. Auf farmsubsidy.org erfährt man, wer das Geld erhält.
+
 # Hintergrund
 
 FarmSubsidy erleichtert den Zugang zu Informationen darüber, wie die EU ihre Subventionen im Rahmen der Agrarpolitik ausgibt. Ziel ist es, detaillierte Daten über Zahlungen und Empfänger von Agrarsubventionen in jedem EU-Mitgliedstaat zu erhalten und diese Daten in einer für die europäischen Bürger nützlichen Weise zur Verfügung zu stellen.

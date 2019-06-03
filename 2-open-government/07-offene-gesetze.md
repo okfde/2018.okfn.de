@@ -9,6 +9,9 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
+
+OffeneGesetze.de stellt das Bundesgesetzblatt in digitaler Form kostenfrei zur Verfügung.
+
 # Hintergrund
 
 Im Bundesgesetzblatt (BGBl.) werden alle Gesetze der Bundesrepublik Deutschland veröffentlicht. Gesetze treten erst in Kraft, wenn sie dort erscheinen. Herausgeber ist der Bundesanzeiger Verlag, der 2006 privatisiert wurde. Er gehört zur Dumont-Verlagsgruppe. Der Verlag erhebt Urheberrecht auf die Datenbank der Gesetzblätter. Diese sind zwar online einzeln einsehbar, aber können nicht gedruckt, durchsucht oder kopiert werden. Der Bundesanzeiger Verlag verbietet die Weiterverwendung. Wer die Gesetzblätter des Staates nutzen will, muss dem privaten Verlag Abo-Gebühren zahlen. 
