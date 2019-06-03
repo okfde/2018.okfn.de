@@ -9,12 +9,14 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
+# Hintergrund 
+
 Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wird bislang jedoch nicht erarbeitet. Das möchten wir ändern. Wir haben gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben. Im Rahmen eines Volksentscheids setzen wir bis 2021 den Gesetzentwurf für ganz Berlin durch.
 
 Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, geheime Verträge mit Unternehmen, Gutachten z.B. zur Wasserqualität oder Entwicklung von Grundstückspreisen sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss nach unserem Gesetz diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen.
 
 
-# Hintergrund
+# Leistungen 2018
 
 * Basierend auf dem Fachgespräch Transparenzgesetz vom 16. Juni 2017 haben wir unseren eigenen Gesetzentwurf weiterentwickelt und ausformuliert. Dabei gab es für alle Menschen die Möglichkeit, den Entwurf online zu kommentieren.
 * Wir führten außerdem mehrere Gespräche mit Vertreter\*innen aus Politik, Verwaltung und Zivilgesellschaft, um den Gesetzentwurf zu verbreiten und stetig zu verbessern.
