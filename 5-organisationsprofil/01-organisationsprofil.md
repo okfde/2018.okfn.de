@@ -14,9 +14,9 @@ visual:
 
 <table width="500">
   <tr>
-    <td><b>Jahr</b></td>
-    <td><b>Mitarbeiter</b></td>
-    <td><b>davon hauptamtlich</b></td>
+    <th>Jahr</th>
+    <th>Mitarbeiter</th>
+    <th>davon hauptamtlich</th>
   </tr>
   <tr>
     <td>2011</td>
