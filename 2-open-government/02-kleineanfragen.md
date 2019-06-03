@@ -14,7 +14,7 @@ cause:
 - title: unbenutzbare Werkzeuge und
   text: Suchfunktionalitäten der Parlamentsdokumentationssysteme erfassen nicht den vollständigen Text und teilweise ist keine Verlinkung auf Anfragen in diesen Systemen möglich
 - title: wenig Berichterstattung
-  text: Anfragen werden von sich aus von Journalist*innen nicht gefunden, manchmal werden sie vorab von Abgeordneten direkt an befreundete Journalist*innen weitergegeben oder darauf hingewiesen
+  text: Anfragen werden von sich aus von Journalist\*innen nicht gefunden, manchmal werden sie vorab von Abgeordneten direkt an befreundete Journalist\*innen weitergegeben oder darauf hingewiesen
 - title: führen dazu, dass
   claim: Sich interessante und wertvolle Informationen in den Antworten finden, diese jedoch von wenigen Menschen außerhalb des Parlaments gelesen werden.
 
@@ -81,7 +81,7 @@ impact: >
 
 
 evaluation:  >
-    * Die ursprüngliche Zielgruppe (Journalisten) hat sich mehr in Richtung interessierte Bürger*innen und interessanterweise Verwaltungsmitarbeiter*innen bewegt.
+    * Die ursprüngliche Zielgruppe (Journalisten) hat sich mehr in Richtung interessierte Bürger\*innen und interessanterweise Verwaltungsmitarbeiter\*innen bewegt.
 
     * Parlamente updaten/tauschen Dokumentationssoftware, Import von Anfragen & Antworten ohne Anpassung nicht mehr möglich - zeitliche Ressourcen nicht ausreichend, sodass längere Zeit keine neuen Dokumente mehr erscheinen
 
