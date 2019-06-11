@@ -52,13 +52,27 @@ effect:
     Mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige, informierte Gesellschaft
 - title: Gesellschaftliche Wirkung
   claim: Digitale Innovation in Deutschland wird befähigt, mehr digitale Tools und sichere Infrastruktur werden für die Gesellschaft geschaffen.
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/ptf.svg
-      alt: Das beschreibt die Projektlaufzeit in Worten
-  funding:
-      img: /assets/images/opengovernment/finanzierung/ptf.svg
-      alt: Das beschreibt die Finanzierungssituation in Worten
+resources: >
+
+  **Laufzeit** <br>
+
+  Das Projekt begann im Mai 2016 ​und läuft voraussichtlich bis ​April 2021. Es handelt sich damit für 2018 um eine ganzjährige Laufzeit.<br><br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/ptf.svg "Laufzeit PTF")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt ist zu 100% vom Bundesministerium für Bildung und Forschung finanziert. Das Budget beträgt 2.342.285€.
+  <br><br>
+
+  ![Klagekosten: 28.896,54 €, Materialkosten 761,30 €](/assets/images/finanzierung/ptf.svg "Laufzeit FDS")<br><br>
+
+
+  **Stellen** <br>
+
+  Projektleitung: ​Elisa Lindinger, Julia Kloiber | Kommunikation: Jessica Binsch, Katharina Meyer Projekt-Management: Adriana Groh, Fiona Krakenbürger, Michael Peters | Controlling: Nadine Evers | technische Administration: Gregor Gilka
+
+
 achievements: >
     * Projektverwaltung und Dokumentation
 

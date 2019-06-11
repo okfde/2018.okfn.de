@@ -15,7 +15,7 @@ DARIAH-DE unterstützt die mit digitalen Ressourcen und Methoden arbeitenden Gei
 
 
 
-#  Hintergrund  
+### Hintergrund  
 
 DARIAH-DE (Digital Research Infrastructure for the Arts and Humanities) ist eine Initiative zur Schaffung einer digitalen Forschungsinfrastruktur für die Geistes- und Kulturwissenschaften. Zu diesem Zweck unterstützt DARIAH-DE die mit digitalen Methoden und Verfahren arbeitende Forschung in den Geistes- und Kulturwissenschaften mit einer Forschungsinfrastruktur aus vier Säulen:
 * Lehre
@@ -26,7 +26,7 @@ DARIAH-DE (Digital Research Infrastructure for the Arts and Humanities) ist eine
 Als Partner in DARIAH-EU trägt DARIAH-DE ferner dazu bei, europaweit state-of-the-art Aktivitäten der Digitalen Geisteswissenschaften zu bündeln und zu vernetzen.
 
 
-# Leistungen 2018
+### Leistungen 2018
 
 * Weiterentwicklung der Disseminationsstrategie, Beratung und Unterstützung zur Öffentlichkeitsarbeit
 * Organisation, Betreuung des Begutachtungs- und Auswahlprozesse des jährlich verliehenen DH-Awards und der DH-Reisestipendien
@@ -36,22 +36,22 @@ Als Partner in DARIAH-EU trägt DARIAH-DE ferner dazu bei, europaweit state-of-t
 
 
 
-# Highlights
+### Highlights
 
 * Gestaltung des DARIAH DH-Awards 2018
 * Weiterentwicklung der Disseminationsstrategie
 * Beratung zum Website-Relaunch
 
-# Ausblick
+### Ausblick
 
 * Projektende 02/2019
 
-# Ressourcen
+### Ressourcen
 
 * Partner: Niedersächsische Staats- und Universitätsbibliothek Göttingen
 * Koordination: Markus Neuschäfer
 * Beginn: 1.3.2016
 
-# Website
+### Website
 
 [https://de.dariah.eu/](https://de.dariah.eu/)

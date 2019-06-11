@@ -16,7 +16,7 @@ Ehrenamtliche Entwickler\*innen, Designer\*innen und Daten-Enthusiast\*innen nut
 
 Im Sinne des [Open-Source-Ansatzes](https://en.wikipedia.org/wiki/Open-source_software) werden diese Tools nicht nur von der Zivilgesellschaft gebaut, sondern auch der Öffentlichkeit frei zur Verfügung gestellt. Andere können sie nachnutzen und entsprechend ihren spezifischen Bedürfnissen weiterentwickeln, ohne dass dabei Auflagen oder Einschränkungen von Regierungen oder Unternehmen berücksichtigt werden müssen.
 
-Public Interest Tech ist ein Konzept, das auf ähnlichen Prinzipien basiert: Technisch versierte Akteur*innen setzen ihr Können und ihre Kompetenzen im Sinne des Gemeinwohls ein und nehmen aktiv, d.h. systemisch, interdisziplinär und vor allem "bottom up" an Innovationsprozessen teil, um hieraus entstehende Technologien in den Dienst der Gesellschaft zu stellen.
+Public Interest Tech ist ein Konzept, das auf ähnlichen Prinzipien basiert: Technisch versierte Akteur*innen setzen ihr Können und ihre Kompetenzen im Sinne des Gemeinwohls ein und nehmen aktiv, d.h. systemisch, interdisziplinär und vor allem „bottom up“ an Innovationsprozessen teil, um hieraus entstehende Technologien in den Dienst der Gesellschaft zu stellen.
 
 Hinzu kommen die Einrichtung und Pflege von technischer Infrastruktur.
 

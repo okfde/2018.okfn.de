@@ -55,17 +55,31 @@ effect:
     Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürgerfreundlicher zu gestalten
 - title: Gesellschaftliche Wirkung
   claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/fds.svg
-      alt: ganzjährige Projektlaufzeit
-  funding:
-      img: /assets/images/opengovernment/finanzierung/fds.svg
-      alt: ganzjährige Projektlaufzeit
 
-achievements: >
-    Finanzierungsgrad: 100% finanziert durch Einzelspenden, Querfinanzierung
- 
+resources: >
+
+  **Laufzeit** <br>
+
+  ganzjährige Projektlaufzeit <br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/fds.svg "Laufzeit FDS")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt ist zu 100% finanziert.
+  Die Finanzierung erfolgt durch Einzelspenden, Förderungen und Querfinanzierung.<br><br>
+
+  ![Klagekosten: 28.896,54 €, Materialkosten 761,30 €](/assets/images/finanzierung/fds.svg "Laufzeit FDS")<br><br>
+
+
+  **Stellen** <br>
+
+  Projektleitung (75%) |  Entwickler (100%)<br><br>
+
+
+
+
+achievements: > 
 
     * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
 
@@ -86,7 +100,7 @@ outputs: >
 
 
 outcome: >
-    * Durch “Gläserne Gesetze” stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus.
+    * Durch „Gläserne Gesetze“ stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus.
 
     * Gewonnene Klagen haben zu Grundsatzurteilen geführt.
 

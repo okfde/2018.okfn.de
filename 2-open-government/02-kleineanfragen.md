@@ -55,6 +55,22 @@ resources:
   funding:
       img: /assets/images/opengovernment/finanzierung/kleineanfragen.svg
       alt: Das beschreibt die Finanzierungssituation in Worten
+
+resources: >
+  <br>**Laufzeit** <br>
+
+  ganzjährige Projektlaufzeit <br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/kleineanfragen.svg "Laufzeit kleineAnfragen")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt wird ehrenamtlich von Maximilian Richt realisiert. Es fallen ausschließlich Kosten für Server und Speicherplatz an. <br><br>
+
+  ![0% Finanzierung, 100h ehrenamtliche Arbeit](/assets/images/finanzierung/kleineanfragen.svg "Laufzeit kleineAnfragen")<br><br>
+
+
+
 achievements: >
     * Stabile, menschenlesbare URLs für Anfragen & Antworten, sodass diese auch per Mail oder in Sozialen Medien geteilt werden können.
 

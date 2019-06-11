@@ -3,6 +3,9 @@ layout: page
 chapter: 1
 title: Einleitung 
 permalink: /einleitung/
+visual:
+    img: /assets/images/einleitung/einleitung.png
+    alt: Illustration zum Kapitel
 ---
 
 Die Open Knowledge Foundation Deutschland (nachfolgend OKF DE) entwickelt Projekte, die Meilensteine sind für offenes Regierungs- und Verwaltungshandeln, Informationsfreiheit, Finanztransparenz, gesellschaftliche Teilhabe und der Förderung eines selbstbestimmten Umgangs mit digitaler Technologie, Medien, Informationen und Daten in Deutschland.  Unsere Projekte tragen das Anliegen einer offenen und gerechten Gesellschaft in neue gesellschaftliche Bereiche und sprechen Menschen an, sich aktiv zu beteiligen um unser demokratisches Gemeinwesen offener, transparenter, gerechter zu gestalten.

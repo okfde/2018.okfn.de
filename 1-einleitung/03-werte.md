@@ -3,6 +3,9 @@ layout: page
 chapter: 1.3
 title: Unsere Werte und Überzeugungen
 permalink: /einleitung/werte/
+visual:
+    img: /assets/images/einleitung/werte.png
+    alt: Illustration zum Kapitel
 ---
 
 Die Open Knowledge Foundation Deutschland (OKF DE) wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen für eine offene und gerechte Gesellschaft gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen:

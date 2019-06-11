@@ -11,7 +11,7 @@ visual:
 
 Familienlabore sind Veranstaltungen auf denen digitale Werkzeuge für gutes Zusammenleben nutzbar gemacht werden.
 
-# Hintergrund
+### Hintergrund
 
 Im Mittelpunkt der Familienlabore stehen der Austausch von Alltagserfahrungen innerhalb und außerhalb der teilnehmenden Familien. Diskutiert und reflektiert werden neben allgemeinen Problemstellungen und Herausforderungen des Familienalltags, die Auswirkungen von Digitalisierung und Medienkonsum auf das Zusammenleben.  Mit Hilfe von digitalen Werkzeugen werden in intergenerationaler Zusammenarbeit Handlungsmöglichkeiten, Ideen und Lösungsvorschläge entwickelt. Das gemeinsame Entdecken und Ausprobieren von digitalen Tools schafft Erlebnisse und Erfahrungen mit technischer Auseinandersetzung in der Familie. Ziel ist es Perspektiven von Familien in Diskursen um gesellschaftliche Entwicklungen in der Digitalisierung zu stärken.
 
@@ -23,16 +23,16 @@ Viele Ergebnisse entstanden innerhalb der Workshopstationen zu Online-Comics ges
 Das FamilienLabor entwickelte und führte damit ein Format weiter, welches Familie und intergenerationaler Gruppen zusammenbringt und Wege aufzeigt, wie sie Technologie nicht nur nutzen, sondern für sich sinnvoll gestalten können.
 
 
-# Highlights
+### Highlights
 
 Eine große Herausforderung der Familienlabore besteht darin ein Format zu entwickeln, welches eine Konzentration und längere Auseinandersetzung mit einem Thema, Schwerpunkt, Ansatz ermöglicht und ermutigt, dass Teilnehmende zu handelnden werden und die Angebote nicht nur konsumieren. Gleichzeitig muss es offen und flexibel sein, damit die altersgemischte Zielgruppe mit ihren verschiedenen Bedürfnissen diesen situativ nachgehen kann. In insgesamt 3 vollständigen Durchführungen dieser Frage nachzugehen ermöglichte uns den Spielraum verschiedene Ansätze auzuprobieren.
 
-# Ausblick
+### Ausblick
 
 * Für 2019 sind bisher keine weiteren Veranstaltungen geplant.
 
 
-# Ressourcen
+### Ressourcen
 
 * Laufzeit: bis März 2018
 * Finanzierung: 43,779.99 € durch Bundesministerium für Familie, Soziales, Frauen und Jugend 
@@ -40,6 +40,6 @@ Eine große Herausforderung der Familienlabore besteht darin ein Format zu entwi
 * Projektleitung: Sarina Balkenhausen
 * Projektart: Event und OER Formatentwicklung
 
-# Website
+### Website
 
 [https://familienlabore.de/](https://familienlabore.de/)

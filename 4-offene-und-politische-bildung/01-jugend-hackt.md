@@ -40,13 +40,29 @@ effect:
 
     erleben (politische) Selbstwirksamkeit
 - claim: Programmierinteressierte Jugendliche vernetzen sich und sind motiviert, sich gesellschaftlich zu engagieren. Es entsteht mehr Beteiligung in Form von digitalem Ehrenamt sowie eine breitere Reflexion über ethische Fragen der Digitalisierung.
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/jugendhackt.svg
-      alt: Das beschreibt die Projektlaufzeit in Worten
-  funding:
-      img: /assets/images/opengovernment/finanzierung/jugendhackt.svg
-      alt: Das beschreibt die Finanzierungssituation in Worten
+resources: >
+
+  **Laufzeit** <br>
+
+  ganzjährige Laufzeit<br><br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/ptf.svg "Laufzeit Jugend hackt")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt ist zu 100% finanziert und wird unter anderem durch die SKala-Initiative, das Auswärtiges Amt, Google, Adesso und viele weitere gefördert. 
+  <br><br>
+
+  ![100% Finanzierung, 149.894,26€ Sachekosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/jugendhackt.svg "Finanzierung Jugend hackt")<br><br>
+
+
+  **Personal** <br>
+
+  2 Projektleiterinnen | Projektmanagerin | Communitymanager | Design-Lead | Tech-Lead | stud. Hilfskraft | BFDler<br><br>
+
+  **Partner** <br>
+  Programmpartner ist mediale pfade.org - Verein für Medienbildung e.V.. Zudem gibt es viele weitere lokale Partnerorganisationen.
+
 achievements: >
     * verschiedene Veranstaltungsformate für Jugendliche
 

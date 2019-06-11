@@ -12,31 +12,31 @@ visual:
 
 OpenSCHUFA war eine Kampagne, die zu einer groß angelegten Datenspende aufgerufen hat, um Einblicke in die die Blackbox SCHUFA zu gewinnen und auf bestehende Missstände aufmerksam zu machen. 
 
-# Hintergrund
+### Hintergrund
 
 Ob Kredite, Handyverträge oder Wohnungsbewerbungen - bei wichtigen Verbraucherfragen spielt der Schufa-Score eine zentrale Rolle. Wer zu wenige Punkte hat, geht oft leer aus. Das Scoring-Verfahren des Privatunternehmens Schufa ist allerdings höchst intransparent. Als Geschäftsgeheimnis ist es der Öffentlichkeit nicht zugänglich. Das wollen wir mit dem Projekt OpenSCHUFA ändern.
 
-# Leistungen 2018
+### Leistungen 2018
 
 * Crowdfunding für das Datentool mit 43.000 Euro
 * 100.000 Datenanfragen an Kreditauskunftsteien, über 30.000 an die Schufa
 * Deutschlandweite Aufmerksamkeit, zweimal bundesweit in den Hauptabendnachrichten, insbesonders Analysen von Bayrischen Rundfunk und SpiegelOnline
 
-# Highlights
+### Highlights
 
 * [Neue Erkenntnisse](https://openschufa.de/#ergebnisse) aufgrund der Datenauswertugn der crowdsourced 3.000 Datenspenden
 
-# Ausblick
+### Ausblick
 
 Für 2019 stehen Policymeetings sowie ein Treffen mit Staatssekretär zum weiteren Vorgehen an.
 
-# Ressourcen
+### Ressourcen
 
 * Finanzierung: Crowdfunding
 * Beteiligte: Walter Palmetshofer, Arne Semsrott und Partner Algorithmwatch
 * Beginn: Februar 2018
 
 
-# Website
+### Website
 
 [https://openschufa.de/](https://openschufa.de/)

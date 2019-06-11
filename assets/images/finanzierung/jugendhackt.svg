@@ -8,32 +8,27 @@
         <g id="Jugend-hackt" transform="translate(-621.000000, -349.000000)">
             <g id="Group" transform="translate(621.000000, 349.000000)">
                 <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="0" width="239" height="127"></rect>
-                <text id="8-Stellen" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
-                    <tspan x="60.8393506" y="60.088">8 Stellen</tspan>
+                <text id="100%" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
+                    <tspan x="81.9093506" y="60.088">100%</tspan>
                 </text>
-                <text id="innerhalb-der-OKF" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
-                    <tspan x="68.948" y="83">innerhalb der OKF</tspan>
+                <text id="Finanzierung" font-family="Apercu-Mono, Apercu Mono" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="74.36" y="83">Finanzierung</tspan>
                 </text>
                 <rect id="Rectangle-3" fill="#F1F1F1" x="249" y="1" width="239" height="127"></rect>
                 <text id="149.894€" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
                     <tspan x="305.499351" y="61.088">149.894€</tspan>
                 </text>
-                <text id="Sachkosten" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
-                    <tspan x="337.05174" y="84">Sachkosten</tspan>
+                <text id="Sachkosten" font-family="Apercu-Mono, Apercu Mono" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="331.30974" y="84">Sachkosten</tspan>
                 </text>
                 <rect id="Rectangle-3" fill="#F1F1F1" x="0" y="136" width="239" height="127"></rect>
                 <text id="ca.-6000h" font-family="ApercuPro-Medium, Apercu Pro" font-size="28" font-weight="400" line-spacing="22" fill="#444F5A">
                     <tspan x="47.1933506" y="195.088">ca. 6000h</tspan>
                 </text>
-                <text id="ehrenamtliche-Arbeit" font-family="ApercuPro, Apercu Pro" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
-                    <tspan x="61.0337403" y="219">ehrenamtliche Arbeit </tspan>
-                    <tspan x="63.4997403" y="233">durch Mentor*innen</tspan>
+                <text id="ehrenamtliche-Arbeit" font-family="Apercu-Mono, Apercu Mono" font-size="12" font-weight="normal" line-spacing="14" fill="#444F5A">
+                    <tspan x="44.6097403" y="222">ehrenamtliche Arbeit </tspan>
+                    <tspan x="52.0497403" y="236">durch Mentor*innen</tspan>
                 </text>
-                <g id="Group-5"></g>
-                <g id="Group-5" transform="translate(249.000000, 1.000000)"></g>
-                <g id="Group-6" transform="translate(0.000000, 136.000000)">
-                    <g id="Group-5"></g>
-                </g>
             </g>
         </g>
     </g>

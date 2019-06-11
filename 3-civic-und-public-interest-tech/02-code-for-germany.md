@@ -70,13 +70,26 @@ effect:
 
     Bewusstsein für Open Source, Open Data, Open Government
 
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/codefor.svg
-      alt: Die Projektlaufzeit von Code for Germany ging über alle 12 Monate im Jahr 2018.
-  funding:
-      img: /assets/images/opengovernment/finanzierung/codefor.svg
-      alt: Code for Germany hat 0% Finanzierung
+resources: >
+
+  **Laufzeit** <br>
+
+  ganzjährige Laufzeit.<br><br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/ptf.svg "Laufzeit PTF")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt wird von der OKF querfinanziert.
+  <br><br>
+
+  ![0% Finanzierung](/assets/images/finanzierung/codefor.svg "Laufzeit FDS")<br><br>
+
+
+  **Stellen** <br>
+
+  Community-Management
+
 achievements: >
   * Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfängerinnen, Hackdays
 

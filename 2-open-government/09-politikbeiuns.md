@@ -11,7 +11,7 @@ visual:
 
 „Politik bei uns“ macht Entscheidungen in Stadt- und Landräten transparent. 
 
-# Hintergrund
+### Hintergrund
 
 Das offene Ratsinformationssystem „Politik Bei Uns“ stellt Informationen und Vorgänge aus Rat und Verwaltung nutzerfreundlich dar, damit Bürgerinnen und Bürger politische Entscheidungen nachvollziehen können und frühzeitig mitbestimmen können. Unser Projekt stellt als eine Art Datenmarktplatz Rats- und Verwaltungsdaten Drittentwicklern zur Verfügung, so dass sie ohne großen Aufwand weitere Applikationen bauen können. Neben der Politik, der Zivilgesellschaft und den Journalisten profitiert auch die Wissenschaft von strukturierten und somit analysierbaren Daten.
 
@@ -22,17 +22,17 @@ Die Menschen in einer Stadt denken nicht in Gremien und Antragstypen, sondern in
 Mit den Daten im OParl-Format kann man jetzt ganz neue Darstellungen bauen. Dabei helfen moderne Webtechnologien wie Suchserver und das Verschneiden der Daten mit Geodaten von OpenStreetMap.
 
 
-# Highlights
+### Highlights
 
 * Einige neue Kommunen auch außerhalb von NRW sind hinzugekommen
 
-# Ressourcen
+### Ressourcen
 
 * Finanzierung: Ehrenamtlich mit zwischenzeitlichen Förderungen
 * Projektleitung: Ernesto Ruge 
 * Beginn: 2013 
 
 
-# Website
+### Website
 
 [https://politik-bei-uns.de/](https://politik-bei-uns.de/)
