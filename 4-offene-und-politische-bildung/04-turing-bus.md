@@ -45,13 +45,33 @@ effect:
     Kontakte zu Schulen in der Region werden aufgebaut
 - title: Gesellschaftliche Wirkung
   claim: Digitale Mündigkeit wird gefördert und alternative Bildungsangebote werden relevanter.
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/turingbus.svg
-      alt: Das beschreibt die Projektlaufzeit in Worten
-  funding:
-      img: /assets/images/opengovernment/finanzierung/turingbus.svg
-      alt: Das beschreibt die Finanzierungssituation in Worten
+
+resources: >
+
+  **Laufzeit** <br>
+
+  Das Projekt begann im Februar 2018 ​und läuft voraussichtlich bis Dezember 2019.
+  <br><br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/turingbus.svg "Laufzeit Turing-Bus")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt ist zu 100% finanziert und wird im Jahr 2018 durch das Bundesministerium für Familie, Senioren, Frauen und Jugend (2017/18) und die Bundeszentrale für politische Bildung (2018/19) gefördert.
+
+  Das Budget für 2018 beträgt 824.910,36 Euro.
+  <br><br>
+
+  ![100% Finanzierung, 149.894,26€ Sachekosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/turingbus.svg "Finanzierung Turing-Bus")<br><br>
+
+
+  **Personal** <br>
+
+  1 Projektleitung | 1 Projektassistenz <br><br>
+
+  **Partner** <br>
+
+  Gesellschaft für Informatik e.V.<br><br>
 achievements: >
     * mehr als zwölf Stationen in Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt, Thüringen, Sachsen, Niedersachsen und Nordrhein-Westfalen mit jeweils zwischen 10 bis 120 Teilnehmenden, vorwiegend Schülerinnen und Schüler zwischen 15 und 19 Jahren
 

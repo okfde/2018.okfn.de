@@ -18,7 +18,7 @@ causes:
   text: Ein konsumorientiertes Nutzungsverhalten digitaler Werkzeuger steht einem kreativ-schaffenden gegenüber und verhindert die eigene Wahrnehmung im digitalen wie analogen Raum durch andere
 - title: führen dazu, dass
   claim: >
-    * der wachsende Zugang zu Technologie nicht in einer wachsenden sozialen Teilhabe mündet.
+    der wachsende Zugang zu Technologie nicht in einer wachsenden sozialen Teilhabe mündet.
 
 solution:
 - title: Angebote schaffen
@@ -46,13 +46,32 @@ effect:
     Nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
 - title: Gesellschaftliche Wirkung
   claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/demokratielabore.svg
-      alt: Das beschreibt die Projektlaufzeit in Worten
-  funding:
-      img: /assets/images/opengovernment/finanzierung/demokratielabore.svg
-      alt: Das beschreibt die Finanzierungssituation in Worten
+resources: >
+
+  **Laufzeit** <br>
+
+  Das Projekt begann im Juni 2017 ​und läuft bis ​April 2019. Es handelt sich damit für 2018 um eine ganzjährige Laufzeit.
+  <br><br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/demokratielabore.svg "Laufzeit Demokratielabore")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt ist zu 100% finanziert und wird im Jahr 2018 durch das Bundesministerium für Familie, Senioren, Frauen und Jugend (2017/18) und die Bundeszentrale für politische Bildung (2018/19) gefördert.
+
+  Das Budget für 2018 beträgt 824.910,36 Euro.
+  <br><br>
+
+  ![100% Finanzierung, 149.894,26€ Sachekosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/demokratielabore.svg "Finanzierung Demokratielabore")<br><br>
+
+
+  **Personal** <br>
+
+  1 Projektleitung | 1 Modulleitung | 1 Projektkoordination | 7 Projekt- und Juniorprojektmanagement | 1 Tech Lead | 1 Design Lead | 1 Modulmanagement | 2 Softwareentwicklerinnen | 2 studentische Mitarbeiterinnen | 1 Bundesfreiwilligendienstleistender | 1 Supervision & Intervision<br><br>
+
+  **Partner** <br>
+  mediale pfade e.V. | youthpolicy lab | creative gaming e.V. | stuhlkreis_revolte
+
 achievements: >
 
     Für Jugendliche

@@ -59,7 +59,7 @@ resources:
 resources: >
   <br>**Laufzeit** <br>
 
-  ganzjährige Projektlaufzeit <br>
+  ganzjährige Projektlaufzeit <br><br>
   ![ganzjährige Laufzeit](/assets/images/laufzeit/kleineanfragen.svg "Laufzeit kleineAnfragen")
   <br><br><br>
 

@@ -60,7 +60,7 @@ resources: >
 
   **Laufzeit** <br>
 
-  ganzjährige Projektlaufzeit <br>
+  ganzjährige Projektlaufzeit <br><br>
   ![ganzjährige Laufzeit](/assets/images/laufzeit/fds.svg "Laufzeit FDS")
   <br><br><br>
 

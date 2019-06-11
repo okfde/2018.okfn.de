@@ -38,23 +38,41 @@ effect:
   text: stellen besser aufbereitet Informationen zu gesellschaftspolitischen Themen bereit, fördern damit Transparenz und Rechenschaftspflicht
 - title: Gesellschaftliche Wirkung
   claim: Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten zu sozialen Anliegen  informierter geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen.
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/datenschule.svg
-      alt: Das beschreibt die Projektlaufzeit in Worten
-  funding:
-      img: /assets/images/opengovernment/finanzierung/datenschule.svg
-      alt: Das beschreibt die Finanzierungssituation in Worten
+
+resources: >
+
+  **Laufzeit** <br>
+
+  Das Projekt begann im August 2016 und läuft über das gesamte Jahr 2018.
+  <br><br>
+  ![ganzjährige Laufzeit](/assets/images/laufzeit/demokratielabore.svg "Laufzeit Datenschule")
+  <br><br><br>
+
+  **Finanzierung** <br>
+
+  Das Projekt ist zu 100% finanziert und wird im Jahr 2018 über die Demokratielabore mitfinanziert. Das Projekt wird damit durch das Bundesministerium für Familie, Senioren, Frauen und Jugend gefördert.
+
+  Das Budget für 2018 beträgt ca. 194.000 Euro.
+  <br><br>
+
+  ![100% Finanzierung, 149.894,26€ Sachkosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/datenschule.svg "Finanzierung Datenschule")<br><br>
+
+
+  **Personal** <br>
+
+  Projektleitung (80%) | Technische Leitung (50%) |  Workshopkonzeption (50%) | Kommunikation (50%)
+
+  <br><br>
 achievements: >
     Zusammenarbeit mit dem Projekt Demokratielabore, Thema: Außerschulische Jugendarbeit
 
-      * Wir haben vier [Workshops](https://demokratielabore.de/angebot/schulung) mit Fachkräften aus der Jugendarbeit zu offenen Daten, Storytelling, Citizen Science und Analyse von Twitterdebatten durchgeführt. Die [Lernmaterialien sowie die Train-the-Trainer-Konzepte](https://demokratielabore.de/publikationen) haben wir unter freier Lizenz als OER publiziert.
+    Wir haben vier [Workshops](https://demokratielabore.de/angebot/schulung) mit Fachkräften aus der Jugendarbeit zu offenen Daten, Storytelling, Citizen Science und Analyse von Twitterdebatten durchgeführt. Die [Lernmaterialien sowie die Train-the-Trainer-Konzepte](https://demokratielabore.de/publikationen) haben wir unter freier Lizenz als OER publiziert.
 
-      * Während unserer zweitägigen [Data Expedition](https://dataexpedition.demokratielabore.de/) zum Thema Demokratie und Jugendbeteiligung haben wir gemeinsam mit Fachkräften aus der Jugendarbeit, Entwickler/innen und Designer/innen digitale Prototypen und Projektideen entwickelt, die konkrete Herausforderungen der Jugendarbeit forcieren und Lösungen bieten.
+    Während unserer zweitägigen [Data Expedition](https://dataexpedition.demokratielabore.de/) zum Thema Demokratie und Jugendbeteiligung haben wir gemeinsam mit Fachkräften aus der Jugendarbeit, Entwickler/innen und Designer/innen digitale Prototypen und Projektideen entwickelt, die konkrete Herausforderungen der Jugendarbeit forcieren und Lösungen bieten.
 
-      * Wir haben einen digital-analogen [Datenspaziergang](https://spaziergang.demokratielabore.de/intro) konzipiert, der Interessierten mit Hilfe einer Web-App zeigt, wie die digitale Welt mit realen Orten verwoben ist. Der erste Datenspaziergang führt durch Berlin Kreuzberg. Ein Creator-Tool ermöglicht eigene Spaziergänge online einzutragen.
+    Wir haben einen digital-analogen [Datenspaziergang](https://spaziergang.demokratielabore.de/intro) konzipiert, der Interessierten mit Hilfe einer Web-App zeigt, wie die digitale Welt mit realen Orten verwoben ist. Der erste Datenspaziergang führt durch Berlin Kreuzberg. Ein Creator-Tool ermöglicht eigene Spaziergänge online einzutragen.
 
-    * Vermittlung digitaler Fähigkeiten & Awareness-Raising: Vorträge und Workshops, z. B. beim [3. Jugend- und Netzpolitischen Forum](http://www.politische-jugendbildung-et.de/freiraumnetz18/), [POEM der Universität Hamburg](https://www.poem.uni-hamburg.de/) und [Bits & Bäume-Konferenz](https://bits-und-baeume.org).
+    Vermittlung digitaler Fähigkeiten & Awareness-Raising: Vorträge und Workshops, z. B. beim [3. Jugend- und Netzpolitischen Forum](http://www.politische-jugendbildung-et.de/freiraumnetz18/), [POEM der Universität Hamburg](https://www.poem.uni-hamburg.de/) und [Bits & Bäume-Konferenz](https://bits-und-baeume.org).
 
 outputs: >
 
@@ -112,7 +130,7 @@ outook: >
 
 Daten sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen. Nur wenige Organisationen verfügen über eine fundierte digitale Expertise und Tools, um aussagekräftige Erkenntnisse aus Daten zu ziehen und ihre Anliegen mit Beweisen zu belegen. Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert - dies hindert soziale Innovation und die Wahrnehmung von Menschenrechten.
 
-Die Schnelligkeit der technischen Veränderungen stellen zivilgesellschaftliche Akteure vor neue Herausforderungen. Viele verlieren den Anschluss an aktuelle öffentliche Debatten im Themenfeld der "Digitalisierung", dadurch sind soziale Themen im digitalen Raum unterrepräsentiert. Dies liegt auch daran, dass viele neue Konzepte und Begrifflichkeiten von technik-affineren Unternehmen geprägt werden. Angebote zur Förderung digitaler Kompetenzen im zivilgesellschaftlichen Bereich gibt es nur wenige. Um diese Kompetenzen langfristig bei Erwachsenen zu fördern, bedarf es Formate, die die Bedürfnisse und Diversität der gemeinnützigen Akteure in Deutschland berücksichtigen.
+Die Schnelligkeit der technischen Veränderungen stellen zivilgesellschaftliche Akteure vor neue Herausforderungen. Viele verlieren den Anschluss an aktuelle öffentliche Debatten im Themenfeld der „Digitalisierung“, dadurch sind soziale Themen im digitalen Raum unterrepräsentiert. Dies liegt auch daran, dass viele neue Konzepte und Begrifflichkeiten von technik-affineren Unternehmen geprägt werden. Angebote zur Förderung digitaler Kompetenzen im zivilgesellschaftlichen Bereich gibt es nur wenige. Um diese Kompetenzen langfristig bei Erwachsenen zu fördern, bedarf es Formate, die die Bedürfnisse und Diversität der gemeinnützigen Akteure in Deutschland berücksichtigen.
 
 Datenschule ist ein Bildungsangebot zur Förderung von digitalen Kompetenzen im gemeinnützigen Bereich.
 

@@ -46,13 +46,25 @@ effect:
   text: Erreichen ihrer Ziele nutzen können.  
 - title: Gesellschaftliche Wirkung
   claim: Bürger*innen wird durch die Vermittlung technischer Kompetenzen die Beteiligung an einer modernen Gesellschaft erleichtert.
-resources:
-  timespan:
-      img: /assets/images/opengovernment/laufzeit/edulabs.svg
-      alt: Projektlaufzeit bis August 2018
-  funding:
-      img: /assets/images/opengovernment/finanzierung/edulabs.svg
-      alt: Das beschreibt die Finanzierungssituation in Worten
+
+resources: >
+
+  **Laufzeit** <br>
+
+  Das Projekt begann im März 2017 ​und lief bis August 2018.
+  <br><br>
+  ![bis August 2018](/assets/images/laufzeit/edulabs.svg "Laufzeit Edulabs")
+  <br><br><br>
+
+  **Finanzierung** <br><br>
+
+  ![100% Finanzierung, 74.840€ Personalskosten](/assets/images/finanzierung/edulabs.svg "Finanzierung Edulabs")<br><br>
+
+
+  **Personal** <br>
+
+  1 Projektleiter (100%) | 1 Projektmanager (50%) | 1 Entwickler (30%) | Administration (15%) <br><br>
+
 achievements: >
     * Interviews mit Innovator\*innen im Bereich zeitgemäße Bildung und OER
     
