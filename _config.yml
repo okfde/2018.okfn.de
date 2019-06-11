@@ -16,6 +16,7 @@ mainpage:
   label: Zurück zur OKF Website
   year: 2018
 chapter:
+  resources: Ressourcen
   effects:
     - label: Das Problem
       key: problem
