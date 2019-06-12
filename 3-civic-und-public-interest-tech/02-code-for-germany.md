@@ -149,7 +149,7 @@ outlook: >
 ---
 
 
-# Förderprogramm für die Entwicklung von Open-Source-Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, Datensicherheit und anderen
+# Netzwerk zur Förderung von Civic Tech und Open Data in Deutschland
 
 Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger, die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.
 
