@@ -69,7 +69,8 @@ resources: >
 
   ![0% Finanzierung, 100h ehrenamtliche Arbeit](/assets/images/finanzierung/kleineanfragen.svg "Laufzeit kleineAnfragen")<br><br>
 
-
+  **Personal**
+  Entwickler (ehrenamtlich): Maximilian Richt
 
 achievements: >
     * Stabile, menschenlesbare URLs für Anfragen & Antworten, sodass diese auch per Mail oder in Sozialen Medien geteilt werden können.

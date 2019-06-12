@@ -4,8 +4,8 @@ chapter: 1.1
 title: Gegenstand des Berichts
 permalink: /einleitung/intro/
 visual:
-    img: /assets/images/einleitung/einleitung.png
-    alt: Illustration zum Kapitel
+    img: /assets/images/einleitung/gegenstand.png
+    alt: Auf Basis des Social Reporting Standard.
 ---
 
 

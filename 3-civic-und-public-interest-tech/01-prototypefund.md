@@ -62,15 +62,15 @@ resources: >
 
   **Finanzierung** <br>
 
-  Das Projekt ist zu 100% vom Bundesministerium für Bildung und Forschung finanziert. Das Budget beträgt 2.342.285€.
+  Das Projekt ist zu 100% vom Bundesministerium für Bildung und Forschung finanziert. Das Budget für 2018 beträgt 2.342.285€.
   <br><br>
 
-  ![Klagekosten: 28.896,54 €, Materialkosten 761,30 €](/assets/images/finanzierung/ptf.svg "Laufzeit FDS")<br><br>
+  ![](/assets/images/finanzierung/ptf.svg "Laufzeit FDS")<br><br>
 
 
-  **Stellen** <br>
+  **Personal** <br>
 
-  Projektleitung: ​Elisa Lindinger, Julia Kloiber | Kommunikation: Jessica Binsch, Katharina Meyer Projekt-Management: Adriana Groh, Fiona Krakenbürger, Michael Peters | Controlling: Nadine Evers | technische Administration: Gregor Gilka
+  Projektleitung: ​Elisa Lindinger, Julia Kloiber | Kommunikation: Jessica Binsch, Katharina Meyer | Projekt-Management: Adriana Groh, Fiona Krakenbürger, Michael Peters | Controlling: Nadine Evers | technische Administration: Gregor Gilka
 
 
 achievements: >

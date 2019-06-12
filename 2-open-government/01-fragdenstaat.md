@@ -67,12 +67,12 @@ resources: >
   **Finanzierung** <br>
 
   Das Projekt ist zu 100% finanziert.
-  Die Finanzierung erfolgt durch Einzelspenden, Förderungen und Querfinanzierung.<br><br>
+  Die Finanzierung erfolgt durch Einzelspenden und Förderungen.<br><br>
 
   ![Klagekosten: 28.896,54 €, Materialkosten 761,30 €](/assets/images/finanzierung/fds.svg "Laufzeit FDS")<br><br>
 
 
-  **Stellen** <br>
+  **Personal** <br>
 
   Projektleitung (75%) |  Entwickler (100%)<br><br>
 
@@ -114,7 +114,7 @@ evaluation:  >
 
     * Kleine Politische Risiken: Schwächung der Informationsfreiheit, Erschwerung der Anfragen über Internet-Plattformen
 
-    * Finanzielle Risiken: Fehlende Finanzierung von FragDenStaat
+    * Finanzielle Risiken: FragDenStaat ist nicht dauerthaft finanziert. 
 
 outlook:  >
     * Es ist geplant, weitere Features für NGOs und Journalisten zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen Klagemöglichkeiten gestärkt werden.

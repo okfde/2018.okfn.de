@@ -1,8 +1,8 @@
 ---
 layout: page
 chapter: 1.3
-title: Unsere Werte und Überzeugungen
-permalink: /einleitung/werte/
+title: Schwerpunkte unserer Arbeit
+permalink: /einleitung/schwerpunkte/
 visual:
     img: /assets/images/einleitung/werte.png
     alt: Illustration zum Kapitel

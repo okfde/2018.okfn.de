@@ -86,8 +86,7 @@ resources: >
   ![0% Finanzierung](/assets/images/finanzierung/codefor.svg "Laufzeit FDS")<br><br>
 
 
-  **Stellen** <br>
-
+  **Personal** <br>
   Community-Management
 
 achievements: >

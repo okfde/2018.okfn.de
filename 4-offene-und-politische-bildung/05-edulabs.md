@@ -108,23 +108,26 @@ impact:  >
 
 
 evaluation:  >
-    * Welche Lessons learned gab es?
+    **Welche Lessons learned gab es** <br>
 
-      * Das vernetzte und offene Arbeiten steht im formalen Bildungskontext noch am Anfang
+    * Das vernetzte und offene Arbeiten steht im formalen Bildungskontext noch am Anfang
 
-      * kleine Formate funktionieren besser zum Einstieg
+    * kleine Formate funktionieren besser zum Einstieg
 
-    * Welche Hürden wurden wie gemeistert?
+    
+    **Welche Hürden wurden wie gemeistert?** 
 
-     * Gemeinsam neues Unterrichtsmaterial erstellen überfordert manche Teilnehmende; nun bieten die edusprints ein einsteigerfreundliches Format, um Empfehlungen für OER-Unterrichtsideen und neue Materialien zu entwickeln
+    * Gemeinsam neues Unterrichtsmaterial erstellen überfordert manche Teilnehmende; nun bieten die edusprints ein einsteigerfreundliches Format, um Empfehlungen für OER-Unterrichtsideen und neue Materialien zu entwickeln
 
-    * Welche Indikatoren (siehe Output oben) werden wie überprüft
+    
+    **Welche Indikatoren (siehe Output oben) werden wie überprüft** 
 
-      * Anzahl der Veranstaltungen, Calls, Fortbildungen, OER-Unterrichtsideen und Partnerschulen
+    * Anzahl der Veranstaltungen, Calls, Fortbildungen, OER-Unterrichtsideen und Partnerschulen
 
-      * Feedback der Teilnehmer (Nachfrage, wiederholte Besucher, social media)
+    * Feedback der Teilnehmer (Nachfrage, wiederholte Besucher, social media)
 
-    * Gibt es Monitoring, regelmäßige Treffen, Berichte, Team-Konferenzen (z.B. Policy Gruppe), Strategie-Meetings, Schulungen, Zielvereinbarungen 
+    
+    **Gibt es Monitoring, regelmäßige Treffen, Berichte, Team-Konferenzen (z.B. Policy Gruppe), Strategie-Meetings, Schulungen, Zielvereinbarungen**
 
       * Netzwerktreffen monatlich mit Partnern
 

@@ -104,7 +104,7 @@ outputs: >
 
     * 3 Digital-AGs in Einrichtungen außerschulischer Jugendarbeit
 
-    * insgesamt 931 erreichte Personen (624 Jugendliche, 214 päd. Fachkräfte, 93 Fachkräfte aus Management und Verwaltung)
+    * insgesamt 991 erreichte Personen (684 Jugendliche, 214 päd. Fachkräfte, 93 Fachkräfte aus Management und Verwaltung)
 
     * 4 Handreichungen zu den Fachkräfteschulungen
 
