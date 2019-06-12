@@ -8,7 +8,7 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
-An die im Jahr 2018 eingesetzte neue Bundesregierung haben wir folgende Forderungen formuliert, die auch heute noch ihre Gültigkeit haben.
+An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderungen formuliert, die in Teilen auch heute noch ihre Gültigkeit haben.
 
 <br>
 
