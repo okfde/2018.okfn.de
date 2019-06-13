@@ -10,12 +10,12 @@ visual:
 ---
 
 
-## Anzahl in Köpfen
+## Anzahl in Köpfen (Jahresmittel)
 
 <table width="500">
   <tr>
     <th>Jahr</th>
-    <th>Mitarbeiter</th>
+    <th>Mitarbeiter*innen</th>
     <th>davon hauptamtlich</th>
   </tr>
   <tr>
@@ -67,12 +67,12 @@ visual:
 
 
 ### Leitungs- und ggf. Geschäftsführungsorgan
-Gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
+gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
 
 
 § 9 Der Vorstand
 
-§ 9.1 Der Vorstand setzt sich aus dem Vorsitzenden und dem stellvertretenden Vorsitzenden, dem Kassenwart zusammen sowie bis zu sechs weiteren BeisitzerInnen. Die Amtszeit beträgt zwei Jahre. Die Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt sind. Der Vorstand arbeitet ehrenamtlich.
+§ 9.1 Der Vorstand setzt sich aus dem Vorsitzenden und dem stellvertretenden Vorsitzenden, dem Kassenwart zusammen sowie bis zu sechs weiteren Beisitzer*innen. Die Amtszeit beträgt zwei Jahre. Die Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt sind. Der Vorstand arbeitet ehrenamtlich.
 <br><br>
 § 9.2 Der Vorstand wird von der Mitgliederversammlung gewählt.
 
@@ -99,11 +99,6 @@ Gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
 
 § 8.1 Der Mitgliederversammlung als beschlussfassendem Vereinsorgan obliegen alle Aufgaben, es sei denn, diese sind ausdrücklich laut Satzung einem anderen Vereinsorgan übertragen worden.
 
-**Mitglieder**<br>
-Anna Alberts, Adrian Pohl, Andreas Pawelke, Andrej Sandorf, Anja Jentzsch, Arne Semsrott,  Bela Seeger, Christian Heise, Christian Kreutz, Claudia Schwegmann, Daniel Dietrich, Daniel Mietchen, Edgar Zanella Alvarenga, Eileen Wagner, Fiona Krakenbürger, Friedrich Lindenberg, Hauke Gierow, Helene Hahn, Jana Wichmann, Johanna zum Felde, Jonathan Gray, Julia Kloiber, Knut Perseke, Kristina Klein, Leonard Wolf, ucy Chambers, Mara Mendes, Marcus Dapp, Maria Reimer, Mark Brough, Markus Neuschäfer, Maximilian Voigt, Michael Hörz, Michael Peters, Moritz Neujeffski, Paula Grünwald, Rufus Pollock, Sören Auer, Stefan Kaufmann, Stefan Wehrmeyer, Timo Lundelius, Walter Palmetshofer
-
-
-
 <br>
 
 ### Mitglieder des Vereins
@@ -115,14 +110,14 @@ Anna Alberts, Adrian Pohl, Andreas Pawelke, Andrej Sandorf, Anja Jentzsch, Arne 
 * Anna Alberts
 * Arne Semsrott
 * Bela Seeger
-* Christian Heise - Vorstandsvorsitzender bis 02.06.2018
-* Claudia Schwegmann - Beisitzerin bis 21.11.2018
-* Daniel Dietrich - Beisitzer
+* Christian Heise, Vorstandsvorsitzender bis 02.06.2018
+* Claudia Schwegmann, Beisitzerin bis 21.11.2018
+* Daniel Dietrich, Beisitzer
 * Daniel Mietchen
 * Edgar Zanella Alvarenga
 * Eileen Wagner
 * Fiona Krakenbürger
-* Friedrich Lindenberg - stellv. Vorstandsvorsitzender bis 02.06.2018
+* Friedrich Lindenberg, stellv. Vorstandsvorsitzender bis 02.06.2018
 * Hauke Gierow
 * Helene Hahn
 * Jana Wichmann
@@ -130,9 +125,9 @@ Anna Alberts, Adrian Pohl, Andreas Pawelke, Andrej Sandorf, Anja Jentzsch, Arne 
 * Jonathan Gray
 * Julia Kloiber
 * Knut Perseke
-* Kristina Klein bis 30.06.2017; Geschäftsführerin, ab 11.11.2017 Kassenwartin
+* Kristina Klein, bis 30.06.2017 Geschäftsführerin, seit 11.11.2017 Kassenwartin
 * Leonard Wolf
-* Lucy Chambers; Beisitzerin, stellv. Vorstandsvorsitzende ab 02.06.2018
+* Lucy Chambers, Beisitzerin, stellv. Vorstandsvorsitzende seit 02.06.2018
 * Mara Mendes
 * Maria Reimer
 * Mark Brough
@@ -143,7 +138,7 @@ Anna Alberts, Adrian Pohl, Andreas Pawelke, Andrej Sandorf, Anja Jentzsch, Arne 
 * Moritz Neujeffski
 * Paula Grünwald
 * Rufus Pollock
-* Sören Auer - Beisitzer bis 02.06.2018
+* Sören Auer, Beisitzer bis 02.06.2018
 * Stefan Wehrmeyer
 * Stefan Kaufmann
 * Timo Lundelius
@@ -153,13 +148,13 @@ Anna Alberts, Adrian Pohl, Andreas Pawelke, Andrej Sandorf, Anja Jentzsch, Arne 
 ### Interessenskonflikte
 
 Der Vorstand und einige hauptamtliche Teammitglieder sind auch Vereinsmitglieder und damit stimmberechtigt in der Mitgliederversammlung als Aufsichtsorgan der OKF Deutschland e.V. Der Vorstand ist ehrenamtlich tätig und erhält keine Bezüge, weder Gehälter, Aufwandsentschädigungen noch Sachbezüge. Kein Vorstandsmitglied arbeitet vertraglich in einem OKF-Projekt mit und bezieht daraus Gehalt.
-Für das Geschäftsjahr 2018 gabe es keine finanziellen, persönlichen oder rechtlichen Abhängigkeitsverhältnisse zwischen den Mitgliedern der OKF Deutschland e.V. und anderen an der Finanzierung der OKF beteiligten Organisationen. Es bestanden auch keine Verwandtschaftsverhältnisse innerhalb der Organisation.
+Für das Geschäftsjahr 2018 gab es keine finanziellen, persönlichen oder rechtlichen Abhängigkeitsverhältnisse zwischen den Mitgliedern der OKF Deutschland e.V. und anderen an der Finanzierung der OKF DE beteiligten Organisationen. Es bestanden auch keine Verwandtschaftsverhältnisse innerhalb der Organisation.
 
 <br>
 
 ### Internes Kontrollsystem
 
-Das interne Kontrollsystem besteht aus einem projektgesteuerten 4-Augen Prinzip im operativen Geschäft, der extern beauftragten Buchführung /Jahresabschlusserstellung sowie der internen Kassenprüfung. Im Rahmen der Projekttätigkeit sind die fachliche und kaufmännische Projektleitung separiert, so dass dort ein 4-Augen-Prinzip vorherrscht. Darüber hinaus wird die Buchhaltung von einer externen Steuerkanzlei ausgeführt, welche vereinsschädigende oder gemeinnützigkeitsschädliche Handlungen direkt an die Geschäftsführung melden würde. Damit ebenfalls die Mitglieder Ihre Informationen erhalten sowie eine wirksame Kontrolle durch die Mitgliederversammlung stattfinden kann, werden jährlich zwei Kassenprüfer bestimmt. Aktuell wurde die Kassenprüfer durch die Mitglieder Sören Auer und Walter Palmetshofer durchgeführt. Mit der Satzungsänderung vom 11.11.2017 hat die OKF festgelegt, dass Kassenprüfer nicht aus Vorstand und Belegschaft kommen dürfen, um mögliche Interessenskonflikte zu vermeiden.
+Das interne Kontrollsystem besteht aus einem projektgesteuerten 4-Augen-Prinzip im operativen Geschäft, einer Prüfung durch eine projektübergreifende Stelle, der Supervision durch die Kassenwartin sowie einer internen Kassenprüfung. Darüber hinaus wird die Buchhaltung von einer externen Steuerkanzlei ausgeführt, welche vereinsschädigende oder gemeinnützigkeitsschädliche Handlungen direkt an die Geschäftsführung melden würde. Damit eine wirksame Kontrolle durch die Mitgliederversammlung stattfinden kann, werden jährlich zwei Kassenprüfer bestimmt. 2018 wurde die Kassenprüfung durch die Mitglieder Mark Brough und Timo Lundelius durchgeführt. Mit der Satzungsänderung vom 11.11.2017 hat die OKF DE festgelegt, dass Kassenprüfer nicht aus Vorstand und Belegschaft kommen dürfen, um mögliche Interessenskonflikte zu vermeiden.
 
 
 <br><br>
@@ -169,9 +164,8 @@ Das interne Kontrollsystem besteht aus einem projektgesteuerten 4-Augen Prinzip 
 An unserem Verein halten weder private noch juristische Personen Anteile. Dies ist auch nicht möglich.
 
 
-
 **Mitgliedschaften anderer Organisationen**<br>
-Es besteht keine Mitgliedschaft in einer anderen Organisationen.
+Es besteht eine Mitgliedschaft beim Bundesverband Deutscher Stiftungen e.V.
 
 
 **Verbundene Organisationen**<br>
@@ -181,19 +175,20 @@ Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine An
 ## Umwelt- und Sozialprofil
 
 **Zum Umweltschutz tragen wir durch folgende Punkte bei:**
-* Wir kaufen viele Büromöbel sowie einen Teil unserer IT-Ausstattung gebraucht,
-* Wir verwenden vornehmlich Recyclingpapier, Bürobedarf bestellen wir bei einem ökofairen Anbieter
-* Reisen finden in aller Regel mit öffentlichen Verkehrsmitteln statt (2. Klasse)
-* Inlandsflüge buchen wir nur in Ausnahmesituationen; Auslandsreisen sind Ausnahmen
-* Wir haben keine Dienstwagen
+* Wir kaufen viele Büromöbel sowie einen Teil unserer IT-Ausstattung gebraucht.
+* Wir verwenden vornehmlich Recyclingpapier, Bürobedarf bestellen wir bei einem ökofairen Anbieter.
+* Reisen finden in aller Regel mit öffentlichen Verkehrsmitteln statt (2. Klasse).
+* Inlandsflüge buchen wir nur in Ausnahmesituationen; Auslandsreisen sind Ausnahmen.
+* Wir haben keine Dienstwagen.
+* Wir stehen hinter den Forderungen der Bits&Bäume-Konferenz zur Nachhaltigkeit.
 
 <br>
 
 **Zum Sozialprofil gehören die folgenden Punkte:**
 * flexible Arbeitszeiten
 * freie Einteilung von Heimarbeitstagen
-* Tiere am Arbeitsplatz sind erlaubt
-* Weiterbildungsmaßnahmen innerhalb der Arbeitszeit werden unterstützt und teilweise finanziert
-* das gesamte Team wird mindestens monatlich über die wichtigsten Entwicklungen von Vorstand, Geschäftsführung und Team intern informiert, um stets einen Gesamtüberblick zu haben
-* alle MitarbeiterInnen, die dem Geschäftsführer nicht direkt unterstehen, haben mehrmals im Jahr Gruppenmeetings mit der Geschäftsführerin
-* die Geschäftsführerin hat eine »Open-Door-Policy« für alle MitarbeiterInnen.
+* Tiere am Arbeitsplatz sind erlaubt.
+* Weiterbildungsmaßnahmen innerhalb der Arbeitszeit werden unterstützt und teilweise finanziert.
+* Das gesamte Team wird mindestens monatlich über die wichtigsten Entwicklungen von Vorstand, Geschäftsführung und Team intern informiert, um stets einen Gesamtüberblick zu haben.
+* Alle Mitarbeiter*innen, die der Geschäftsführung nicht direkt unterstehen, haben mehrmals im Jahr Gruppenmeetings mit der Geschäftsführerung.
+* Die Geschäftsführerin hat eine »Open-Door-Policy« für alle Mitarbeiter*innen.
