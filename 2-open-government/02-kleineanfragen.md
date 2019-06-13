@@ -9,7 +9,7 @@ visual:
     alt: Eine Beschreibung des Textes
 problem:
 - text: Anfragen und Antworten aus den Parlamenten sind nicht zugänglich.
-cause:
+causes:
 - title: Mangelnde Transparenz,
 - title: unbenutzbare Werkzeuge und
   text: Suchfunktionalitäten der Parlamentsdokumentationssysteme erfassen nicht den vollständigen Text und teilweise ist keine Verlinkung auf Anfragen in diesen Systemen möglich
