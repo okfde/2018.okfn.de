@@ -40,11 +40,11 @@ Registergericht: Charlottenburg<br>
 Registernummer: VR 30468 B<br>
 Datum der Eintragung: 11.05.2011<br>
 
-**Gemeinnützigkeit - Angaben gemäß § 52 Abgabenordnung**<br>
-Datum des Feststellungsbescheids: 13.12.2018<br>
+**Gemeinnützigkeit – Angaben gemäß § 52 Abgabenordnung**<br>
+Datum des letzten Feststellungsbescheids für 2017: 13.12.2018<br>
 Ausstellendes Finanzamt: Finanzamt für Körperschaften I Berlin<br>
 Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe
 
-**ArbeitnehmerInnenvertretung**<br>
+**Arbeitnehmer*innenvertretung**<br>
 nicht vorhanden
 
