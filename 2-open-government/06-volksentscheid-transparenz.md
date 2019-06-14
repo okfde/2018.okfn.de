@@ -15,7 +15,7 @@ Mit der Kampagne „Volksentscheid Transparenz“ soll ein Gesetz für Berlin du
 
 Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wird bislang jedoch nicht erarbeitet. Das möchten wir ändern. Wir haben gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben. Im Rahmen eines Volksentscheids setzen wir bis 2021 den Gesetzentwurf für ganz Berlin durch.
 
-Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, geheime Verträge mit Unternehmen, Gutachten z.B. zur Wasserqualität oder Entwicklung von Grundstückspreisen sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss nach unserem Gesetz diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen.
+Das Transparenzgesetz verpflichtet Senat und Behörden, für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, geheime Verträge mit Unternehmen, Gutachten, z. B. zur Wasserqualität oder Entwicklung von Grundstückspreisen, sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss nach unserem Gesetz diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen.
 
 
 ### Leistungen 2018
@@ -26,21 +26,21 @@ Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit 
 
 ### Highlights
 
-* Mit Mehr Demokratie e.V. konnten wir eine Partnerorganisation mit langjähriger Erfahrung mit Volksentscheiden gewinnen. Gemeinsam entwickelten wir die Struktur zur Umsetzung des Volksentscheids bis 2021.
-* Ein erster Meilenstein für die Verbreitung des Vorhabens in der Öffentlichkeit war die Teilnahme am Rixdorfer Weihnachtsmarkt, wo mehrere Hundert Menschen auf das Projekt aufmerksam wurden.
+* Mit Mehr Demokratie e. V. konnten wir eine Partnerorganisation mit langjähriger Erfahrung zu Volksentscheiden gewinnen. Gemeinsam entwickelten wir die Planung zur Umsetzung des Volksentscheids bis 2021.
+* Ein erster Meilenstein für die Verbreitung des Vorhabens in der Öffentlichkeit war die Teilnahme am Rixdorfer Weihnachtsmarkt, wo mehrere hundert Menschen auf das Projekt aufmerksam wurden.
 
 
 ### Ausblick
 
-* Über das ganze Jahr hinweg werden neue Bündnispartner*innen und Freiwillige gesucht, die den Volksentscheid in verschiedenen Kapazitäten unterstützen.
+* Über das ganze Jahr hinweg werden neue Bündnispartner*innen und Freiwillige gesucht, die den Volksentscheid mit verschiedenen Kapazitäten unterstützen.
 * Im März 2019 wird der Gesetzentwurf der Senatsverwaltung zur Kostenschätzung vorgelegt.
 Die erste Phase der Unterschriftensammlung beginnt im Sommer 2019.
 
 
 ### Ressourcen
-* Finanzierung: keine
+* Finanzierung: keine (größtenteils Ehrenamt)
 * Beteiligte: Arne Semsrott, Lea Pfau, Leonard Wolf, Nadine Stammen
-* Projektpartner: Mehr Demokratie e.V.
+* Projektpartner: Mehr Demokratie e. V.
 * Beginn: Sommer 2018
 
 ### Website
