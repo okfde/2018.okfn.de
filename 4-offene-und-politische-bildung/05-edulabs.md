@@ -170,7 +170,7 @@ outlook:  >
 
         * Kooperation mit zivilgesellschaftlichen Initiativen und NGOs bei der OER-Erstellung
 
-    * Welche Vorhaben / konkrete Meilensteine sind geplant? 
+    * Welche Vorhaben / konkreten Meilensteine sind geplant? 
 
       * ein 2. Forum Open Education
 
