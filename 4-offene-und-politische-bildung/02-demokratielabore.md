@@ -166,7 +166,7 @@ In einer langsam überalternden Gesellschaft bleiben die Stimmen Jugendlicher vi
 
 Das Nutzen igitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswirklichkeit, die jedoch in außerschulischen Bildungseinrichtungen oft nicht hinreichend abgebildet wird. Pädagogischen Fachkräften fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. Ein rein konsumorientierter Zugang zu Technologie führt nicht zwangsläufig zu einer wachsenden sozialen Teilhabe oder zu einer Verkleinerung der sozialen Spaltung (Nicole Zillien (2013): Digitale Spaltung – Reproduktion sozialer Ungleichheiten im Internet).
 
-Die Demokratielabore fördern und schaffen...
+Die Demokratielabore fördern und schaffen ...
 * Angebote vor Ort in außerschulischen Jugendeinrichtungen
 * Wissenstransfer und Verankerung
   * in den Jugendeinrichtungen vor Ort
