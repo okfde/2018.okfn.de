@@ -160,12 +160,12 @@ Eine besonders wichtige gesellschaftliche Herausforderung ist der selbstbestimmt
 
 Öffentliche Fördermaßnahmen in Deutschland richten sich vor allem an Unternehmen und Forschungseinrichtungen. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese ihre Projekte nicht konzentriert verfolgen können, kommt ein enormes Innovationspotenzial nicht zum Tragen. Damit überlassen wir als Gesellschaft digitale Angebote den großen Konzernen und wirtschaftlichkeitsorientierter Forschung, fördern Symptome wie Vendor Lock-in und Datensammlungen. Dabei gibt es großen  Bedarf an Alternativen.
 
-Spezieller Förderfond: 
+Spezieller Förderfond: >
     * Vergabe von Fördermitteln an Einzelpersonen und kleine Teams
     * Open-Source-Entwicklung, damit andere an den Ergebnissen teilhaben können/diese weiterverwerten können
     * Agendasetting über die Themenschwerpunkte bei den Ausschreibungen und in der Policyarbeit
-    * Vernetzung von Akteur\*innen und Community-Building im Bereich Civic Tech, Data Literacy, Software-Infrastruktur und IT-Sicherheit
+    * Vernetzung von Akteur\*innen und Community-Building im Bereich Civic Tech, Data Literacy, Software-Infrastruktur und IT-Sicherheit 
     * Regierungsinstitutionen / Verwaltungen / Stiftungen: weitere Förderprogramme, die sich an den Bedürfnissen der Zielgruppe orientieren
     * Community: mehr Einzelpersonen nehmen die Arbeit an gesellschaftsrelevanten Inhalten und Projekten auf
     * Gesellschaft: Es gibt mehr Tools, Anwendungen und technische Infrastruktur, die Nutzer\*innen einen emanzipierten und aufgeklärten Umgang mit Daten, Information und Kommunikation ermöglichen
-    * Ziel: Digitale Anwendungen, Werkzeuge und Infrastrukturen, die  einen mündigen Umgang mit Technologie ermöglichen, die Privatsphäre des Einzelnen schützen und die Selbstbestimmung der Nutzer*\nnen stärken; digitale Innovationen, die der Gesellschaft dienen, kurz: Public Interest Tech
+    * Ziel: Digitale Anwendungen, Werkzeuge und Infrastrukturen, die  einen mündigen Umgang mit Technologie ermöglichen, die Privatsphäre des Einzelnen schützen und die Selbstbestimmung der Nutzer*\innen stärken; digitale Innovationen, die der Gesellschaft dienen, kurz: Public Interest Tech
