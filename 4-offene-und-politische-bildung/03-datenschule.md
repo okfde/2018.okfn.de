@@ -17,8 +17,8 @@ causes:
 - title: und wenig zielgerichtete Angebote
   text: Es gibt wenige Angebote zur Förderung von digitalen Kompetenzen bei Erwachsenen im gemeinnützigen Bereich, die die Diversität und Organisationsstrukturen berücksichtigen.
 - title: führen dazu, dass
-  claim: > 
-  soziale Innovation im gemeinnützigen Bereich nur schleppend stattfindet. Zivilgesellschaftliche Organisationen können die Potenziale der Digitalisierung nicht ausreichend nutzen und sind mit den neuen Veränderungsprozessen oft überfordert.
+  claim: >
+      soziale Innovation im gemeinnützigen Bereich nur schleppend stattfindet. Zivilgesellschaftliche Organisationen können die Potenziale der Digitalisierung nicht ausreichend nutzen und sind mit den neuen Veränderungsprozessen oft überfordert.
 
 solution:
 - title: gesellschaftlichen Wandel positiv gestalten
@@ -39,8 +39,9 @@ effect:
 - title: auf Verwaltungen und Behörden
   text: Verwaltungen stellen besser aufbereitet Informationen zu gesellschaftspolitischen Themen bereit und fördern damit Transparenz und Rechenschaftspflicht.
 - title: gesellschaftliche Wirkung
-  claim: Digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen. Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten zu sozialen Anliegen informierter und 
-faktenbasiert geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen und damit die politischen Partizipation insgesamt.
+  claim: >
+      Digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen. Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten zu sozialen Anliegen informierter und
+      faktenbasiert geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen und damit die politischen Partizipation insgesamt.
 resources: >
 
   **Laufzeit** <br>
@@ -70,7 +71,7 @@ achievements: >
 
     * Wir haben vier [Workshops](https://demokratielabore.de/angebot/schulung) mit Fachkräften aus der Jugendarbeit zu offenen Daten, Storytelling, Citizen Science und Analyse von Twitterdebatten durchgeführt. Die [Lernmaterialien sowie die Train-the-Trainer-Konzepte](https://demokratielabore.de/publikationen) haben wir unter freier Lizenz als OER publiziert.
 
-   * Während unserer zweitägigen [Data Expedition](https://dataexpedition.demokratielabore.de/) zum Thema Demokratie und Jugendbeteiligung haben wir gemeinsam mit Fachkräften aus der Jugendarbeit, Entwickler\*innen und Designer\*innen digitale Prototypen und Projektideen entwickelt, die konkrete Herausforderungen der Jugendarbeit forcieren und Lösungen bieten.
+    * Während unserer zweitägigen [Data Expedition](https://dataexpedition.demokratielabore.de/) zum Thema Demokratie und Jugendbeteiligung haben wir gemeinsam mit Fachkräften aus der Jugendarbeit, Entwickler\*innen und Designer\*innen digitale Prototypen und Projektideen entwickelt, die konkrete Herausforderungen der Jugendarbeit forcieren und Lösungen bieten.
 
     * Wir haben einen digital-analogen [Datenspaziergang](https://spaziergang.demokratielabore.de/intro) konzipiert, der Interessierten mit Hilfe einer Web-App zeigt, wie die digitale Welt mit realen Orten verwoben ist. Der erste Datenspaziergang führt durch Berlin Kreuzberg. Ein Creator-Tool ermöglicht es, eigene Spaziergänge online einzutragen.
 
