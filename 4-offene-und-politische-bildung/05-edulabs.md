@@ -47,7 +47,7 @@ effect:
     
     
     Dadurch wächst auch die Akzeptanz gegenüber digitalen Tools in den Schulen. 
-- title: auf Multiplikator\*innen
+- title: auf Multiplikator*innen
   text: >
     Aktive Bildungsinovator*innen erhalten eine größere Aufmerksamkeit.
     
@@ -88,7 +88,7 @@ achievements: >
 
 
 outputs: >
-    * >1900 Twitter-Follower
+    * > 1900 Twitter-Follower
     
     * 40 Lab-Treffen
     
