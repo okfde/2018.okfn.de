@@ -153,7 +153,7 @@ evaluation:  >
     Die Zusammenarbeit mit externen Partner\*innen wird nach jedem Workshop mittels Feedbackgesprächen evaluiert. In Strategietreffen zum Jahresbeginn wurden Meilensteine geplant und in regelmäßigen Abständen überprüft. Externe Expert\*innen wurden zur Schulung der Mitarbeiter\*innen hinzugezogen.
 
 outlook:  >
-    Es besteht die Gefahr, dass gestartete Digital-AGs und das Durchführen von Workshops in Jugendeinrichtungen durch Personalwechsel und personelle Ressourcen nicht nachhaltig weitergeführt werden können. Dem wird versucht, durch das Aufbereiten aller notwendigen Inhalte und Konzepte und durch das Bereitstellen der Lernmaterialien unter freier Lizenz entgegenzuwirken. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
+    Es besteht die Gefahr, dass gestartete Digital-AGs und das Durchführen von Workshops in Jugendeinrichtungen durch Personalwechsel und personelle Ressourcen nicht nachhaltig weitergeführt werden können. 
 
 
 
