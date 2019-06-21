@@ -121,7 +121,7 @@ outook: >
 
     * Risiken
 
-        * Um digitale Kompetenzen in den Organisationen nachhaltig zu stärken, bedarf es besseren Strukturen zur Förderung der praktischen Auseinandersetzung mit der Digitalisierung. Als gemeinnützige Initiative werden wir daher auch in Zukunft kostenlose Workshops und Lernformate anbieten, um die Beteiligung vieler Initiativen mit knappen Ressourcen zu ermöglichen.
+        * Um digitale Kompetenzen in den Organisationen nachhaltig zu stärken, bedarf es besseren Strukturen zur Förderung der praktischen Auseinandersetzung mit der Digitalisierung. Als gemeinnützige Initiative werden wir daher auch in Zukunft kostenlose Workshops und Lernformate anbieten, um die Beteiligung vieler Initiativen mit knappen Ressourcen zu ermöglichen. Dem wird versucht, durch das Aufbereiten aller notwendigen Inhalte und Konzepte und durch das Bereitstellen der Lernmaterialien unter freier Lizenz entgegenzuwirken. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
 
 
 
