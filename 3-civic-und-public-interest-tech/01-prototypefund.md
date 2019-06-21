@@ -160,7 +160,7 @@ Eine besonders wichtige gesellschaftliche Herausforderung ist der selbstbestimmt
 
 Öffentliche Fördermaßnahmen in Deutschland richten sich vor allem an Unternehmen und Forschungseinrichtungen. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese ihre Projekte nicht konzentriert verfolgen können, kommt ein enormes Innovationspotenzial nicht zum Tragen. Damit überlassen wir als Gesellschaft digitale Angebote den großen Konzernen und wirtschaftlichkeitsorientierter Forschung, fördern Symptome wie Vendor Lock-in und Datensammlungen. Dabei gibt es großen  Bedarf an Alternativen.
 
-Spezieller Förderfond:
+Spezieller Förderfond: >
     * Vergabe von Fördermitteln an Einzelpersonen und kleine Teams
     
     * Open-Source-Entwicklung, damit andere an den Ergebnissen teilhaben können/diese weiterverwerten können
