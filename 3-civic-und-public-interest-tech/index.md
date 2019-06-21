@@ -37,4 +37,4 @@ Zudem haben wir einen wichtigen zivilgesellschaftlichen Beitrag zur öffentliche
 
 <br>
 
-# Folgend werden die Projekte der OKF DE vorgestellt, die dem Bereich Civic und Public Interest Tech zuzuordnen sind.
+# Im Folgenden werden die Projekte der OKF DE vorgestellt, die dem Bereich Civic und Public Interest Tech zuzuordnen sind.
