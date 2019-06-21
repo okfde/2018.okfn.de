@@ -1,7 +1,7 @@
 ---
 layout: page
 chapter: 2.02
-title: kleine Anfragen
+title: kleineAnfragen
 website: https://kleineanfragen.de/
 permalink: /open-government/kleineanfragen/
 visual:
@@ -39,7 +39,7 @@ effect:
 
 
     NGOs, Bürgerinitativen und andere Interessens&shy;vereinigungen erfahren schneller, wenn ihre Themen im Parlament angefragt werden.
-- title: auf Journalist*innen / Medien
+- title: auf Journalist\*innen / Medien
   text: >
     Der Einstieg in das Thema aus journalistischer Sicht wird vereinfacht
 
@@ -115,9 +115,9 @@ outlook: >
 ---
 
 
-# Datenbank der kleinen Anfragen und Antworten aus den Parlamenten
+# Datenbank der Kleinen Anfragen und Antworten aus den Parlamenten
 
-In den Landtagen und im Bundestag haben Abgeordnete ein parlamentarisches Fragerecht. Die Antworten darauf sind aber wenig bekannt, obwohl sie viele interessante Details enthalten. Die Dokumentenmanagementsysteme der Parlamente (hier: Parlamentsdokumentationssysteme) sind nicht nutzer*innenfreundlich, sodass selbst Verwaltungsmitarbeitende diese ungern benutzen. Bei manchen Parlamenten lassen sich Dokumente nicht verlinken, ein Teilen in Sozialen Netzwerken ist also nicht möglich. Man muss jedes Parlamentssystem einzeln durchsuchen; eine Suche über alle Parlamente funktioniert nur auf Stichwortbasis.
+In den Landtagen und im Bundestag haben Abgeordnete ein parlamentarisches Fragerecht. Die Antworten darauf sind aber wenig bekannt, obwohl sie viele interessante Details enthalten. Die Dokumentenmanagementsysteme der Parlamente (hier: Parlamentsdokumentationssysteme) sind nicht nutzer\*innenfreundlich, sodass selbst Verwaltungsmitarbeitende diese ungern benutzen. Bei manchen Parlamenten lassen sich Dokumente nicht verlinken, ein Teilen in Sozialen Netzwerken ist also nicht möglich. Man muss jedes Parlamentssystem einzeln durchsuchen; eine Suche über alle Parlamente funktioniert nur auf Stichwortbasis.
 
 Durch den besseren Zugang zu den Anfragen und Antworten mit Volltextsuche aus allen Parlamenten auf einer Seite sowie eine Benachrichtungsfunktion bei neuen Anfragen oder Antworten, die auf einen Suchbegriff zutreffen, nutzen Verwaltungsmitarbeitende der Parlamente kleineAnfragen.de öfter als ihre eigenen Tools. Journalist\*innen und interessierte Bürger\*innen finden interessante Anfragen und Antworten, Anfragen tauchen in Suchmaschinen öfter auf und Parlamentsdokumentationssysteme und Metadaten in den Dokumenten werden verbessert.
 
