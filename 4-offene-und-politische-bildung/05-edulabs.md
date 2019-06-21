@@ -172,7 +172,7 @@ outlook:  >
 
     * Welche Vorhaben / konkrete Meilensteine sind geplant? 
 
-      * 2. Forum Open Education
+      * ein 2. Forum Open Education
 
       * Aufbau von selbstorganisierten Strukturen in der Community
 
