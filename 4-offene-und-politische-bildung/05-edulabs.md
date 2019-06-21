@@ -47,7 +47,7 @@ effect:
     
     
     Dadurch wächst auch die Akzeptanz gegenüber digitalen Tools in den Schulen. 
-- title: auf Multiplikator*\innen
+- title: auf Multiplikator\*innen
   text: >
     Aktive Bildungsinovator*innen erhalten eine größere Aufmerksamkeit.
     
