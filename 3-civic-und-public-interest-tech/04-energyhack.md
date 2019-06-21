@@ -13,14 +13,14 @@ Energyhack ist ein Hackathon rund um offene Energiedaten.
 
 ### Hintergrund
 
-Unser Energieangebot und die Wege der Erzeugung sind vielfältig, doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen Geräten der Erzeuger und Verbraucher ausgetauscht werden? Zu diesen Fragen luden wir Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebranche ein, 24h Ideen zu entwickeln, Hardware Prototypen zu entwerfen oder neue Apps zu programmieren.
+Unser Energieangebot und die Wege der Erzeugung sind vielfältig, doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen den Geräten der Erzeuger und denen der Verbraucher\*innen ausgetauscht werden? Zu diesen Fragen luden wir Entwickler\*innen, Designer\*innen, Forscher\*innen und innovative Vordenker\*innen der Energiebranche ein, 24 Stunden lang Ideen zu entwickeln, Hardware-Prototypen zu entwerfen oder neue Apps zu programmieren.
 
 ### Leistungen 2018
 
-* Internet of Bears - Open Source IoT-Lernplattform für Schülerinnen und Schüler auf Basis des Strombären. Team: CMS crew & OK Lab Potsdam (Benni, Forian, Bernd, Martin
-* Simspeicher - Versucht, mit einem Speicher Euren Stromverbrauch zu optimieren! Malte Viefhues und Mario Pilz
-* Wer oder Was bin ich? Ein Datenratenspiel von Johannes Filter und Andreas
-Die große Frage, aus welchem \*werk stammen die Daten?
+* Internet of Bears: eine Open Source IoT-Lernplattform für Schüler\*innen auf Basis des Projekts Strombären. Team: Chaos macht Schule & OK Lab Potsdam (Benni, Forian, Bernd, Martin)
+* Simspeicher: stellt die Aufgabe: „Versucht, mit einem Speicher Euren Stromverbrauch zu optimieren!“ Team: Malte Viefhues und Mario Pilz
+* Wer oder Was bin ich?: ein Datenratenspiel mit der großen Frage: Aus welchem \*werk stammen die Daten? Team: Johannes Filter und Andreas
+
 
 
 ### Ausblick
