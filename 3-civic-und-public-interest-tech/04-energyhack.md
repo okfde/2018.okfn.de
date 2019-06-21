@@ -25,7 +25,7 @@ Unser Energieangebot und die Wege der Erzeugung sind vielfältig, doch wie wird 
 
 ### Ausblick
 
-Im Rahmen von WindNode wollen wir noch mindestens ein weiteres Community-Event rund um offene Energiedaten in den nächsten Jahren durchführen. Um interessante Projekte zwischen den Veranstaltungen von der Idee auf dem Hackathon zum fertigen Prototypen und funktionierenden Demonstrator entwickeln zu können, hat Stromnetz Berlin im Rahmen von WindNODE ein Budget von 30.000 Euro eingeplant. Damit wollen wir den Hackday-Effekt abschwächen und fördern das langfristig tolle offene Softwareprojekte umgesetzt werden.
+Im Rahmen von WindNode wollen wir noch mindestens ein weiteres Community-Event rund um offene Energiedaten in den nächsten Jahren durchführen. Um interessante Projekte zwischen den Veranstaltungen von der Idee auf dem Hackathon zum fertigen Prototypen und funktionierenden Demonstrator entwickeln zu können, hat Stromnetz Berlin im Rahmen von WindNODE ein Budget von 30.000 Euro eingeplant. Damit wollen wir den Hackday-Effekt abschwächen und fördern, dass tolle offene Softwareprojekte langfristig umgesetzt werden können.
 
 ### Ressourcen
 
