@@ -17,7 +17,9 @@ causes:
 - title: und wenig zielgerichtete Angebote
   text: Es gibt wenige Angebote zur Förderung von digitalen Kompetenzen bei Erwachsenen im gemeinnützigen Bereich, die die Diversität und Organisationsstrukturen berücksichtigen.
 - title: führen dazu, dass
-  claim: soziale Innovation im gemeinnützigen Bereich nur schleppend stattfindet. Zivilgesellschaftliche Organisationen können die Potenziale der Digitalisierung nicht ausreichend nutzen und sind mit den neuen Veränderungsprozessen oft überfordert.
+  claim: > 
+  soziale Innovation im gemeinnützigen Bereich nur schleppend stattfindet. Zivilgesellschaftliche Organisationen können die Potenziale der Digitalisierung nicht ausreichend nutzen und sind mit den neuen Veränderungsprozessen oft überfordert.
+
 solution:
 - title: gesellschaftlichen Wandel positiv gestalten
   text: Wir kooperieren mit gemeinnützigen Akteuren und entwickeln digitale Lösungsansätze und Tools für gesellschaftliche Herausforderungen. Damit möchten wir Debatten anstoßen und neue Narrative für bestehende Herausforderungen schaffen.
@@ -39,7 +41,6 @@ effect:
 - title: gesellschaftliche Wirkung
   claim: Digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen. Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten zu sozialen Anliegen informierter und 
 faktenbasiert geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen und damit die politischen Partizipation insgesamt.
-
 resources: >
 
   **Laufzeit** <br>
@@ -89,7 +90,7 @@ outputs: >
 
     * ca. 5700 Besucher\*innen auf Webseite, 145 (450 vor DSGVO) Newsletterabonnent\*innen
 
-outcome: >\*
+outcome: >
   * Gemeinnützige Organisationen lernen, die Qualität von (ihren) Daten zu bewerten und zu verbessern. Sie nutzen digitale Methoden, Tools und Informationen zielgerichtet im Arbeitsalltag und beteiligen sich als Impulsgeber\*innen an öffentlichen, gesellschaftspolitischen Debatten.
 
   * Etablieren und Stärken einer Community von gemeinnützigen Organisationen und Civic-Tech-Aktiven in Deutschland.
@@ -101,7 +102,7 @@ impact: >
 
   * Die Gesellschaft ist besser informiert, kann sich an politischen Prozessen und Entscheidungen besser beteiligen. Dies stärkt die Demokratie.
 
-evaluation:  >
+evaluation: >
   Evaluation und Lernerfahrungen
 
     * Das messen der Projektwirkung und die Evaluation der Aktivitäten erfolgen nach zuvor festgelegten Qualitätsindikatoren.
@@ -126,6 +127,7 @@ outook: >
 
 
 ---
+
 
 # Vermittlung von Daten-Kompetenzen
 
