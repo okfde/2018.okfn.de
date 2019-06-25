@@ -76,16 +76,26 @@ gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
 <br><br>
 § 9.2 Der Vorstand wird von der Mitgliederversammlung gewählt.
 
-* Andreas Pawelke, Vorsitzender<br>
-* Lucy Chambers, Stellvertretende Vorsitzende<br>
-* Kristina Klein, Kassenwartin<br>
-* Daniel Dietrich, Beisitzer<br>
-* Jana Wichmann, Beisitzerin seit 02.06.2018
-<br>
-* Claudia Schwegmann, Beisitzerin bis 21.11.2018
-* Sören Auer, Beisitzer bis 02.06.2018
-* Friedrich Lindenberg, Beisitzer bis 02.06.2018
-* Christian Heise, Beisitzer bis 02.06.2018
+<div class="team">
+  {% for person in site.data.board %}
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">{{ person.name }}</strong>
+      {% if person.img  %}
+      {% assign img_path =  person.img %}
+      {% else  %}
+      {% assign img_path = person.name | downcase | split: ' ' | join: '' %}
+      {% endif %}</p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/{{ img_path }}.jpg"
+           alt="Bild von {{ person.name }}">
+      <em>{{ person.position }}</em><br>
+      {{ person.text }}</p>
+  </div>
+  {% endfor %}
+</div>
+
 
 <br>
 
