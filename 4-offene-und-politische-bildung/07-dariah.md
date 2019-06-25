@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 4.06
+chapter: 4.07
 title: DARIAH
 website: https://de.dariah.eu/
 permalink: /offene-und-politische-bildung/dariah/

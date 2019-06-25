@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 4.05
+chapter: 4.03
 title: edulabs
 website: https://edulabs.de
 permalink: /offene-und-politische-bildung/edulabs/

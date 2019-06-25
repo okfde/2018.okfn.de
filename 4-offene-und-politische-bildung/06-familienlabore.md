@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 4.07
+chapter: 4.06
 title: Familienlabore
 website: https://familienlabore.de/
 permalink: /civic-und-public-interest-tech/familienlabore/

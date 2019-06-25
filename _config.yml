@@ -1,14 +1,14 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2018.okfn.de" # the base hostname & protocol for your site, e.g. http://example.com
 
-title: Tätigkeitsbericht der Open Knowledge Foundation 2018
+title: Tätigkeitsbericht des Open Knowledge Foundation Deutschland e.V. 2018
 description: > # this means to ignore newlines until "show_exerpts:"
   Unser Tätigkeitsbericht enthält detaillierte Angaben zu den Entwicklungen unserer Organisation und unserer Projekte. Seit 2017 orientiert sich unser Jahresbericht am Social Reporting Standard.
 main_image: assets/images/intro/intro.png
 show_excerpts: false # set to true to show excerpts on the homepage
 
 license:
-  holder: Open Knowledge Foundation Deutschland
+  holder: Open Knowledge Foundation Deutschland e.V.
   license: License CC BY-SA 3.0
 mainpage:
   url: https://okfn.de
