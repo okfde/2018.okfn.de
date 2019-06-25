@@ -14,17 +14,17 @@ OpenSCHUFA war eine Kampagne, die zu einer groß angelegten Datenspende aufgeruf
 
 ### Hintergrund
 
-Ob Kredite, Handyverträge oder Wohnungsbewerbungen - bei wichtigen Verbraucherfragen spielt der Schufa-Score eine zentrale Rolle. Wer zu wenige Punkte hat, geht oft leer aus. Das Scoring-Verfahren des Privatunternehmens Schufa ist allerdings höchst intransparent. Als Geschäftsgeheimnis ist es der Öffentlichkeit nicht zugänglich. Das wollen wir mit dem Projekt OpenSCHUFA ändern.
+Ob Kredite, Handyverträge oder Wohnungsbewerbungen – bei wichtigen Verbraucherfragen spielt der Schufa-Score eine zentrale Rolle. Wer zu wenige Punkte hat, geht oft leer aus. Das Scoring-Verfahren des Privatunternehmens Schufa ist allerdings höchst intransparent. Als Geschäftsgeheimnis ist es der Öffentlichkeit nicht zugänglich. Das wollen wir mit dem Projekt OpenSCHUFA ändern.
 
 ### Leistungen 2018
 
 * Crowdfunding für das Datentool mit 43.000 Euro
 * 100.000 Datenanfragen an Kreditauskunftsteien, über 30.000 an die Schufa
-* Deutschlandweite Aufmerksamkeit, zweimal bundesweit in den Hauptabendnachrichten, insbesonders Analysen von Bayrischen Rundfunk und SpiegelOnline
+* deutschlandweite Aufmerksamkeit, zweimal bundesweit in den Hauptabendnachrichten, insbesonders Analysen vom Bayrischen Rundfunk und SpiegelOnline
 
 ### Highlights
 
-* [Neue Erkenntnisse](https://openschufa.de/#ergebnisse) aufgrund der Datenauswertugn der crowdsourced 3.000 Datenspenden
+* [Neue Erkenntnisse](https://openschufa.de/#ergebnisse) aufgrund der Datenauswertung der crowdsourced 3.000 Datenspenden
 
 ### Ausblick
 

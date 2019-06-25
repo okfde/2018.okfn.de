@@ -11,7 +11,7 @@ visual:
 
 
 
-DARIAH-DE unterstützt die mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kultur­­wissen­­schaftler­­Innen in Forschung und Lehre.
+DARIAH-DE unterstützt die mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kulturwissenschaftler\*innen in Forschung und Lehre.
 
 
 
@@ -21,9 +21,9 @@ DARIAH-DE (Digital Research Infrastructure for the Arts and Humanities) ist eine
 * Lehre
 * Forschung
 * Forschungsdaten
-* Technische Komponenten.
+* technische Komponenten
 
-Als Partner in DARIAH-EU trägt DARIAH-DE ferner dazu bei, europaweit state-of-the-art Aktivitäten der Digitalen Geisteswissenschaften zu bündeln und zu vernetzen.
+Als Partner in DARIAH-EU trägt DARIAH-DE ferner dazu bei, europaweit State-of-the-art-Aktivitäten der digitalen Geisteswissenschaften zu bündeln und zu vernetzen.
 
 
 ### Leistungen 2018
@@ -31,14 +31,14 @@ Als Partner in DARIAH-EU trägt DARIAH-DE ferner dazu bei, europaweit state-of-t
 * Weiterentwicklung der Disseminationsstrategie, Beratung und Unterstützung zur Öffentlichkeitsarbeit
 * Organisation, Betreuung des Begutachtungs- und Auswahlprozesse des jährlich verliehenen DH-Awards und der DH-Reisestipendien
 * Konzeption und Durchführung von zwei Veranstaltungen zu Open Science und Open Data gemeinsam mit anderen Organisationen
-* Inhaltliche, redaktionelle und konzeptionelle Moderation des DARIAH-DE-Portals und der Social Media Kanäle in Zusammenarbeit mit dem DARIAH-DE Redaktionsteam
+* inhaltliche, redaktionelle und konzeptionelle Moderation des DARIAH-DE-Portals und der Social-Media-Kanäle in Zusammenarbeit mit dem DARIAH-DE-Redaktionsteam
 
 
 
 
 ### Highlights
 
-* Gestaltung des DARIAH DH-Awards 2018
+* Gestaltung des DARIAH-DH-Awards 2018
 * Weiterentwicklung der Disseminationsstrategie
 * Beratung zum Website-Relaunch
 

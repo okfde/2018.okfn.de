@@ -10,47 +10,47 @@ visual:
 problem:
 - text: Jugendliche Positionen werden in einer überalternden Gesellschaft nicht ausreichend wahrgenommen, was zu Politikverdrossenheit führt.
 causes:
-- title: Wenig Angebote,
-  text: Außerschulische Jugendeinrichtungen haben oftmals wenige, teilweise gar keine Angebote mit digital-politischem Schwerpunkt in ihrem Programm
+- title: Wenige Angebote,
+  text: Außerschulische Jugendeinrichtungen haben oftmals wenige, teilweise gar keine Angebote mit digital-politischem Schwerpunkt in ihrem Programm.
 - title: fehlende Kompetenzen
   text: Pädagogischen Fachkräften in den Jugendeinrichtungen vor Ort fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung.
 - title: und wenig Sichtbarkeit
-  text: Ein konsumorientiertes Nutzungsverhalten digitaler Werkzeuger steht einem kreativ-schaffenden gegenüber und verhindert die eigene Wahrnehmung im digitalen wie analogen Raum durch andere
+  text: Ein konsumorientiertes Nutzungsverhalten digitaler Werkzeuger steht einem kreativ-schaffenden gegenüber und verhindert die eigene Wahrnehmung im digitalen wie analogen Raum durch andere.
 - title: führen dazu, dass
   claim: >
-    der wachsende Zugang zu Technologie nicht in einer wachsenden sozialen Teilhabe mündet.
+    der wachsende Zugang zu Technologie nicht in eine wachsende soziale Teilhabe mündet.
 
 solution:
 - title: Angebote schaffen
   text: Workshopangebote zu digitalen Tools und gesellschaftlichem Miteinander in Jugendeinrichtungen schaffen und zu eigenen Projekten anregen
 - title: Kompetenzen aufbauen
-  text: Pädagogische Fachkräfte und Mitarbeiter\*innen in Management und Verwaltung zum Einsatz und zur Kontextualisierung digitaler Werkzeuge in ihrer täglichen Arbeit qualifizieren
+  text: pädagogische Fachkräfte und Mitarbeiter\*innen in Management und Verwaltung zum Einsatz und zur Kontextualisierung digitaler Werkzeuge in ihrer täglichen Arbeit qualifizieren
 - title: Vernetzung fördern
   text: Räume für Jugendliche und Fachkräfte aufbauen, die zum regelmäßig Austausch einalden und durch eine Unterstützungsstruktur getragen werden
 effect:
-- title: Auf Jugendliche
+- title: auf Jugendliche
   text: >
-    Mehr Sichtbarkeit im unmittelbaren Umfeld
+    mehr Sichtbarkeit im unmittelbaren Umfeld
 
 
     Selbstwirksamkeitserfahrungen im Umfeld von Digitalität und Demokratie
-- title: Auf pädagogische Fachkräfte
+- title: auf pädagogische Fachkräfte
   text: >
-    Zusätzliche Qualifizierung im Umgang mit digitalen Werkzeugen in der Jugendarbeit
+    zusätzliche Qualifizierung im Umgang mit digitalen Werkzeugen in der Jugendarbeit
 
-    Ausbau des Netzwerks in die Digitalcommunity
-- title: Auf Fachkräfte in Management und Verwaltung
+    Ausbau des Netzwerks in die Digitalcommunity hinein
+- title: auf Fachkräfte in Management und Verwaltung
   text: >
-    Nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
+    nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
 
-    Nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
-- title: Gesellschaftliche Wirkung
+    nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
+- title: gesellschaftliche Wirkung
   claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
 resources: >
 
   **Laufzeit** <br>
 
-  Das Projekt begann im Juni 2017 ​und läuft bis ​April 2019. Es handelt sich damit für 2018 um eine ganzjährige Laufzeit.
+  Das Projekt begann im Juni 2017 und läuft bis April 2019. Es handelt sich damit für 2018 um eine ganzjährige Laufzeit.
   <br><br>
   ![ganzjährige Laufzeit](/assets/images/laufzeit/demokratielabore.svg "Laufzeit Demokratielabore")
   <br><br><br>
@@ -67,14 +67,14 @@ resources: >
 
   **Personal** <br>
 
-  1 Projektleitung | 1 Modulleitung | 1 Projektkoordination | 7 Projekt- und Juniorprojektmanagement | 1 Tech Lead | 1 Design Lead | 1 Modulmanagement | 2 Softwareentwicklerinnen | 2 studentische Mitarbeiterinnen | 1 Bundesfreiwilligendienstleistender | 1 Supervision & Intervision<br><br>
+  1 Projektleitung | 1 Modulleitung | 1 Projektkoordination | 7 Projekt- und Juniorprojektmanager\*innen | 1 Tech Lead | 1 Design Lead | 1 Modulmanagement | 2 Softwareentwicklerinnen | 2 studentische Mitarbeiter\*innen | 1 Bundesfreiwilligendienstleistende\*r | 1 Supervision & Intervision<br><br>
 
   **Partner** <br>
-  mediale pfade e.V. | youthpolicy lab | creative gaming e.V. | stuhlkreis_revolte
+  mediale pfade e. V. | youthpolicy lab | creative gaming e. V. | stuhlkreis_revolte
 
 achievements: >
 
-    Für Jugendliche
+    für Jugendliche
 
       * Workshops und Digital-AGs für Jugendliche
 
@@ -83,9 +83,9 @@ achievements: >
       * Lernplattform mit inspirierenden Projektideen und Tutorials
 
 
-    Für erwachsene Fachkräfte/Multiplikator\*innen
+    für erwachsene Fachkräfte/Multiplikator\*innen
 
-      * Train-the-Trainer Schulungen zu den Workshops
+      * Train-the-Trainer-Schulungen zu den entwickelten Workshops
 
       * 4 Fachkräfteschulungen (Themen: Citizen Science, Digitales Storytelling, Offene Daten in der Jugendarbeit, Twitterdebatten analysieren)
 
@@ -95,7 +95,7 @@ achievements: >
 
     Sonstige
 
-      * Netzwerktreffen für Fachkräfte der Digital-AGs
+      * Netzwerktreffen für Fachkräfte der neu gegründeten Digital-AGs
 
 outputs: >
     * Konzeption von 3 weiteren Workshopformaten
@@ -121,27 +121,27 @@ outputs: >
 outcome: >
     Jugendliche
 
-      * setzen eigene digitale Projekte um und testen sie
+      * setzen eigene digitale Projekte um und testen sie,
 
-      * lernen einen kreativen Umgang mit konkreten digitalen Tools und Technik im Internet
+      * lernen einen kreativen Umgang mit konkreten digitalen Tools und Technik im Internet,
 
-      * erkennen verschiedene Meinungen an und tauschen sich aus
+      * erkennen verschiedene Meinungen an und tauschen sich aus,
 
-      * verstetigen ihre kritische Auseinandersetzung mit Themenfeldern (Peer-to-Peer!)
+      * verstetigen ihre kritische Auseinandersetzung mit Themenfeldern (Peer-to-Peer!).
 
     Päd. Fachkräfte (vor Ort, direkte Arbeit mit ZG Jugendliche)
 
-      * setzen sich selbstgesteuert mit digitalen Angeboten auseinander
+      * setzen sich selbstgesteuert mit digitalen Angeboten auseinander,
 
-      * geben Raum für digitale Angebote der Jugendlichen
+      * geben Raum für digitale Angebote der Jugendlichen,
 
-      * eigene lokale Angebote werden geschaffen und/oder aufgewertet
+      * schaffen lokale Angebote geschaffen und/oder werten sie auf.
 
     Fachkräfte aus Management und Verwaltung
 
-      * erkennen den Wert von Daten und stellen diese selbst bereit
+      * erkennen den Wert von Daten und stellen diese selbst bereit,
 
-      * vertiefen digitale Fähigkeiten und wenden sie an
+      * vertiefen digitale Fähigkeiten und wenden sie an.
 
 
 
@@ -150,10 +150,10 @@ impact:  >
 
 
 evaluation:  >
-    Die Zusammenarbeit mit externen Partner*innen wird nach jedem Workshops mittels Feedbackgesprächen evaluiert. In Strategietreffen zum Jahresbeginn wurden Meilensteine geplant und in regelmäßigen Abständen überprüft. Externe Expert\*innen wurden zur Schulung der Mitarbeiter\*innen hinzugezogen.
+    Die Zusammenarbeit mit externen Partner\*innen wird nach jedem Workshop mittels Feedbackgesprächen evaluiert. In Strategietreffen zum Jahresbeginn wurden Meilensteine geplant und in regelmäßigen Abständen überprüft. Externe Expert\*innen wurden zur Schulung der Mitarbeiter\*innen hinzugezogen.
 
 outlook:  >
-    Es besteht die Gefahr, dass gestartete Digital-AGs und das Durchführen von Workshops in Jugendeinrichtungen durch Personalwechsel und personelle Ressourcen nicht nachhaltig weitergeführt werden können. Dem wird versucht, durch das Aufbereiten aller notwendigen Inhalte und Konzepte und durch das Bereitstellen der Lernmaterialien unter freier Lizenz entgegenzuwirken. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
+    Es besteht die Gefahr, dass gestartete Digital-AGs und das Durchführen von Workshops in Jugendeinrichtungen durch Personalwechsel und personelle Ressourcen nicht nachhaltig weitergeführt werden können. 
 
 
 
@@ -162,18 +162,18 @@ outlook:  >
 
 # Mit digitalen Tools die Gesellschaft von morgen gestalten
 
-In einer langsam überalternden Gesellschaft bleiben die Stimmen Jugendlicher viel zu oft ungehört. Das Interesse Jugendlicher an Politik ist in den letzten Jahren zwar gestiegen, dennoch ist die Politikverdrossenheit hoch ([Shell Jugendstudie 2015](https://www.shell.de/ueber-uns/die-shell-jugendstudie.html)). Es fehlt an geeigneten Möglichkeiten der demokratischen Mitsprache, die mit den Lebenswelten Jugendlicher vereinbar sind und über die sie Selbstwirksamkeitserfahrungen sammeln können.
+In einer langsam überalternden Gesellschaft bleiben die Stimmen Jugendlicher viel zu oft ungehört. Das Interesse Jugendlicher an Politik ist in den letzten Jahren zwar gestiegen, dennoch ist die Politikverdrossenheit hoch ([Shell-Jugendstudie 2015](https://www.shell.de/ueber-uns/die-shell-jugendstudie.html)). Es fehlt an geeigneten Möglichkeiten der demokratischen Mitsprache, die mit den Lebenswelten Jugendlicher vereinbar sind und über die sie Selbstwirksamkeitserfahrungen sammeln können.
 
-Die Nutzung digitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswirklichkeit, die jedoch in außerschulischen Bildungseinrichtungen oft nicht hinreichend abgebildet wird. Pädagogischen Fachkräften fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. Ein rein konsumorientierter Zugang zu Technologie führt nicht zwangsläufig zu einer wachsenden sozialen Teilhabe oder zu einer Verkleinerung der sozialen Spaltung (Nicole Zillien (2013): Digitale Spaltung – Reproduktion sozialer Ungleichheiten im Internet).
+Das Nutzen igitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswirklichkeit, die jedoch in außerschulischen Bildungseinrichtungen oft nicht hinreichend abgebildet wird. Pädagogischen Fachkräften fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. Ein rein konsumorientierter Zugang zu Technologie führt nicht zwangsläufig zu einer wachsenden sozialen Teilhabe oder zu einer Verkleinerung der sozialen Spaltung (Nicole Zillien (2013): Digitale Spaltung – Reproduktion sozialer Ungleichheiten im Internet).
 
-Die Demokratielabore fördern und schaffen...
-* ...Angebote vor Ort in außerschulischen Jugendeinrichtungen
-* ...Wissenstransfer und Verankerung
+Die Demokratielabore fördern und schaffen ...
+* Angebote vor Ort in außerschulischen Jugendeinrichtungen
+* Wissenstransfer und Verankerung
   * in den Jugendeinrichtungen vor Ort
   * im Management und der Verwaltung der Trägerorganisationen
-* ...ein Bewusstsein für Digitalität als Werkzeug zur Gestaltung von Gesellschaft
-* ...niedrigschwellige Projektangebote- und Ideen zum Ausprobieren digitaler Werkzeuge.
+* ein Bewusstsein für Digitalität als Werkzeug zur Gestaltung von Gesellschaft
+* niedrigschwellige Projektangebote und -ideen zum Ausprobieren digitaler Werkzeuge.
 
 Jugendliche erhalten dadurch mehr Sichtbarkeit im unmittelbaren Umfeld und sammeln Selbstwirksamkeitserfahrungen im Umgang mit Digitalität und Demokratie. Pädagogische Fachkräfte lernen neue (digitale) Ansätze der Jugendarbeit kennen und erweitern ihr Netzwerk in die netzpolitische Community hinein. Fachkräfte im Management und der Verwaltung nutzen digitale Informationen und Tools für die Planung und Umsetzung ihrer Projekte und Anliegen.
 
-Durch die Erfahrung von Selbstwirksamkeit im Umgang mit digitalen Werkzeugen und Technologien in ihrer Lebenswirklichkeit werden Jugendliche zu maßgeblichen demokratischen Akteuren und gestalten ihre Gesellschaft aktiv mit.
+Durch die Erfahrung von Selbstwirksamkeit im Umgang mit digitalen Werkzeugen und Technologien in ihrer Lebenswirklichkeit werden Jugendliche zu maßgeblichen demokratischen Akteur\*inneen und gestalten ihre Gesellschaft aktiv mit.
