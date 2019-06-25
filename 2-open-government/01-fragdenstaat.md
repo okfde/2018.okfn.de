@@ -66,7 +66,6 @@ resources: >
 
   **Finanzierung** <br>
 
-  Das Projekt ist zu 100% finanziert.
   Die Finanzierung erfolgt durch Einzelspenden und Förderungen.<br><br>
 
   ![Klagekosten: 28.896,54 €, Materialkosten 761,30 €](/assets/images/finanzierung/fds.svg "Laufzeit FDS")<br><br>
