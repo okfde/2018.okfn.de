@@ -50,19 +50,17 @@ resources: >
 
   **Laufzeit** <br>
 
-  Das Projekt begann im Februar 2018 ​und läuft voraussichtlich bis Dezember 2019.
+  Das Projekt begann im Februar 2018 und läuft voraussichtlich bis Dezember 2019.
   <br><br>
   ![ganzjährige Laufzeit](/assets/images/laufzeit/turingbus.svg "Laufzeit Turing-Bus")
   <br><br><br>
 
   **Finanzierung** <br>
 
-  Das Projekt ist zu 100% finanziert und wird im Jahr 2018 durch das Bundesministerium für Familie, Senioren, Frauen und Jugend (2017/18) und die Bundeszentrale für politische Bildung (2018/19) gefördert.
-
-  Das Budget für 2018 beträgt 824.910,36 Euro.
+  Das Projekt ist zu 100% finanziert und wird im Jahr 2018 durch das Bundesministerium für Bildung und Forschung finanziert. Das Budget 2018 beträgt 43.793€.
   <br><br>
 
-  ![100% Finanzierung, 149.894,26€ Sachekosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/turingbus.svg "Finanzierung Turing-Bus")<br><br>
+  ![100% Finanzierung, 4500,00€ Sachkosten](/assets/images/finanzierung/turingbus.svg "Finanzierung Turing-Bus")<br><br>
 
 
   **Personal** <br>
