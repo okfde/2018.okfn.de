@@ -76,16 +76,98 @@ gemäß der Vereinssatzung in der Beschlussfassung vom 23.08.2012
 <br><br>
 § 9.2 Der Vorstand wird von der Mitgliederversammlung gewählt.
 
-* Andreas Pawelke, Vorsitzender<br>
-* Lucy Chambers, Stellvertretende Vorsitzende<br>
-* Kristina Klein, Kassenwartin<br>
-* Daniel Dietrich, Beisitzer<br>
-* Jana Wichmann, Beisitzerin seit 02.06.2018
-<br>
-* Claudia Schwegmann, Beisitzerin bis 21.11.2018
-* Sören Auer, Beisitzer bis 02.06.2018
-* Friedrich Lindenberg, Beisitzer bis 02.06.2018
-* Christian Heise, Beisitzer bis 02.06.2018
+<div class="team">
+<div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Andreas Pawelke</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/andreaspawelke.jpg"
+           alt="Bild von Andreas Pawelke">
+      <em>Vorsitzender</em>
+      <br>Andreas Pawelke ist seit 2014 im Vorstand der Open Knowledge Foundation Deutschland. Als unabhängiger Forscher und Berater arbeitet er mit internationalen Organisationen an verschiedenen Governance-Initiativen, um neue Wege zu identifizieren, zu entwickeln und zu testen, wie Menschen durch Technologie und digitale Daten gestärkt werden können. Als ehemaliger Direktor des Open Data Lab Jakarta entwarf und leitete er das erste Dateninnovationslabor der Web Foundation, das von einem multidisziplinären Team geleitet wird, das an Forschungs-, Innovations- und politischen Projekten arbeitet, um Daten für das soziale Wohl zu nutzen. Vor seinem Eintritt in die Web Foundation startete er gemeinsam mit dem Bundesministerium des Innern die Open Data Initiative und war als Associate Expert am Förderprogramm Verwaltungsreformen der GIZ Indonesien beteiligt. Er verbrachte auch Zeit damit, als entsandter Experte für die Weltbank und den UN Global Pulse zu arbeiten. Andreas studierte an der Technischen Universität Darmstadt, der Hertie School of Governance und der Eidgenössischen Technischen Hochschule in Spanien.</p>
+</div>
+<div>
+  <p class="team-entry">
+    <strong class="team-entry__name">Lucy Chambers</strong></p>
+  <p>
+    <img class="team-entry__img"
+         src="/assets/images/team/lucychambers.jpg"
+         alt="Bild von Lucy Chambers">
+    <em>Stellvertretende Vorsitzende</em>
+    <br>Die gebürtige Britin Lucy setzt sich in vielen verschiedenen Rollen mit den Themen offenes Wissen und Daten auseinander. Früher hat sie als Product Owner bei eHealth Africa Produkte konzipiert, die datengetriebene Entscheidungen im öffentlichen Gesundheitswesen in West-Afrikanischen Ländern fördern. Davor leitete sie das School of Data (Datenschule)-Programm bei Open Knowledge International und war Co-Autorin des Data Journalism Handbooks. Auf techtohuman.com schreibt sie über die Auswirkungen von Technologie und Daten.</p>
+</div>
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Kristina Klein</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/kristinaklein.jpg"
+           alt="Bild von Kristina Klein">
+      <em>Kassenwartin</em>
+      <br>Kristina ist seit 2017 im Vorstand der Open Knowledge Foundation Deutschland. Davor war sie drei Jahre lang Geschäftsführerin der Organisation. Sie war bei der UNHCR in Myanmar für den Bereich Donor Relations zuständig und hat als Senior Program Manager der Carnegie Endowment for International Peace das Brüsseler Büro stellvertretend geleitet sowie als Programm- und Konferenz-Manager den Bereich Internationale Politik der Körber Stiftung begleitet. Weitere berufliche Stationen waren der Danish Refugee Council in Myanmar und das Wall Street Journal Europe in Berlin.</p>
+  </div>
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Daniel Dietrich</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/danieldietrich.jpg"
+           alt="Bild von Daniel Dietrich">
+      <em>Beisitzer</em>
+      <br>Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Daten und Technologien nutzen können um die Welt ein kleines bisschen besser zu machen. Heute leitet er am Humanistische Institut für Entwicklungszusammenarbeit (www.hivos.org) ein internationales Program zu Open Contracting. Von 2014 bis 2016 arbeitet er als Policy Advisor für das Open Government Program der United Nations UNDESA/DPDAM. Von 2008 bis 2014 arbeitet er für Open Knowledge International an verschiedenen Projekten zu Open Data und Open Government unter anderem im Team der Platform der Europäischen Kommission für Public Sector Information (www.epsiplatform.eu). Er ist Mitgründer der Open Knowledge Foundation Deutschland, die er bis 2015 als Vorstandsvorsitzender leitete. Bis Ende 2011 war er wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT-Branche als Berater und Projektleiter gearbeitet.</p>
+  </div>
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Jana Wichmann</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/janawichmann.jpg"
+           alt="Bild von Jana Wichmann">
+      <em>Beisitzerin seit 02.06.2018</em>
+      <br>Jana Wichmann ist jüngstes Mitglied des Vorstandes der Open Knowledge Foundation. Als Head of Operations & Agility bei der Innovationsberatung zero360 unterstützt sie Organisationen bei der Entwicklung von nutzer-zentrierten und agilen Prozessen. Janas Projekte umfassen u.a. die Begleitung strategischer Transformationsprozesse, die Konzeption und Umsetzung partizipativer Innovationsformate von der Problemanalyse über die Entwicklung neuer Lösungsansätze bis zum Nutzertesting. Zudem bildet sie Interessierte in nutzer-zentrierten und agilen Methoden aus. In ihren eigenen Projekten engagiert sie sich für die Institutionalisierung von Future und Design Thinking in Bildungseinrichtungen. Ihr Studium absolvierte sie in Medienmanagement an der Hochschule Mittweida und in Zukunftsforschung an der FU Berlin.</p>
+  </div>
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Claudia Schwegmann</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/claudiaschwegmann.jpg"
+           alt="Bild von Claudia Schwegmann">
+      <em>Beisitzerin bis 21.11.2018</em>
+      <br>Claudia ist Vorstandsmitglied der Open Knowledge Foundation und Gründerin des OpenAid Projektes. Sie betreibt seit 2009 Lobbyarbeit für offene Daten in der Entwicklungszusammenarbeit, insbesondere für die International Aid Transparency Initiative. Claudia Schwegmann ist Politologin, Theologin und Organisationsberaterin und arbeitet seit 1996 in der Entwicklungszusammenarbeit, vor allem im Bereich Evaluation. Ihr Kernanliegen ist wirksame Entwicklungszusammenarbeit auf der Basis von Transparenz, Rechenschaftslegung, Bürgerbeteiligung und die Nutzung des Potentials digitaler Tools zur Erreichung dieser Ziele (open data, social media, crowdsourcing). Claudia Schwegmann arbeitet als freie Beraterin und engagiert sich ehrenamtlich in der Technical Advisory Groups von IATI, in der Technical Advisory Group des Land Portals und bei Transparency International.</p>
+  </div>
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Sören Auer</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/soerenauer.jpg"
+           alt="Bild von Sören Auer">
+      <em>Beisitzer bis 02.06.2018</em>
+      <br>Prof. Dr. Sören Auer leitet den Lehrstuhl Enterprise Information Systems an der Universität Bonn und eine Arbeitsgruppe am Fraunhofer Institut für Analysis und Informationssysteme (IAIS). Er ist Begründer mehrerer international beachteter Forschungs- und Entwicklungsvorhaben wie z.B. des Wikipedia-Semantifizierungs-Projektes DBpedia, der OpenCourseWare-Plattform SlideWiki.org oder des Social Semantic Web Toolkits OntoWiki. Dr. Auer ist Autor von über 100 referierten wissenschaftlichen Publikationen und Organisator vieler wissenschaftlicher Veranstaltungen. Seit 2010 leitet er das im EU RP7 geförderte Forschungsprojekt LOD2 – „Creating Knowledge out of Interlinked Data“. Er arbeitet als Experte für Unternehmen, die Europäische Kommission, das W3C und ist Mitglied des Advisory-Boards der Open Knowledge Foundation.</p>
+  </div>
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Friedrich Lindenberg</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/friedrichlindenberg.jpg"
+           alt="Bild von Friedrich Lindenberg">
+      <em>Beisitzer bis 02.06.2018</em>
+      <br>Friedrich Lindenberg unterstützt Journalisten bei der Auswertung öffentlicher Informationen und programmiert Software zur investigativen Datenanalyse, derzeit bei der Organisation OCCRP. Als Stipendiat der Knight-Stiftung arbeitete er zuletzt für ein Netzwerk von Investigativmedien im südlichen Afrika, davor bei Spiegel Online. Zuvor unterstützte er als Entwickler bei der britischen Open Knowledge Foundation den Aufbau des OpenSpending-Projektes.</p>
+  </div>
+  <div>
+    <p class="team-entry">
+      <strong class="team-entry__name">Christian Heise</strong></p>
+    <p>
+      <img class="team-entry__img"
+           src="/assets/images/team/christianheise.jpg"
+           alt="Bild von Christian Heise">
+      <em>Beisitzer bis 02.06.2018</em>
+      <br>Dr. Christian Heise ist Vorsitzender der Open Knowledge Foundation Deutschland. Er ist Politologe und hat zum Thema Open Science am Centre for Digital Cultures an der Leuphana Universität Lüneburg promoviert. Derzeit ist er Mitglied des Google Digital News Initiative (DNI) Fund Teams. Zuvor war er als Manager bei der Deutschen Presse Agentur und bei ZEIT ONLINE tätig. Neben seiner ehrenamtlichen Tätigkeit im Vorstand der Open Knowledge Foundation ist er auch Gründungs- und Vorstandsmitglied im Förderverein für freie Netzwerke e.V. (freifunk.net).</p>
+  </div>
+</div>
 
 <br>
 
