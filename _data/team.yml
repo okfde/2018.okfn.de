@@ -4,6 +4,7 @@
     Adriana ist Teil des Prototype Fund-Teams und kümmert sich um das Programm-Management. Zuvor hat sie Politikwissenschaft und European Public Policy and Administration in Frankfurt am Main und Maastricht studiert. Sie interessiert sich sehr für demokratische Innovationen und die Frage, wie Partizipation und gesellschaftlicher Austausch besser funktionieren könnten. 2016 hat Adriana das Projekt wepublic gestartet, das digitale Kommunikation zwischen Bürgern und Politikern verbessern soll.
 
 - name: ​Andrej Sandorf 
+  img: unknown
   position: Entwickler DIGIWHIST
   text: >
     Andrej ist Softwareentwickler mit Schwerpunkt auf Web- & Serveranwendungen sowie Datenvisualisierungen. Er arbeitete ein Jahrzehnt als Projektleiter und freier Entwickler von Software für öffentliche Verwaltung, große Industriebetriebe, Krankenhäuser und Bibliotheken. Bevor er zur Open Knowledge Foundation Deutschland kam, war er ein Mitglied der ehemaligen Datenjournalismus- und Aktivistengruppe OpenDataCity.
@@ -24,6 +25,7 @@
     Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalterposition: innen werden.
 
 - name: Cin Pietschmann
+  img: unknown
   position: Jugend hackt Studentische Mitarbeiterin für Mentor*innen-Management und Diversitätsmaßnahmen
   text: >
     Cin ist bei Jugend hackt im Rahmen der Städteevents für das Ehrenamtsmanagement zuständig und kümmert sich dabei um die Helfer*innen und Mentor*innen.
@@ -56,11 +58,13 @@
     Fiona ist seit 2014 dabei und betreut und berät als Community Organizerin im Projekt Code for Germany über 20 Open Knowledge Labs in Deutschland. Nebenbei studiert sie Techniksoziologie an der Technischen Universität Berlin. Privat engagiert sie sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung, im Chaos Computer Club und interessiert sich für Gleichberechtigung in der IT. 2016 leitete Fiona das Projekt „Digital Refugee Labs“ im Rahmen von Code for Germany.
 
 - name: Giulia Norberti
+  img: unknown
   position: Buchhaltung
   text: >
     Giulia unterstützt die Geschäftsführung in Sachen Buchhaltung, Finanzen, Abrechnungen und allgemeine Chaosbewältigung. 
 
 - name: Gregor Gilka 
+  img: unknown
   position: Administration
   text: >
     Gregor unterstützt uns und unsere Projekte als Administrator. Er ist Ingenieur und hat nach einer Forschungsphase an der TU Berlin und in Hong Kong an einem Projekt gearbeitet welches sich mit der numerischen Modellierung von Strömungen beschäftigt.
@@ -81,6 +85,7 @@
     Jessica gehört zum Team des Prototype Fund. Sie kümmert sich um Kommunikation und arbeitet an der Weiterentwicklung des Projekts mit. Jessica hat zuvor mehrere Jahre lang als Journalistin gearbeitet. Sie hat für überregionale Medien in Deutschland über Digitalisierung, Netzpolitik und Netzaktivismus berichtet. Sie setzt sich dafür ein, dass mehr Menschen die Digitalisierung mitgestalten können.
 
 - name: Jenny Gebske
+  img: unknown
   position: Entwicklerin 2030-Watch
   text: >
     Jenny ist Entwicklerin bei 2030-Watch.
@@ -219,7 +224,7 @@
     Stefan Wehrmeyer engagiert sich seit 2009 für Open Data. Im Jahr 2011 startete er das Informationsfreiheitsportal FragDenStaat.de.
 
 - name: Tanja Zagel 
-  img: tanjazagel 
+  img: unknown
   text: >
     Tanja war 2017 und 2018 Projektleitung bei Jugend hackt. Zuvor hat sie eine deutschlandweite Initiative für frühe MINT-Bildung mit aufgebaut und in verschiedenen IT-Unternehmen gearbeitet. Sie ist überzeugt, dass digitale Technologien gut für die Gesellschaft sind - wenn wir sie gut machen. Deshalb arbeitet sie sehr gern an Jugend hackt, einem Projekt, das junge Menschen ermutigt, eine positive Vision für die digitale Zukunft zu entwickeln.
 
@@ -229,6 +234,7 @@
     Betreut und evaluiert die Förderprojekte des Prototype Funds, begleitet deren Fortschritte und steht insbesondere in technologischen Fragen dem Prototype Fund-Team wie auch den geförderten CoderInnen zur Seite. Thomas ist Generalist, Autodidakt und war zuletzt Systemadministrator, Entwickler und Development Operator.
 
 - name: Torben Reichert
+  img: unknown
   position: Entwickler Jugend hackt
   text: >
     Torben war 2018 als Entwickler für Jugend hackt tätig.
